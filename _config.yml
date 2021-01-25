@@ -1,0 +1,60 @@
+# Site wide configuration
+
+title: CNA
+description: "Cornwallis Neighborhood Association"
+logo: 120x120.gif
+teaser: 400x250.gif
+locale: en_US
+url: "https://fcassirer.github.io/cw_website/index.html"
+# Use 'bundle exec jekyll serve --host 192.168.1.xxx --baseurl ""' to serve locally
+baseurl: "https://fcassirer.github.io/cw_website/"
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+
+
+# Octopress configuration
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: article
+page_layout: article
+
+# Local variables
+
+# Basic grid styles, 1, 2, or 3
+grid_styles:
+  - grid_7
+  - grid_4
+  - grid_1
+
+# Format titles with titlecase?
+titlecase: true
+
+
+# Site owner
+owner:
+  name: Cornwallis Neighborhood Assocation
+  web: http://fcassirer.github.io/cw_website
+  email: cornwallis_na@gmail.com
+  twitter:
+  bio: "Bio"
+  avatar: basic-logo.jpg # 160x160 px image for author byline
+  google:
+  disqus-shortname:
+
+
+exclude: [".#*","lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
