@@ -1,5 +1,6 @@
 ---
 layout: content_page
+topnav: about
 permalink: /aboutus
 sidemenu:
   title: Other places to click

@@ -44,7 +44,6 @@ grid_styles:
 # Format titles with titlecase?
 titlecase: true
 
-
 # Site owner
 owner:
   name: Cornwallis Neighborhood Assocation

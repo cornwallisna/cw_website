@@ -1,5 +1,6 @@
 ---
 layout: content_page
+topnav: news
 permalink: /news
 banner: All the news ...
 image:
@@ -15,3 +16,8 @@ image:
 
 
 ### You guessed it, even smaller
+
+
+## News Letter Archive
+
+* [2017-02](archive/Cornwallis - FEB 2017 newsletter proof.pdf)

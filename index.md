@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /
+topnav: home
 image:
   feature: "cornwallisareamap.png"
 button1:
@@ -31,6 +32,4 @@ topics:
     content: just filling up the empty space, this says nothing ;-)
 ---
 
-<h2>
-This is some additional stuff to say
-</h2>
+## This is some additional stuff to say

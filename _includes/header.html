@@ -1,46 +1,53 @@
-    <header class="wrapper clearfix">
+<!--                0   1     2         3        4     5    6     7    8        9 -->
+{% assign nav = "home,news,community,calendar,about,blogs,links,block,holiday,membership"|split: "," %}
+{% assign navhigh = ""| split: ',' %}
+{% for c in (0..nav.size) %}
+{%  if page.topnav contains nav[c]  %}
+{%    assign navhigh = navhigh | push: 'class="current"' %}
+{%  else %}
+{%    assign navhigh = navhigh | push: "" %}
+{%  endif %}
+{% endfor  %}
+
+<header class="wrapper clearfix">
 
         <div id="banner">
-        	<div id="logo"><a href="index.html"><img src="images/cornwallis_logo.png" width="50%" alt="logo"></a></div>
+        	<div id="logo"><a href="index.html"><img src="{{site.baseurl}}/images/cornwallis_logo.png" width="50%" alt="logo"></a></div>
         </div>
 
         <!-- main navigation -->
         <nav id="topnav" role="navigation">
           <div class="menu-toggle">Menu</div>
           <ul class="srt-menu" id="menu-main-navigation">
-              <li class="current"><a href="index.html">Home page</a></li>
-              <li><a href="news.html">News</a></li>
-              <li><a href="#">Our Community</a>
+              <li {{ navhigh[0] }}><a href="/index.html">Home page</a></li>
+              <li {{ navhigh[1] }}><a href="/news.html">News</a></li>
+              <li {{ navhigh[2] }}><a href="#">Our Community</a>
                   <ul>
-                      <li>
+                      <li {{navhigh[9]}}>
                           <a href="membership.html">Membership</a>
                       </li>
-                      <li class="current">
+                      <li {{navhigh[3]}}>
                           <a href="#">Calendar</a>
                           <ul>
                               <li><a href="#">menu item 3.2.1</a></li>
-                              <li><a href="#">menu item 3.2.2 with longer link name</a></li>
-                              <li><a href="#">menu item 3.2.3</a></li>
-                              <li><a href="#">menu item 3.2.4</a></li>
-                              <li><a href="#">menu item 3.2.5</a></li>
                           </ul>
                       </li>
-                      <li><a href="#">Block Party</a></li>
-                      <li><a href="#">Holiday Party</a></li>
+                      <li {{navhigh[7]}}><a href="#">Block Party</a></li>
+                      <li {{navhigh[8]}}><a href="#">Holiday Party</a></li>
+                      <li {{navhigh[5]}}><a href="/blogs">Blogs</a></li>
                   </ul>
               </li>
-              <li>
+              <li {{ navhigh[4] }}>
                   <a href="#">About Us</a>
                   <ul>
-                      <li><a href="aboutus.html#board">Board</a></li>
-                      <li><a href="aboutus.html#documents">Documents</a></li>
-                      <li><a href="aboutus.html#presidents">Presidents Message</a></li>
+                      <li><a href="/aboutus.html#board">Board</a></li>
+                      <li><a href="/aboutus.html#documents">Documents</a></li>
+                      <li><a href="/aboutus.html#presidents">Presidents Message</a></li>
                   </ul>
               </li>
-              <li>
+              <li {{ navhigh[6] }} >
                   <a href="links.html">Useful links</a>
               </li>
           </ul>
 		</nav><!-- end main navigation -->
-
     </header><!-- end header -->
