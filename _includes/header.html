@@ -1,5 +1,5 @@
-<!--                0   1     2         3        4     5    6     7    8        9 -->
-{% assign nav = "home,news,community,calendar,about,blogs,links,block,holiday,membership"|split: "," %}
+<!--                0   1     2         3        4     5    6     7    8        9        10     11        12           13-->
+{% assign nav = "home,news,community,calendar,about,blogs,links,block,holiday,membership,mail,presidnet,vicepresident,photos"|split: "," %}
 {% assign navhigh = ""| split: ',' %}
 {% for c in (0..nav.size) %}
 {%  if page.topnav contains nav[c]  %}
@@ -27,22 +27,27 @@
                           <a href="{{site.baseurl}}/membership.html">Membership</a>
                       </li>
                       <li {{navhigh[3]}}>
-                          <a href="#">Calendar</a>
+                          <a href="{{site.baseurl}}/calendar.html">Calendar</a>
+                      </li>
+                      <!--
                           <ul>
                               <li><a href="#">menu item 3.2.1</a></li>
                           </ul>
-                      </li>
+                       -->
                       <li {{navhigh[7]}}><a href="#">Block Party</a></li>
                       <li {{navhigh[8]}}><a href="#">Holiday Party</a></li>
                       <li {{navhigh[5]}}><a href="{{site.baseurl}}/blogs">Blogs</a></li>
                   </ul>
               </li>
+              <li {{navhigh[13]}}><a href="{{site.baseurl}}/photos.html">Photos</a></li>
               <li {{ navhigh[4] }}>
                   <a href="#">About Us</a>
                   <ul>
                       <li><a href="{{site.baseurl}}/aboutus.html#board">Board</a></li>
                       <li><a href="{{site.baseurl}}/aboutus.html#documents">Documents</a></li>
-                      <li><a href="{{site.baseurl}}/aboutus.html#presidents">Presidents Message</a></li>
+                      <li><a href="{{site.baseurl}}/presidents.html">Presidents Message</a></li>
+                      <li><a href="{{site.baseurl}}/vicepresidents.html">Vice Presidents Message</a></li>
+                      <li><a href="mailto:cornwallis_na@gmail.com">Send us an email</a></li>
                   </ul>
               </li>
               <li {{ navhigh[6] }} >

@@ -8,7 +8,14 @@ image:
 ---
 
 
-# Wow, this is something
+# Messages from the board
+
+## [President](presidents.html)
+
+## [Vice Presidents](vicepresidents.html)
+
+
+# Wow, this is something else interesting ...
 
 
 

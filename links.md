@@ -1,16 +1,16 @@
 ---
 layout: content_page
 topnav: links
-banner: All the links that we know about
+banner: All the links we thought to put down
 permalink: /links
 ---
 
 # Cornwallis Neighborhood Assocation
-[Email](mailto:cornwallis_na@gmail.com)
+## Email us at [cornwallis_na@gmail.com](mailto:cornwallis_na@gmail.com)
 
 # Community Information
 ## STATE OF FLORIDA
-[*Official Web Site](https://www.myflorida.com)
+* [*Official Web Site](https://www.myflorida.com)
 
 ### LEE COUNTY
 * [*Official Web Site](http://www.leegov.com)

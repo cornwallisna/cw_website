@@ -1,38 +1,6 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-<title>Cornwallis Neighborhood Association</title>
-<meta name="description" content="Everything you always wanted to know, but there wasn't a website ... till now">
-<meta name="keywords" content="">
-
-<!-- Mobile viewport -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-
-<link rel="shortcut icon" href="images/favicon.ico"  type="image/x-icon">
-
-<!-- CSS-->
-<!-- Google web fonts. You can get your own bundle at http://www.google.com/fonts. Don't forget to update the CSS accordingly!-->
-<link href='http://fonts.googleapis.com/css?family=Droid+Serif|Ubuntu' rel='stylesheet' type='text/css'>
-
-<link rel="stylesheet" href="{{site.baseurl}}/css/normalize.css">
-<link rel="stylesheet" href="{{site.baseurl}}/js/flexslider/flexslider.css">
-<link rel="stylesheet" href="{{site.baseurl}}/css/basic-style.css">
-
-<!-- end CSS-->
-
-<!-- JS-->
-<script src="{{site.baseurl}}/js/libs/modernizr-2.6.2.min.js"></script>
-
-<!-- end JS-->
-
-</head>
-
+{% include head.html %}
 <body id="home">
 
 <!-- header area -->
@@ -55,7 +23,7 @@
   <img src="images/{{page.image.feature}}"></img>
   {% endif %}
 <!-- content area -->
-	<section id="content">
+<section id="content" >
 {{ content }}
 </section><!-- #end content area -->
 
