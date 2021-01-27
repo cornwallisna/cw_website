@@ -10,14 +10,14 @@ permalink: /links
 
 # Community Information
 ## STATE OF FLORIDA
-* [*Official Web Site](https://www.myflorida.com)
+* [Official Web Site](https://www.myflorida.com)
 
 ### LEE COUNTY
-* [*Official Web Site](http://www.leegov.com)
+* [Official Web Site](http://www.leegov.com)
 * Main telephone# (239) 533-2111
 
 #### CAPE CORAL
-* [*Official Web Site](https://www.capecoral.net)
+* [Official Web Site](https://www.capecoral.net)
 * Main telephone# (239) 574-0401
 
 #### PUBLIC SAFETY
