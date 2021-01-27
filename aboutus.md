@@ -13,13 +13,6 @@ sidemenu:
 ---
 
 
-<a name="presidents"></a>
-
-# Presidents Message
-
-This is something insightful and inspiring that would be said
-
-
 <a name="board"></a>
 # Board stuff
 
