@@ -5,11 +5,11 @@ topnav: home
 image:
   feature: "cornwallisareamap.png"
 button1:
-  text: "Click Me"
-  link: "#"
+  text: "News"
+  link: "news.html"
 button2:
-  text: "Don't click me"
-  link: "#"
+  text: "Signup!"
+  link: "membership.html"
 slides:
   - img: https://lh3.googleusercontent.com/HOhe2siVn2ovfsH-mzxIoo9LavYHPvyKFRhFSga2vh1V_MNto-NoFz02oXG5plITUAwmlQ9EqUdQ3cU7xq4MIubQJkPS9wGEGryQfy7JYM7lg8OXsoGzqswljUQs2vDKmynCb6ce23U=w2400
     caption: First caption
@@ -32,4 +32,10 @@ topics:
     content: just filling up the empty space, this says nothing ;-)
 ---
 
-## This is some additional stuff to say
+## Garage Sale!!!!
+
+Our Annual Cornwallis Neighborhood Garage Sale will take place February 19-20, 2021.  To get your permit please visit [http://garagesale.capecoral.net](http://garagesale.capecoral.net) and don't forget to print it.  It is free and must be displayed.  So start cleaning out those closets and garages.  We will be advertising the garage sale in The Breeze, Nextdoor Cornwallis, The Marketplace, Offer Up and Craig's List.  Good Luck!
+
+## Block Party
+
+Our Annual Block Party will take place on March 6th with a rain out date of March 7th.  It will take place from the corner of 2803 SE 22nd place to 2215 SE 28th Terrace.  If you would like to join us please RSVP to Karla Martinez at  [karladmartinez@yahoo.com](mailto:karladmartinez@yahoo.com) or 919-830-8734.  We ask that everyone bring a dish and let Karla know.  Please do not forget your chairs.  The association will provide the meat along with paper products, and non-alcoholic beverages.  You can BYOB.  If you would like to help set up (10:00am - 11:00am) or tear down (5:00pm - 6:00pm), please notify Karla.  As is the norm we ask that you wear your masks and practice social distancing. Hope to see everyone there.
