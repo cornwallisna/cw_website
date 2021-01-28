@@ -1,5 +1,5 @@
-<!--                0   1     2         3        4     5    6     7    8        9        10     11        12           13-->
-{% assign nav = "home,news,community,calendar,about,blogs,links,block,holiday,membership,mail,presidnet,vicepresident,photos"|split: "," %}
+<!--                0   1     2         3        4     5    6     7    8        9        10     11        12           13      14-->
+{% assign nav = "home,news,community,calendar,about,blogs,links,block,holiday,membership,mail,president,vicepresident,photos,sponsors"|split: "," %}
 {% assign navhigh = ""| split: ',' %}
 {% for c in (0..nav.size) %}
 {%  if page.topnav contains nav[c]  %}
@@ -34,9 +34,7 @@
                               <li><a href="#">menu item 3.2.1</a></li>
                           </ul>
                        -->
-                      <li {{navhigh[7]}}><a href="#">Block Party</a></li>
-                      <li {{navhigh[8]}}><a href="#">Holiday Party</a></li>
-                      <li {{navhigh[5]}}><a href="{{site.baseurl}}/blogs">Blogs</a></li>
+                      <li {{navhigh[5]}}><a href="{{site.baseurl}}/blogs.html">Blogs</a></li>
                   </ul>
               </li>
               <li {{navhigh[13]}}><a href="{{site.baseurl}}/photos.html">Photos</a></li>
@@ -52,6 +50,9 @@
               </li>
               <li {{ navhigh[6] }} >
                   <a href="{{site.baseurl}}links.html">Useful links</a>
+              </li>
+              <li {{ navhigh[14] }} >
+                  <a href="{{site.baseurl}}sponsors.html">Sponsors</a>
               </li>
           </ul>
 		</nav><!-- end main navigation -->

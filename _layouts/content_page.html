@@ -18,13 +18,23 @@
 
 <!-- main content area -->
 <div class="wrapper" id="main">
-
   {% if page.image.feature %}
   <img src="images/{{page.image.feature}}"></img>
   {% endif %}
 <!-- content area -->
 <section id="content" >
-{{ content }}
+    <div class="row">
+      {{ content }}
+    </div>
+    {% if page.sponsors != "off" %}
+    <div class="row">
+      <div class="grid_5">
+        {% include sponsors.html %}
+      </div>
+    </div>
+    {% endif %}
+   </div>
+  <div
 </section><!-- #end content area -->
 
 

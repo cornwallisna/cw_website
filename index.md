@@ -21,7 +21,7 @@ grid_style: 1  # 1 for small, 2 for medium, 3 for large
 topics:
   - title: Neighborhood Watch
     img: "images/speeding.jpg"
-    content: "Speeders, Vandalism, & Non-emergency police reports: 547-3223.  Code enforcement issues, Citizens Action Center, broken sprinklers and mowing issues: 311"
+    content: "Speeders, Vandalism, & Non-emergency police reports: <a href='tel:239-547-3223'>239-547-3223</a>.  <p> Code enforcement issues, Citizens Action Center, broken sprinklers and mowing issues: <a href='tel:311'>311</a>"
   - title: Topic 2
     img: images/basic-pic2.jpg
     content: Something important, less important that topic 1, but noteworthy. Something important, less important that topic 1, but noteworthy.

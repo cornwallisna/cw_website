@@ -3,6 +3,7 @@ layout: content_page
 topnav: links
 banner: All the links we thought to put down
 permalink: /links
+sponsors: "off"
 ---
 
 # Cornwallis Neighborhood Assocation

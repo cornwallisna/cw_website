@@ -17,7 +17,7 @@
             <img src="images/{{page.image.feature}}" />
             <p><a href="{{page.button1.link}}" class="buttonlink">{{page.button1.text}}</a> <a href="{{page.button2.link}}" class="buttonlink">{{page.button2.text}}</a></p>
         </div>
-        <div class="grid_7 rightfloat">
+        <div class="grid_7">
               <div class="flexslider">
                 <ul class="slides">
                   {% for slide in page.slides %}
@@ -38,20 +38,25 @@
 
 
 <!-- content area -->
-<section id="content" class="wide-content" class="greenelement vertical-padding">
-      <div class="row">
+<section id="content">
+  <div class="row">
+    <div class="grid_7">
       {{ content }}
+    </div>
+    <div class="grid_5">
+      {% include sponsors.html %}
+    </div>
+   </div>
+   <div class="row">
+    {% for topic in page.topics %}
+      <div class="{{ site.grid_styles[page.grid_style]}}">
+          <h1 class="first-header">{{ topic.title }} </h1>
+          <img src="{{ topic.img }}" />
+          <p>{{topic.content}}</p>
       </div>
-      <div class="row">
-      {% for topic in page.topics %}
-        <div class="{{ site.grid_styles[page.grid_style]}}">
-        	<h1 class="first-header">{{ topic.title }} </h1>
-            <img src="{{ topic.img }}" />
-            <p>{{topic.content}}</p>
-        </div>
-      {% endfor %}
-	  </div><!-- end row -->
-	</section><!-- end content area -->
+    {% endfor %}
+   </div><!-- end row -->
+</section><!-- end content area -->
 
 
   </div><!-- #end div #main .wrapper -->
