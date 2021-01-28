@@ -19,9 +19,9 @@ slides:
     caption: Third caption
 grid_style: 1  # 1 for small, 2 for medium, 3 for large
 topics:
-  - title: Topic 1
-    img: images/basic-pic1.jpg
-    content: Something interesting to say for topic 1 below a picture
+  - title: Neighborhood Watch
+    img: "images/speeding.jpg"
+    content: "Speeders, Vandalism, & Non-emergency police reports: 547-3223.  Code enforcement issues, Citizens Action Center, broken sprinklers and mowing issues: 311"
   - title: Topic 2
     img: images/basic-pic2.jpg
     content: Something important, less important that topic 1, but noteworthy. Something important, less important that topic 1, but noteworthy.
