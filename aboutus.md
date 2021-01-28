@@ -14,7 +14,36 @@ sidemenu:
 
 
 <a name="board"></a>
-# Board stuff
+# The Board
+
+## PRESIDENT
+
+|---------|
+|RON JENORIKI|
+|2837 SE 19th Ave|
+|[732-766-4694](tel:732-766-4694)|
+
+## VICE PRESIDENT
+
+|---------|
+|SANDRA WALL|
+|3021 SE 18th Pl|
+|[239-839-8466](tel:239-839-8466)|
+
+## SECRETARY INTERIM
+
+|---------|
+|KARLA MARTINEZ|
+|2801 SE 22nd Ave|
+|[919-830-8734](tel:919-830-8734)|
+
+## TREASURER
+
+|---------|
+|WENDELL CHRISTOFF|
+|2801 SE 19th Ave|
+|[616-581-1104](tel:616-581-1104)|
+
 
 <a name="documents"></a>
 # Document stuff
