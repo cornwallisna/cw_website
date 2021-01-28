@@ -11,6 +11,8 @@ button2:
   text: "Signup!"
   link: "membership.html"
 slides:
+  - img: images/cornwallis-thumbnail.jpg
+    caption: Cornwallis Neighborhood
   - img: https://lh3.googleusercontent.com/HOhe2siVn2ovfsH-mzxIoo9LavYHPvyKFRhFSga2vh1V_MNto-NoFz02oXG5plITUAwmlQ9EqUdQ3cU7xq4MIubQJkPS9wGEGryQfy7JYM7lg8OXsoGzqswljUQs2vDKmynCb6ce23U=w2400
     caption: First caption
   - img: https://lh3.googleusercontent.com/pJzZJ279SpDN72CnFXzLRHJlWL_5fmlA0MC28UEPr-jHUbvKtH2zlpWyb5rstYA2woHhjDgB2OyvshqQl11OmpPPtCyi1NSxtGl26Vq5gQOSYbu3xgtMg7rN8Bi6de1siAiYLHb1fsw=w2400

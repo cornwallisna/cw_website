@@ -7,7 +7,6 @@ sponsors: "off"
 ---
 
 
-
 {% for slide in site.data.sponsors.slides %}
 
 <h2> <a href="{{slide.link}}">{{slide.name}}</a> </h2>
