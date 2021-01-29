@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for the CNA Website. Note: THIS IS A PUBLIC FORUM, PLEASE DO NOT INCLUDE ANY PERSONAL INFORMATION OR CNA SPECIFIC BUSINESS.
+about: 'Suggest an idea for the CNA Website. Note: THIS IS A PUBLIC FORUM, PLEASE DO NOT INCLUDE ANY PERSONAL INFORMATION OR CNA SPECIFIC BUSINESS.'
 title: ''
 labels: ''
 assignees: ''

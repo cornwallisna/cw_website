@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve the CNA Website.  Note: THIS IS A PUBLIC FORUM, PLEASE DO NOT INCLUDE ANY PERSONAL INFORMATION OR CNA SPECIFIC BUSINESS.
+about: 'Create a report to help us improve the CNA Website.  Note: THIS IS A PUBLIC FORUM, PLEASE DO NOT INCLUDE ANY PERSONAL INFORMATION OR CNA SPECIFIC BUSINESS.'
 title: ''
 labels: ''
 assignees: ''
