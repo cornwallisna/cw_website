@@ -1,14 +1,11 @@
 ---
 name: Feature request
 about: Suggest an idea for the CNA Website
-title: ''
+title: 'THIS IS A PUBLIC FORUM, PLEASE DO NOT INCLUDE ANY PERSONAL INFORMATION OR CNA SPECIFIC BUSINESS.'
 labels: ''
 assignees: ''
 
 ---
-
-* THIS IS A PUBLIC FORUM, PLEASE DO NOT INCLUDE ANY PERSONAL INFORMATION OR CNA SPECIFIC BUSINESS.
-
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
