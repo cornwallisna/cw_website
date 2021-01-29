@@ -3,15 +3,27 @@ slides:
     caption: Contact <a href="mailto:cornwallis_na@gmail.com">cornwallis_na@gmail.com</a> to get your advertisement here
     name: CNA
     link: mailto:cornwallis_na@gmail.com
-  - img: https://lh3.googleusercontent.com/HOhe2siVn2ovfsH-mzxIoo9LavYHPvyKFRhFSga2vh1V_MNto-NoFz02oXG5plITUAwmlQ9EqUdQ3cU7xq4MIubQJkPS9wGEGryQfy7JYM7lg8OXsoGzqswljUQs2vDKmynCb6ce23U=w2400
-    caption: First sponsor First sponsor First sponsor First sponsor First sponsor First sponsor First sponsor First sponsor First sponsor First sponsor First sponsor First sponsor First sponsor First sponsor First sponsor First sponsor First sponsor First sponsor First sponsor First sponsor
-    link: https://sponsor1.com
-    name: sponsor1
-  - img: https://lh3.googleusercontent.com/pJzZJ279SpDN72CnFXzLRHJlWL_5fmlA0MC28UEPr-jHUbvKtH2zlpWyb5rstYA2woHhjDgB2OyvshqQl11OmpPPtCyi1NSxtGl26Vq5gQOSYbu3xgtMg7rN8Bi6de1siAiYLHb1fsw=w2400
-    caption: Second sponsor
-    link: https://sponsor2.com
-    name: sponsor2
-  - img: https://lh3.googleusercontent.com/C2OMZwOF8YKSh9kwUXjiqAsUccMBQ-84WrrbtB5l9nrk79Vz3Ah9qCY6Kk67NOSv9iygqsln7QaMTfmyQEyLGCFxmR7d68n6cIY89hxXMbDxnyDcQW-MM725O4Ci4VE5SVHoYyMeUaU=w2400
-    caption: Third sponsor
-    link: https://sponsor3.com
-    name: sponsor3
+  - img: images/ads/DesignsToAT.png
+    caption: Designs To A "T", <a href="tel:239-549-5995">239-549-5995</a>
+    link: mailto:designs2aT@comcast.net
+    name: DesignsToAT
+  - img: images/ads/AutoAir.png
+    caption: AutoAir & Electric, <a href="tel:239-936-1992">239-936-1992</a>
+    link: tel:239-936-1992
+    name: AutoAir
+  - img: images/ads/ReMax.png
+    caption: Kelsey Burkholder @ ReMax, <a href="tel:352-551-5225">352-551-5225</a>
+    link: mailto:kelseyburkholder1@gmail.com
+    name: ReMax
+  - img: images/ads/QualityPest.png
+    caption: Donald Burns, Quality Pest Control, <a href="tel:239-540-2359">239-540-2359</a>
+    link: tel:239-540-2359
+    name: Quality Pest Control
+  - img: images/ads/Turbo.png
+    caption: Turbo Refridgeration & Air Conditioning, <a href="tel:239-561-1116">239-561-1116</a>
+    link: mailto:brian@turbo.comcastbiz.net
+    name: Turbo Refridgeration
+  - img: images/ads/GermanQualityPainting.png
+    caption: German Quality Painting, <a href="tel:239-233-7200"></a>
+    link: https://www.germanqualitypainting.com
+    name: German Quality Painting
