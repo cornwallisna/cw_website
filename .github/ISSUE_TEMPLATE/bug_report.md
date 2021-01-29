@@ -1,11 +1,13 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help us improve the CNA Website
 title: ''
 labels: ''
 assignees: ''
 
 ---
+
+* THIS IS A PUBLIC FORUM, PLEASE DO NOT INCLUDE ANY PERSONAL INFORMATION OR CNA SPECIFIC BUSINESS.
 
 **Describe the bug**
 A clear and concise description of what the bug is.

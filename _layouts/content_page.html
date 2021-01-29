@@ -17,25 +17,39 @@
 
 
 <!-- main content area -->
-<div class="wrapper" id="main">
-  {% if page.image.feature %}
-  <img src="images/{{page.image.feature}}"></img>
-  {% endif %}
-<!-- content area -->
-<section id="content" >
-    <div class="row">
-      {{ content }}
-    </div>
-    {% if page.sponsors != "off" %}
-    <div class="row" style="padding:50px 50px;">
-      <div class="grid_5">
-        {% include sponsors.html %}
-      </div>
-    </div>
+  <div class="wrapper" id="main">
+    {% if page.image.feature %}
+    <img src="images/{{page.image.feature}}"></img>
     {% endif %}
-   </div>
-  <div
-</section><!-- #end content area -->
+<!-- content area -->
+    <section id="content" >
+      <!-- sponsors: {{ page.sponsors }} -->
+      {% if page.sponsors == "bottom" %}
+      <div class="row">
+        {{ content }}
+      </div>
+      <div class="row" style="padding:50px 50px;">
+        <div class="grid_5">
+          {% include sponsors.html %}
+        </div>
+      </div>
+      {% endif %}
+      {% if page.sponsors == "top" %}
+      <div class="row" style="padding:50px 50px;">
+        <div class="grid_5">
+          {% include sponsors.html %}
+        </div>
+      </div>
+      <div class="row">
+        {{ content }}
+      </div>
+      {% endif %}
+      {% if page.sponsors == "off" %}
+      <div class="row">
+        {{ content }}
+      </div>
+      {% endif %}
+    </section><!-- #end content area -->
 
 
     <!-- sidebar -->

@@ -1,8 +1,4 @@
 slides:
-  - img: images/your_ad_here.jpg
-    caption: Contact <a href="mailto:cornwallis_na@gmail.com">cornwallis_na@gmail.com</a> to get your advertisement here
-    name: CNA
-    link: mailto:cornwallis_na@gmail.com
   - img: images/ads/DesignsToAT.png
     caption: Designs To A "T", <a href="tel:239-549-5995">239-549-5995</a>
     link: mailto:designs2aT@comcast.net
@@ -27,3 +23,7 @@ slides:
     caption: German Quality Painting, <a href="tel:239-233-7200"></a>
     link: https://www.germanqualitypainting.com
     name: German Quality Painting
+  - img: images/your_ad_here.jpg
+    caption: Contact <a href="mailto:cornwallis_na@gmail.com">cornwallis_na@gmail.com</a> to get your advertisement here
+    name: CNA
+    link: mailto:cornwallis_na@gmail.com

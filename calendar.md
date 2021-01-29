@@ -2,6 +2,7 @@
 layout: content_page
 topnav: calendar
 permalink: /calendar
+sponsors: "top"
 ---
 
 # CNA Shared Calendar

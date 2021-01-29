@@ -23,6 +23,15 @@ plugins:
   - jekyll-gist
 
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      sponsors: "bottom"
+
+
 # Octopress configuration
 
 # Default extensions
