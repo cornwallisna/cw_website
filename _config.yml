@@ -7,7 +7,7 @@ teaser: 400x250.gif
 locale: en_US
 url: "https://fcassirer.github.io/cw_website/index.html"
 # Use 'bundle exec jekyll serve --host 192.168.1.xxx --baseurl ""' to serve locally
-baseurl: "https://fcassirer.github.io/cw_website"
+baseurl: "/cw_website"
 
 # Jekyll configuration
 
