@@ -15,7 +15,9 @@ image:
 |:----------:|:-------|
 |site.url | {{ site.url }}|
 |site.baseurl | {{ site.baseurl }} |
-|site.relativeurl | {{ site.relativeurl }} |
+| link with baseurl | <a href="{{site.baseurl}}/images/{{page.image.feature}}"> {{page.image.feature}}</a>|
+|leading slash | <a href="/images/{{page.image.feature}}"> {{page.image.feature}}</a>|
+| no leading slash | <a href="images/{{page.image.feature}}"> {{page.image.feature}}</a>|
 |site.grid_styles | {{ site.grid_styles|join: "," }} |
 |site.tags | {{ site.tags }} |
 

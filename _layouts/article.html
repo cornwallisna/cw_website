@@ -36,7 +36,7 @@ topnav: community
             {% assign purl = "/images/"|append: page.image.feature %}
           {% endif %}
         {% endif %}
-        <img src="{{ purl }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+        <img src="{{site.baseurl}}{{ purl }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
 	  {% endif %}
 	<div class="page-title">
       <h2>Posted on {{ page.date | date: "%B %d, %Y"}}</h2>

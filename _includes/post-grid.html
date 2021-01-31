@@ -7,10 +7,10 @@
           {% if post.image.teaser contains "/" %}
             {% assign purl = post.image.teaser %}
           {% else %}
-            {% assign purl = "/images/"|append: post.image.teaser %}
+            {% assign purl = "images/"|append: post.image.teaser %}
           {% endif %}
         {% endif %}
-        <img src="{{ purl }}" alt="teaser" itemprop="image">
+        <img src="{{site.baseurl}}{{ purl }}" alt="teaser" itemprop="image">
       {% endif %}
     {% if post.date %}
       <p class="entry-date date published"><time datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
