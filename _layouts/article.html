@@ -31,9 +31,9 @@ topnav: community
           {% assign purl = page.image.feature %}
         {% else %}
           {% if page.image.feature contains "/" %}
-            {% assign purl = page.image.feature|relative_url %}
+            {% assign purl = page.image.feature %}
           {% else %}
-            {% assign purl = "/images/"|append: page.image.feature | relative_url %}
+            {% assign purl = "/images/"|append: page.image.feature %}
           {% endif %}
         {% endif %}
         <img src="{{ purl }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
@@ -45,10 +45,10 @@ topnav: community
      {{ content }}
 
      {% if page.previous.url %}
-       <a href="{{ page.previous.url|relative_url }}">Previous</a>
+       <a href="{{ page.previous.url }}">Previous</a>
      {% endif %}
      {% if page.next.url %}
-       <a href="{{ page.next.url|relative_url }}">Next</a>
+       <a href="{{ page.next.url }}">Next</a>
      {% endif %}
     </div> <!-- grid_x -->
 

@@ -1,13 +1,13 @@
 <article class="tile" itemscope itemtype="http://schema.org/Article">
-  <a href="{{ post.url }}|relative_url" title="{{ post.title }}" class="post-teaser"></a>
+  <a href="{{ post.url }}" title="{{ post.title }}" class="post-teaser"></a>
  	  {% if post.image.teaser %}
         {% if post.image.teaser contains "https://" %}
           {% assign purl = post.image.teaser %}
         {% else %}
           {% if post.image.teaser contains "/" %}
-            {% assign purl = post.image.teaser|relative_url %}
+            {% assign purl = post.image.teaser %}
           {% else %}
-            {% assign purl = "/images/"|append: post.image.teaser | relative_url %}
+            {% assign purl = "/images/"|append: post.image.teaser %}
           {% endif %}
         {% endif %}
         <img src="{{ purl }}" alt="teaser" itemprop="image">
@@ -15,6 +15,6 @@
     {% if post.date %}
       <p class="entry-date date published"><time datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
     {% endif %}
-  <h2 class="post-title" itemprop="name"><a href="{{ post.url|relative_url }}">{{ post.title }}</a></h2>
+  <h2 class="post-title" itemprop="name"><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="post-excerpt" itemprop="description">{{ post.excerpt | strip_html | truncate: 160 }}</p>
 </article><!-- /.tile -->
