@@ -1,15 +1,13 @@
 
 <!-- responsive FlexSlider image slideshow sponsors={{ page.sponsors }}-->
-{% if page.sponsors != "off" %}
-              <div class="flexslider">
-                <ul class="slides">
-                  <!-- DATA {{ site.data.sponsors.slides }} -->
-                  {% for slide in site.data.sponsors.slides %}
-                      <li>
-                        <a href="{{slide.link}}"><img src="{{ slide.img }}"/></a>
-                        <p class="flex-caption"><a href="{{slide.link}}">{{ slide.caption }}</a></p>
-                      </li>
-                  {% endfor %}
-                  </ul>
-                </div><!-- FlexSlider -->
-{% endif %}
+<div class="flexslider">
+  <ul class="slides">
+    <!-- DATA {{ site.data.sponsors.slides }} -->
+    {% for slide in site.data.sponsors.slides %}
+        <li>
+          <a href="{{slide.link}}"><img src="{{ slide.img }}"/></a>
+          <p class="flex-caption"><a href="{{slide.link}}">{{ slide.caption }}</a></p>
+        </li>
+    {% endfor %}
+    </ul>
+  </div><!-- FlexSlider -->

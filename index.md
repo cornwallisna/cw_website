@@ -14,11 +14,11 @@ slides:
   - img: images/cornwallis-thumbnail.jpg
     caption: Cornwallis Neighborhood
   - img: https://lh3.googleusercontent.com/HOhe2siVn2ovfsH-mzxIoo9LavYHPvyKFRhFSga2vh1V_MNto-NoFz02oXG5plITUAwmlQ9EqUdQ3cU7xq4MIubQJkPS9wGEGryQfy7JYM7lg8OXsoGzqswljUQs2vDKmynCb6ce23U=w2400
-    caption: First caption
-  - img: https://lh3.googleusercontent.com/pJzZJ279SpDN72CnFXzLRHJlWL_5fmlA0MC28UEPr-jHUbvKtH2zlpWyb5rstYA2woHhjDgB2OyvshqQl11OmpPPtCyi1NSxtGl26Vq5gQOSYbu3xgtMg7rN8Bi6de1siAiYLHb1fsw=w2400
-    caption: second caption
+    caption: ooooohhhh
   - img: https://lh3.googleusercontent.com/C2OMZwOF8YKSh9kwUXjiqAsUccMBQ-84WrrbtB5l9nrk79Vz3Ah9qCY6Kk67NOSv9iygqsln7QaMTfmyQEyLGCFxmR7d68n6cIY89hxXMbDxnyDcQW-MM725O4Ci4VE5SVHoYyMeUaU=w2400
-    caption: Third caption
+    caption: aaahhhhhhhhhh
+  - img: https://lh3.googleusercontent.com/pJzZJ279SpDN72CnFXzLRHJlWL_5fmlA0MC28UEPr-jHUbvKtH2zlpWyb5rstYA2woHhjDgB2OyvshqQl11OmpPPtCyi1NSxtGl26Vq5gQOSYbu3xgtMg7rN8Bi6de1siAiYLHb1fsw=w2400
+    caption: SE 28th Terrace
 grid_style: 1  # 1 for small, 2 for medium, 3 for large
 topics:
   - title: Neighborhood Watch

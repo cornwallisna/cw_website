@@ -30,6 +30,12 @@ defaults:
       type: "pages"
     values:
       sponsors: "bottom"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      sponsors: "bottom"
 
 
 # Octopress configuration

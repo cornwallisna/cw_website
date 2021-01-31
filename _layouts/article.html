@@ -12,7 +12,7 @@ topnav: community
 <section id="page-header" class="clearfix">
 <!-- responsive FlexSlider image slideshow -->
 <div class="wrapper">
- <h1>{{ page.banner }}</h1>
+ <h1>{{ page.title }}</h1>
 </div>
 
 </section>
@@ -20,55 +20,63 @@ topnav: community
 
 <!-- main content area -->
 <!-- content area -->
-	<section id="content" class="wide-content">
-		{% if page.image.feature %}
-		<div class="page-feature">
-			<div class="page-image">
-				<img src="{{ site.baseurl }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
-			</div><!-- /.page-image -->
-		</div><!-- /.page-feature -->
-		{% endif %}
+<!-- sponsor: {{ post.sponsors }}, {{post.title}} -->
+<!-- page sponsor: {{ page.sponsors }}, {{page.title}} -->
 
-		<div class="page-title">
-          <h2>Posted on {{ page.date | date: "%B %d, %Y"}}</h2>
-		  <h1>{{ page.title }}</h1>
-		</div>
-		<div class="inner-wrap">
-			<div id="content" class="page-content" itemprop="articleBody">
-				{{ content }}
-				<hr />
-            {% if page.previous.url %}
-                <a href="{{site.baseurl}}/{{ page.previous.url }}">Previous</a>
-            {% endif %}
-            {% if page.next.url %}
-                <a href="{{site.baseurl}}/{{ page.next.url }}">Next</a>
-            {% endif %}
-			</div><!-- /.content -->
-		</div><!-- /.inner-wrap -->
+<section id="content" class="wide-content">
+  <div class="row" style="padding:50px 50px;">
+    <div class="grid_5">
+ 	  {% if page.image.feature %}
+        {% if page.image.feature contains "https://" %}
+          {% assign purl = page.image.feature %}
+        {% else %}
+          {% if page.image.feature contains "/" %}
+            {% assign purl = page.image.feature|relative_url %}
+          {% else %}
+            {% assign purl = "/images/"|append: page.image.feature | relative_url %}
+          {% endif %}
+        {% endif %}
+        <img src="{{ purl }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+	  {% endif %}
+	<div class="page-title">
+      <h2>Posted on {{ page.date | date: "%B %d, %Y"}}</h2>
+  	</div>
 
-        <!-- ./wrap -->
+     {{ content }}
+
+     {% if page.previous.url %}
+       <a href="{{ page.previous.url|relative_url }}">Previous</a>
+     {% endif %}
+     {% if page.next.url %}
+       <a href="{{ page.next.url|relative_url }}">Next</a>
+     {% endif %}
+    </div> <!-- grid_x -->
+
+    {% if page.sponsors == "bottom" %}
+     <div class="grid_4" width="50%">
+       {% include sponsors.html %}
+     </div>
+     {% endif %}
+  </div> <!-- row -->
 
 
 </section><!-- #end content area -->
 
-
-    <!-- sidebar -->
-    {% if page.sidemenu %}
-    <aside>
-        <h2>{{page.sidemenu.title}}</h2>
-            <nav id="secondary-navigation">
-              <ul>
-                {% assign li = '<li class="current">' %}
-                {% for item in page.sidemenu.menuitems %}
-                    {{li}}<a href="{{item.link}}">{{item.text}}</a></li>
-                    {% assign li = "<li>" %}
-                {% endfor %}
-              </ul>
-             </nav>
-      </aside><!-- #end sidebar -->
-    {% endif %}
-
-  </div><!-- #end div #main .wrapper -->
+<!-- sidebar -->
+{% if page.sidemenu %}
+<aside>
+    <h2>{{page.sidemenu.title}}</h2>
+        <nav id="secondary-navigation">
+          <ul>
+            {% assign li = '<li class="current">' %}
+            {% for item in page.sidemenu.menuitems %}
+                {{li}}<a href="{{item.link}}">{{item.text}}</a></li>
+                {% assign li = "<li>" %}
+            {% endfor %}
+          </ul>
+         </nav>
+  </aside><!-- #end sidebar -->
+{% endif %}
 
 {% include footer.html %}
 

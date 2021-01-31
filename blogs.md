@@ -9,7 +9,7 @@ image:
 
 <div class="row">
 {% for post in site.categories.articles %}
-    <div class="grid_3">
+    <div class="grid_9">
     {% include post-grid.html %}
     </div>
 {% endfor %}

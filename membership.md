@@ -1,6 +1,7 @@
 ---
 layout: content_page
 permalink: /membership
+topnav: community,membership
 ---
 
 
