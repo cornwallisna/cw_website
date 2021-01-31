@@ -45,10 +45,10 @@ topnav: community
      {{ content }}
 
      {% if page.previous.url %}
-       <a href="{{ page.previous.url }}">Previous</a>
+       <a href="{{site.baseurl}}{{ page.previous.url }}">Previous</a>
      {% endif %}
      {% if page.next.url %}
-       <a href="{{ page.next.url }}">Next</a>
+       <a href="{{site.baseurl}}{{ page.next.url }}">Next</a>
      {% endif %}
     </div> <!-- grid_x -->
 
