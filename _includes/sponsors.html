@@ -5,7 +5,11 @@
     <!-- DATA {{ site.data.sponsors.slides }} -->
     {% for slide in site.data.sponsors.slides %}
         <li>
+        {% if slide.img contains "https://" or slide.img contains "http://" %}
           <a href="{{slide.link}}"><img src="{{ slide.img }}"/></a>
+        {% else %}
+          <a href="{{slide.link}}"><img src="{{site.baseurl}}{{ slide.img }}"/></a>
+        {% endif %}
           <p class="flex-caption"><a href="{{slide.link}}">{{ slide.caption }}</a></p>
         </li>
     {% endfor %}

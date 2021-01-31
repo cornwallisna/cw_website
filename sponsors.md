@@ -13,7 +13,7 @@ sponsors: "off"
 
 <div class="row">
 <div class="grid_7">
-<a href="{{slide.link}}"><img src="{{slide.img}}" width="70%" style="float: left;"></a>
+<a href="{{slide.link}}"><img src="{{site.baseurl}}{{slide.img}}" width="70%" style="float: left;"></a>
 </div>
 <p/>
 <div class="grid_5"> {{slide.caption}} </div>
