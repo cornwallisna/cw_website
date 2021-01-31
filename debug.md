@@ -9,6 +9,7 @@ image:
 
 
 {% assign testurl = "/images/"|append: page.image.feature | relative_url %}
+{% assign test2url = page.image.feature | relative_url %}
 
 | variable  |  value |
 |:----------:|:-------|
@@ -19,3 +20,4 @@ image:
 |site.tags | {{ site.tags }} |
 
 * "/images/"|append: page.image.feature \| relative_url is '{{ testurl }}'
+* page.image.feature \| relative_url is '{{ test2url }}'
