@@ -9,6 +9,8 @@ url: "https://fcassirer.github.io/cw_website/index.html"
 # Use 'bundle exec jekyll serve --host 192.168.1.xxx --baseurl ""' to serve locally
 baseurl: "https://fcassirer.github.io/cw_website"
 
+github_url: "https://github.com/fcassirer/cw_website/"
+
 # Jekyll configuration
 
 sass:
@@ -71,4 +73,4 @@ owner:
   disqus-shortname:
 
 
-exclude: [".#*","lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+exclude: [".#*","lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
