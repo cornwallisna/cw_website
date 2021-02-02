@@ -18,32 +18,96 @@ sidemenu:
 
 ## PRESIDENT
 
-|---------|
-|RON JENORIKI|
-|2837 SE 19th Ave|
-|[732-766-4694](tel:732-766-4694)|
+<div class="row">
+<div class="grid_6">
+<img src="images/stickperson.png" width="30%">
+</div>
+<div class="grid_6">
+<table>
+  <tbody>
+    <tr>
+      <td>RON JENORIKI</td>
+    </tr>
+    <tr>
+      <td>2837 SE 19th Ave</td>
+    </tr>
+    <tr>
+      <td><a href="tel:732-766-4694">732-766-4694</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
 
 ## VICE PRESIDENT
 
-|---------|
-|SANDRA WALL|
-|3021 SE 18th Pl|
-|[239-839-8466](tel:239-839-8466)|
+<div class="row">
+<div class="grid_6">
+<img src="images/sticklady.png" width="25%">
+</div>
+<div class="grid_4">
+<table>
+  <tbody>
+    <tr>
+      <td>SANDRA WALL</td>
+    </tr>
+    <tr>
+      <td>3021 SE 18th Pl</td>
+    </tr>
+    <tr>
+      <td><a href="tel:239-839-8466">239-839-8466</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
 
 ## SECRETARY INTERIM
 
-|---------|
-|KARLA MARTINEZ|
-|2801 SE 22nd Ave|
-|[919-830-8734](tel:919-830-8734)|
+<div class="row">
+<div class="grid_6">
+<img src="images/sticklady.png" width="25%">
+</div>
+<div class="grid_4">
+<table>
+  <tbody>
+    <tr>
+      <td>KARLA MARTINEZ</td>
+    </tr>
+    <tr>
+      <td>2801 SE 22nd Ave</td>
+    </tr>
+    <tr>
+      <td><a href="tel:919-830-8734">919-830-8734</a></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+</div>
 
 ## TREASURER
 
-|---------|
-|WENDELL CHRISTOFF|
-|2801 SE 19th Ave|
-|[616-581-1104](tel:616-581-1104)|
-
+<div class="row">
+<div class="grid_6">
+<img src="images/stickperson.png" width="30%">
+</div>
+<div class="grid_6">
+<table>
+  <tbody>
+    <tr>
+      <td>WENDELL CHRISTOFF</td>
+    </tr>
+    <tr>
+      <td>2801 SE 19th Ave</td>
+    </tr>
+    <tr>
+      <td><a href="tel:616-581-1104">616-581-1104</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
 
 <a name="documents"></a>
 # Document stuff
