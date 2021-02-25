@@ -63,7 +63,8 @@ Images can be added to the repository via [drag and drop]({{site.github_url}}/up
 
 ## Adding a new blog entry
 
-New blog entries are created in the [_posts folder]({{site.github_url}}/blob/pending/_posts) folder.  These files are named as YYYY-MM-DD-anythingyouwant.md.  For example, 2021-02-02-groundhogsday-update.md where you could tell everyone where to see the groundhogs.
+New blog entries are created in the [_posts folder]({{site.github_url}}/blob/pending/_posts) folder.  These files are named as
+*YYYY-MM-DD-anythingyouwant.md*.  For example, 2021-02-02-groundhogsday-update.md where you could tell everyone where to see the groundhogs.
 
 Each blog entry is a Jekyll article page.  An example article might look like:
 
