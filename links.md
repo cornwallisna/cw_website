@@ -7,7 +7,7 @@ sponsors: "top"
 ---
 
 # Cornwallis Neighborhood Assocation
-## Email us at [cornwallis_na@gmail.com](mailto:cornwallis_na@gmail.com)
+## Email us at [{{site.owner.email}}](mailto:{{site.owner.email}})
 
 # Community Information
 ## STATE OF FLORIDA
