@@ -7,4 +7,6 @@ permalink: /presidents
 
 
 
-This is something insightful and inspiring that would be said
+This is something insightful and inspiring that would be said and this is what I said!!!!!!
+
+
