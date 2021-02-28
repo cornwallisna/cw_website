@@ -24,7 +24,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
 
-
 defaults:
   -
     scope:
@@ -32,6 +31,12 @@ defaults:
       type: "pages"
     values:
       sponsors: "bottom"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      background: "under_construction_PNG46.png"
   -
     scope:
       path: ""

@@ -7,6 +7,13 @@
 {% include header.html %}
 <!-- end header -->
 
+
+{% if page.background %}
+<div id="background">
+  <img src="images/{{page.background}}" width="120px" height="60px">
+</div>
+{% endif %}
+
 <section id="page-header" class="clearfix">
 <!-- responsive FlexSlider image slideshow -->
 <div class="wrapper">
