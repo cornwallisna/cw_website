@@ -7,6 +7,8 @@ permalink: /photos
 
 # Links to google photo photo albums
 
+This is a shared photo album of some of the picutres we have collected.  If you would like to share some of your pictures just send them to us at [{{site.owner.email}}](mailto:{{site.owner.email}})
+
 ## Cornwallis Views
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
