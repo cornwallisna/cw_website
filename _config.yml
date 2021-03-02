@@ -5,9 +5,11 @@ description: "Cornwallis Neighborhood Association"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: "https://cornwallisna.github.io/cw_website/index.html"
+#url: "https://cornwallisna.github.io/cw_website/index.html"
+url: "https://cornwallisna.org/index.html"
 # Use 'bundle exec jekyll serve --host 192.168.1.xxx --baseurl ""' to serve locally
-baseurl: "https://cornwallisna.github.io/cw_website"
+#baseurl: "https://cornwallisna.github.io/cw_website"
+baseurl: "https://cornwallisna.org"
 
 github_url: "https://github.com/cornwallisna/cw_website/"
 
@@ -69,7 +71,7 @@ titlecase: true
 # Site owner
 owner:
   name: Cornwallis Neighborhood Assocation
-  web: http://cornwallisna.github.io/cw_website
+  web: https://cornwallisna.org
   email: cornwallisna@gmail.com
   twitter:
   bio: "Bio"
