@@ -13,7 +13,16 @@ sponsors: "off"
 |Page Title(path) | Hits | uniqID |
 |:----------|:-------|:-----|
 {%- for p in site.pages -%}
- {%- assign hitID =  p.hitID | default: p.permalink | strip | replace: " ","" | downcase| prepend: "page_"  -%}
+ {%- assign hitID =  p.hitID | default: p.permalink | default: p.name | replace: "/","_" | strip | replace: " ","" | downcase| prepend: "page_"  -%}
  {%- assign hitURL = site.github_url | append: 'hit-counter-' | append: hitID | url_encode %}
-| {{ p.name }} ({{p.permalink}}) |  <img src="https://hitcounter.pythonanywhere.com/nocount/tag.svg?url={{ hitURL}}" alt="Users"> | {{ hitURL }} |
+| {{ p.name }} ({{p.permalink|default: p.dir}}) |  <img src="https://hitcounter.pythonanywhere.com/nocount/tag.svg?url={{ hitURL}}" alt="Users"> | {{ hitURL }} |
+{%- endfor %}
+
+## Raw links
+
+{%- for p in site.pages -%}
+ {%- assign hitID =  p.hitID | default: p.permalink | default: p.name |replace: "/","_" | strip | replace: " ","" | downcase| prepend: "page_"  -%}
+ {%- assign hitURL = site.github_url | append: 'hit-counter-' | append: hitID | url_encode %}
+ <br>
+ https://hitcounter.pythonanywhere.com/nocount/tag.svg?url={{ hitURL}}
 {%- endfor %}
