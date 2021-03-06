@@ -1,9 +1,10 @@
 <!-- footer area -->
 <footer>
 	<div id="colophon" class="wrapper clearfix">
-    {% assign pagehitID =  page.hitID | default: page.permalink | strip | replace: " ","" | downcase | prepend: "page_"  %}
-    <!-- PAGEHITID: {{ pagehitID|url_encode }} -->
-    <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url={{ site.github_url | append: 'hit-counter-' | append: pagehitID | url_encode}}" alt="Stats" style="display: none;"></a>&nbsp; Page created by <a href="mailto:fcassirer@gmail.com">Fred Cassirer</a>,
+     {%- assign hitID =  page.hitID | default: page.permalink | default: page.name | replace: "/","_" | strip | replace: " ","" | downcase| prepend: "page_"  -%}
+     {%- assign hitURL = site.github_url | append: 'hit-counter-' | append: hitID | url_encode %}
+    <!-- PAGEHITID: {{ hitID|url_encode }} -->
+    <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url={{ hitURL }}" alt="Stats" style="display: none;"></a>&nbsp; Page created by <a href="mailto:fcassirer@gmail.com">Fred Cassirer</a>,
       <a href="{{site.github_url}}/issues/new/choose">click here to open a new problem report</a>.  To list existing reports, <a href="{{site.github_url}}/issues">click here</a>
 
     </div>
