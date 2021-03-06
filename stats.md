@@ -1,5 +1,10 @@
 ---
+layout: content_page
+topnav: home
+hitID: stats
 title: Stats
+permalink: /stats
+sponsors: "off"
 ---
 
 # Site Statistics

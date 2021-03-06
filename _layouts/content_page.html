@@ -10,7 +10,7 @@
 
 {% if page.background %}
 <div id="background">
-  <img src="images/{{page.background}}" width="120px" height="60px">
+  <img src="/images/{{page.background}}" width="120px" height="60px">
 </div>
 {% endif %}
 
@@ -52,6 +52,7 @@
       </div>
       {% endif %}
       {% if page.sponsors == "off" %}
+      <!-- {{ page.sponsors }} -->
       <div class="row">
         {{ content }}
       </div>
