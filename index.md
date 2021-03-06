@@ -2,6 +2,7 @@
 layout: home
 permalink: /
 topnav: home
+hitID: home
 image:
   feature: "cornwallisareamap.png"
 button1:
