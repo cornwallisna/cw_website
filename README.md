@@ -5,7 +5,7 @@ layout: content_page
 {% if false %}
 
 WARNING: Many of the highlighted links directly on this page will not work if you are viewing this page directly in Github. Instead,
-you can see the complete page [here](https://fcassirer.github.io/cw_website/README/index.html) which will be fully expanded by Jekyll and the links are in working order.
+you can see the complete page [here]({{site.github_url}}/blob/main/README/index.html) which will be fully expanded by Jekyll and the links are in working order.
 
 {% endif %}
 
@@ -22,18 +22,19 @@ This website uses Jekyll and the Responsive Starter Template to provide a websit
 * Association by-laws and document archive
 * Support for our communitY sponsors
 * Website feedback and issue tickets
+* [Statistics page]({{site.baseurl}}/stats.html)
 
 # How it works
 
 Authorized members of the CNA team can submit updates to this Github repository and upon approval the website is recreated and published.  The overall structure of the website is anticipated to be somewhat static with various pre-defined pages being updated by the CNA.  The following pages can be edited as follows:
 
-* [home page]({{site.github_url}}/blob/pending/index.md) - Front page [edit]({{site.github_url}}/edit/pending/index.md)
-* [news page]({{site.github_url}}/blob/pending/news.md) - News page [edit]({{site.github_url}}/edit/pending/news.md)
-* [presidents page]({{site.github_url}}/blob/pending/presidents.md) - Presidents Message page [edit]({{site.github_url}}/edit/pending/presidents.md)
-* [vicepresidents page]({{site.github_url}}/blob/pending/vicepresidents.md) - Vice Presidents Message  page [edit]({{site.github_url}}/edit/pending/vicepresidents.md)
-* [aboutus page]({{site.github_url}}/blob/pending/aboutus.md) - About page [edit]({{site.github_url}}/edit/pending/aboutus.md)
-* [membership page]({{site.github_url}}/blob/pending/membership.md) - Membership/Enrollment page [edit]({{site.github_url}}/edit/pending/membership.md)
-* [blogs page]({{site.github_url}}/blob/pending/blogs.md) - Blog entries page, note, you probably don't need to edit this [edit]({{site.github_url}}/edit/pending/blogs.md)
+* [home page]({{site.github_url}}/blob/main/index.md) - Front page [edit]({{site.github_url}}/edit/main/index.md)
+* [news page]({{site.github_url}}/blob/main/news.md) - News page [edit]({{site.github_url}}/edit/main/news.md)
+* [presidents page]({{site.github_url}}/blob/main/presidents.md) - Presidents Message page [edit]({{site.github_url}}/edit/main/presidents.md)
+* [vicepresidents page]({{site.github_url}}/blob/main/vicepresidents.md) - Vice Presidents Message  page [edit]({{site.github_url}}/edit/main/vicepresidents.md)
+* [aboutus page]({{site.github_url}}/blob/main/aboutus.md) - About page [edit]({{site.github_url}}/edit/main/aboutus.md)
+* [membership page]({{site.github_url}}/blob/main/membership.md) - Membership/Enrollment page [edit]({{site.github_url}}/edit/main/membership.md)
+* [blogs page]({{site.github_url}}/blob/main/blogs.md) - Blog entries page, note, you probably don't need to edit this [edit]({{site.github_url}}/edit/main/blogs.md)
 
 ## Jekyll and frontmatter
 
@@ -57,13 +58,13 @@ Frontmatter is a [Jekyll](https://jekyllrb.com/docs/front-matter/) term that ref
 
 ### Images
 
-Images are jpg, png, or any other supported picture type.  Typically, they are stored in the images/ folder.  The 'image:' frontmatter tag assumes any image name unless otherwise specified is found in the images/ folder.   For example, <b>garage-sale.png</b> would be [{{site.github_url}}images]({{site.github_url}}/tree/pending/images).  Images can also be links to pictures on the web by providing the URL instead of the image/ link.
+Images are jpg, png, or any other supported picture type.  Typically, they are stored in the images/ folder.  The 'image:' frontmatter tag assumes any image name unless otherwise specified is found in the images/ folder.   For example, <b>garage-sale.png</b> would be [{{site.github_url}}images]({{site.github_url}}/tree/main/images).  Images can also be links to pictures on the web by providing the URL instead of the image/ link.
 
-Images can be added to the repository via [drag and drop]({{site.github_url}}/upload/pending/images) or by clicking on the Add Files button
+Images can be added to the repository via [drag and drop]({{site.github_url}}/upload/main/images) or by clicking on the Add Files button
 
 ## Adding a new blog entry
 
-New blog entries are created in the [_posts folder]({{site.github_url}}/blob/pending/_posts) folder.  These files are named as
+New blog entries are created in the [_posts folder]({{site.github_url}}/blob/main/_posts) folder.  These files are named as
 *YYYY-MM-DD-anythingyouwant.md*.  For example, 2021-02-02-groundhogsday-update.md where you could tell everyone where to see the groundhogs.
 
 Each blog entry is a Jekyll article page.  An example article might look like:
@@ -87,13 +88,13 @@ This is content, we are having a garage sale ...
 
 </pre>
 
-You can [create a new blog entry]({{site.github_url}}/new/pending/_posts) directly.  Simply cut and paste the above frontmatter into the new file and add your text below the `---`.  Be sure to change the image to suit your blog entry (See above for how to upload a new image).
+You can [create a new blog entry]({{site.github_url}}/new/main/_posts) directly.  Simply cut and paste the above frontmatter into the new file and add your text below the `---`.  Be sure to change the image to suit your blog entry (See above for how to upload a new image).
 
 ## Advertising
 
 There is a fairly simple advertising capability that will put a scrolling picture slider at the top, side, or bottom of a page.  The contents of the advertising window is controlled by a list of advertiser pictures and captions.
 
-This file can be found in the _data/sponsors.yml file.  To add or remove advertisers simply edit [this file]({{site.github_url}}/blob/pending/_data/sponsors.yml).
+This file can be found in the _data/sponsors.yml file.  To add or remove advertisers simply edit [this file]({{site.github_url}}/blob/main/_data/sponsors.yml).
 The file is made of of a list of 4 values:
 
 * img: is the name of the image, usually found in images/ads/
