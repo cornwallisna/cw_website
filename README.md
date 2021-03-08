@@ -5,7 +5,7 @@ layout: content_page
 {% if false %}
 
 WARNING: Many of the highlighted links directly on this page will not work if you are viewing this page directly in Github. Instead,
-you can see the complete page [here]({{site.github_url}}/blob/main/README/index.html) which will be fully expanded by Jekyll and the links are in working order.
+you can see the complete page [here](https://cornwallisna.org/README/index.html) which will be fully expanded by Jekyll and the links are in working order.
 
 {% endif %}
 
