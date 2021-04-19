@@ -1,5 +1,5 @@
 <!--                0   1     2         3        4     5    6     7    8        9        10     11        12           13      14-->
-{% assign nav = "home,news,community,calendar,about,blogs,links,block,holiday,membership,mail,president,vicepresident,photos,sponsors"|split: "," %}
+{% assign nav = "home,news,overview,calendar,about,blogs,links,block,holiday,membership,mail,president,vicepresident,photos,sponsors"|split: "," %}
 {% assign navhigh = ""| split: ',' %}
 {% for c in (0..nav.size) %}
 {%  if page.topnav contains nav[c]  %}
@@ -11,32 +11,16 @@
 
 <header class="wrapper clearfix">
 
-        <div id="banner">
-        	<div id="logo"><a href="{{site.baseurl}}/index.html"><img src="{{site.baseurl}}/images/cornwallis-thumbnail.jpg" width="50%" alt="logo"></a></div>
-        </div>
-
         <!-- main navigation -->
         <nav id="topnav" role="navigation">
           <div class="menu-toggle">Menu</div>
           <ul class="srt-menu" id="menu-main-navigation">
               <li {{ navhigh[0] }}><a href="{{site.baseurl}}/index.html">Home page</a></li>
               <li {{ navhigh[1] }}><a href="{{site.baseurl}}/news.html">News</a></li>
-              <li {{ navhigh[2] }}><a href="{{site.baseurl}}/calendar.html">Our Community</a>
-                  <ul>
-                      <li {{navhigh[9]}}>
-                          <a href="{{site.baseurl}}/membership.html">Membership</a>
-                      </li>
-                      <li {{navhigh[3]}}>
-                          <a href="{{site.baseurl}}/calendar.html">Calendar</a>
-                      </li>
-                      <!--
-                          <ul>
-                              <li><a href="{{site.baseurl}}/#">menu item 3.2.1</a></li>
-                          </ul>
-                       -->
-                      <li {{navhigh[5]}}><a href="{{site.baseurl}}/blogs.html">Blogs</a></li>
-                  </ul>
-              </li>
+              <li {{navhigh[3]}}><a href="{{site.baseurl}}/calendar.html">Calendar</a></li>
+              <li {{ navhigh[9] }}><a href="{{site.baseurl}}/membership.html">Membership</a></li>
+              <li {{ navhigh[2] }}><a href="{{site.baseurl}}/overview.html">CNA Overview</a></li>
+              <li {{navhigh[5]}}><a href="{{site.baseurl}}/blogs.html">Blogs</a></li>
               <li {{navhigh[13]}}><a href="{{site.baseurl}}/photos.html">Photos</a></li>
               <li {{ navhigh[4] }}>
                   <a href="{{site.baseurl}}/aboutus.html#board"">About Us</a>
@@ -56,4 +40,8 @@
               </li>
           </ul>
 		</nav><!-- end main navigation -->
+        <!-- <div id="banner">
+        	<div id="logo"><a href="{{site.baseurl}}/index.html"><img src="{{site.baseurl}}/images/cornwallis-thumbnail.jpg" width="10%" class="center" alt="logo"></a></div>
+        </div> -->
+
     </header><!-- end header -->

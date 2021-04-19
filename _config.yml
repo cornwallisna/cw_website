@@ -39,6 +39,8 @@ defaults:
       type: "pages"
     values:
       background: "under_construction_PNG46.png"
+      image:
+        feature_width: "100%"
   -
     scope:
       path: ""
@@ -58,12 +60,6 @@ post_layout: article
 page_layout: article
 
 # Local variables
-
-# Basic grid styles, 1, 2, or 3
-grid_styles:
-  - grid_7
-  - grid_4
-  - grid_1
 
 # Format titles with titlecase?
 titlecase: true

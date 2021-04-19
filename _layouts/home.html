@@ -16,52 +16,65 @@
     <!-- responsive FlexSlider image slideshow -->
     <div class="wrapper">
        <div class="row">
-        <div class="grid_5">
-            <h1>Cornwallis Neighboorhood Association</h1>
-            <p>Is a community in Cape Coral just off the Caloosahatchee River
-            </p>
-            <img src="images/{{page.image.feature}}" />
-            <p><a href="{{page.button1.link}}" class="buttonlink">{{page.button1.text}}</a> <a href="{{page.button2.link}}" class="buttonlink">{{page.button2.text}}</a></p>
-        </div>
-        <div class="grid_7">
-              <div class="flexslider">
-                <ul class="slides">
-                  {% for slide in page.slides %}
-                      <li>
-                        <img src="{{ slide.img }}"/></a>
-                        <p class="flex-caption">{{ slide.caption }}</p>
-                      </li>
-                  {% endfor %}
-                  </ul>
-                </div><!-- FlexSlider -->
-              </div><!-- end grid_7 -->
-        </div><!-- end row -->
-       </div><!-- end wrapper -->
-    </section><!-- end hero area -->
+         <h1 style="text-align:center">Cornwallis Neighboorhood Association</h1>
+         <p/>
+         <div class="grid_6">
+           <h1></h1>
+           <p>The prestigious Cornwallis community, in Cape Coral, is located on the east coast just off the Caloosahatchee River. The Cornwallis Neighborhood Association (CNA) was formed in 1994 with its main purpose dedicated to the improvement and enjoyment of our neighborhood and maintaining all its spectacular beauty and surroundings. CNA is voluntarily comprised of residents, both owners and renters, permanent and seasonal, who are committed to and wish to enhance the beauty, goodwill, and safety of the neighborhood.  Activities, gatherings, and general meetings are typically held October thru May. Our general meetings are held at Century 21 Birchwood Realty building located at 4040 Del Prado Blvd @ 7:15 pm. We encourage you to take the time to learn more about becoming a member.</p>
+           <div class="flexslider">
+             <ul class="slides">
+              {% for slide in page.slides %}
+                <li>
+                  <img src="{{ slide.img }}"/></a>
+                  <p class="flex-caption">{{ slide.caption }}</p>
+                </li>
+               {% endfor %}
+             </ul>
+           </div><!-- FlexSlider -->
+         </div>
+
+         <div class="grid_6">
+           {% if page.image.map contains "https://" %}
+             {% assign purl = page.image.map %}
+           {% else %}
+             {% assign purl = "/images/"|append: page.image.map %}
+           {% endif %}
+             <img src="{{purl}}" />
+             <p>Cape Coral's scenic waterfront Cornwallis Neighborhood community is in the Gold Coast area and is east of Del Prado Boulevard and between the Midpoint and Cape Coral bridges. The Gold Coast was one of the first areas to be developed as a waterfront paradise.  The community includes five specific neighborhoods —Cornwallis, Beach, Palaco Grande, Everest, and Savona that combine vintage single-family homes along with newer, luxurious estates.  Select properties provide endless views of the Caloosahatchee River all the way to Fort Myers. </p>
+              <p><a href="{{page.button1.link}}" class="buttonlink">{{page.button1.text}}</a> <a href="{{page.button2.link}}" class="buttonlink">{{page.button2.text}}</a></p>
+          </div>
+       </div><!-- end row -->
+</section><!-- end hero area -->
 
 <!-- main content area -->
 <div id="main" class="wrapper">
 
-
 <!-- content area -->
 <section id="content">
   <div class="row">
-    <div class="grid_8">
+    <div class="grid_12">
       {{ content }}
     </div>
-    <div class="grid_4">
-      {% include sponsors.html %}
-    </div>
-   </div>
-   <div class="row">
+
+  </div>
+
+  <div class="row">
     {% for topic in page.topics %}
-      <div class="{{ site.grid_styles[page.grid_style]}}">
-          <h1 class="first-header">{{ topic.title }} </h1>
+      <div class="grid_{{page.grid_style}}">
+        <h1 class="first-header">{{ topic.title }} </h1>
+        {% if topic.title contains "Sponsors" %}
+        {% include sponsors.html %}
+        {% else %}
           <img src="{{ topic.img }}" />
           <p>{{topic.content}}</p>
+        {% endif %}
       </div>
-    {% endfor %}
+      {% endfor %}
    </div><!-- end row -->
+
+     <div class="grid_4">
+     </div><!-- end grid -->
+   </div>
 </section><!-- end content area -->
 
 

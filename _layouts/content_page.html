@@ -26,7 +26,12 @@
 <!-- main content area -->
   <div class="wrapper" id="main">
     {% if page.image.feature %}
-    <img src="images/{{page.image.feature}}"></img>
+           {% if page.image.feature contains "https://" %}
+             {% assign purl = page.image.feature %}
+           {% else %}
+             {% assign purl = "/images/"|append: page.image.feature %}
+           {% endif %}
+             <img src="{{purl}}" width="{{page.image.feature_width}}" />
     {% endif %}
 <!-- content area -->
     <section id="content" >
@@ -35,15 +40,17 @@
       <div class="row">
         {{ content }}
       </div>
-      <div class="row" style="padding:50px 50px;">
-        <div class="grid_5">
+      <div class="row" style="padding:25px 25px;">
+        <div class="grid_6">
+        </div>
+        <div class="grid_6">
           {% include sponsors.html %}
         </div>
       </div>
       {% endif %}
       {% if page.sponsors == "top" %}
       <div class="row" style="padding:50px 50px;">
-        <div class="grid_5">
+        <div class="grid_6">
           {% include sponsors.html %}
         </div>
       </div>

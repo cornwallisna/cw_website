@@ -1,12 +1,11 @@
 ---
 layout: content_page
-topnav: community,calendar
+topnav: calendar
 permalink: /calendar
-sponsors: "top"
-banner: Calendar
+sponsors: "bottom"
+banner: CNA Shared Calendar
 ---
 
-# CNA Shared Calendar
 
 Here are a few useful links for working with the CNA calendar.
 
