@@ -40,3 +40,9 @@ function printImg(url) {
 </script>
 
 </head>
+
+{% if page.background %}
+<div id="background">
+  <img src="/images/{{page.background}}" width="90px" height="45px">
+</div>
+{% endif %}
