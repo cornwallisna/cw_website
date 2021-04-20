@@ -26,8 +26,4 @@ image:
 
 # News Letter Archive
 
-* [Feb 2021](archive/Cornwallis - FEB 2021 newsletter.pdf)
-* [Oct 2020](archive/Cornwallis - OCT 2020 NEWSLETTER.pdf)
-* [Mar 2019](archive/Cornwallis - MAR 2019 newsletter proof 2.pdf)
-* [Nov 2018](archive/Cornwallis - NOV 2018 newsletter proof 3.pdf)
-* [Feb 2017](archive/Cornwallis - FEB 2017 newsletter proof.pdf)
+[Link to newsletter archive](https://drive.google.com/drive/folders/1iCvR7ugAIrUh2sqzjmKsIhwrbwYuVuin?usp=sharing)

@@ -2,7 +2,7 @@
 layout: content_page
 topnav: about
 permalink: /aboutus
-sidemenu:
+xsidemenu:
   title: Other places to click
   menuitems:
     - text: "Item 1"
@@ -21,7 +21,7 @@ sidemenu:
 <div class="row">
 <div class="grid_6">
 <img src="images/stickperson.png" width="30%">
-<a href="presidents.html"><img src="images/ThoughtBubble.png" align="top" width="20%"></a>
+<a href="presidents.html"><img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%"></a>
 </div>
 <div class="grid_6">
 <table>
@@ -45,7 +45,7 @@ sidemenu:
 <div class="row">
 <div class="grid_6">
 <img src="images/sticklady.png" width="25%">
-<a href="vicepresidents.html"><img src="images/ThoughtBubble.png" align="top" width="20%"></a>
+<a href="vicepresidents.html"><img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%"></a>
 </div>
 <div class="grid_4">
 <table>
@@ -69,7 +69,7 @@ sidemenu:
 <div class="row">
 <div class="grid_6">
 <img src="images/sticklady.png" width="25%">
-<a href="secretary.html"><img src="images/ThoughtBubble.png" align="top" width="20%"></a>
+<a href="secretary.html"><img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%"></a>
 </div>
 <div class="grid_4">
 <table>
@@ -94,7 +94,7 @@ sidemenu:
 <div class="row">
 <div class="grid_6">
 <img src="images/stickperson.png" width="30%">
-<a href="treasurer.html"><img src="images/ThoughtBubble.png" align="top" width="20%"></a>
+<a href="treasurer.html"><img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%"></a>
 </div>
 <div class="grid_6">
 <table>
@@ -114,9 +114,11 @@ sidemenu:
 </div>
 
 <a name="documents"></a>
-# Document stuff
+# Documents
 
-* [article 1](#)
-* [article 2](#)
-* [article 3](#)
-* [...](#)
+* [Bi-Laws](https://drive.google.com/drive/folders/1z7htN-yh513ab4amzpPrKBkf_c9rHLuP?usp=sharing)
+* [CNA Minutes of Meetings](https://drive.google.com/drive/folders/15sAxfyY-clztWBZo5aSFgIWIJt9NGSb_?usp=sharing)
+* [Agendas](https://drive.google.com/drive/folders/182cUKihZiZC8bXqBpjEoYiHaTIOm3QF6?usp=sharing)
+* [Treasurers Annual Report](https://drive.google.com/drive/folders/1VKdOfS8852em5L2Bcs6h_lsXrIjbPKd6?usp=sharing)
+* [Block Captains](https://drive.google.com/drive/folders/1RWZJBCMEkXjlItZV2uPIOpdQDHyIAxrZ?usp=sharing)
+* [Link to newsletter archive](https://drive.google.com/drive/folders/1iCvR7ugAIrUh2sqzjmKsIhwrbwYuVuin?usp=sharing)

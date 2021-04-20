@@ -11,6 +11,9 @@ url: "https://cornwallisna.org/index.html"
 #baseurl: "https://cornwallisna.github.io/cw_website"
 baseurl: "https://cornwallisna.org"
 
+
+timezone: America/New_York
+
 github_url: "https://github.com/cornwallisna/cw_website/"
 
 # Jekyll configuration
