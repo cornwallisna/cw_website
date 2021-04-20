@@ -9,7 +9,7 @@ image:
 ---
 
 
-Cornwallis Neighborhood Association (CNA) was formed in 1994. Our main purpose was focused to and for the continuous improvement, enhancement, beautification safety, and enjoyment of our neighborhood and all its astounding surroundings. Over the years we have beautified our medians, purchased, and maintain our unique entrance monument along with the flagpole, introduced lights on median 1 and helped residents with their respective cul-de-sac median maintenance. Additionally, we operate as needed as a neighborhood advocacy group relative to maintaining water quality, Environmental health & safety, or other specific matters as they arise printing and or signs needed.
+Cornwallis Neighborhood Association (CNA) was formed in 1994. Our main purpose was focused to and for the continuous improvement, enhancement, beautification safety, and enjoyment of our neighborhood and all its astounding surroundings. Over the years we have beautified our medians, purchased, and maintain our unique entrance monument along with the flagpole, introduced lights on median 1 and helped residents with their respective cul-de-sac median maintenance. Additionally, we operate as needed as a neighborhood advocacy group relative to maintaining water quality, Environmental health & safety, or other specific matters as they arise.
 
 # Membership
 

@@ -27,10 +27,10 @@
          </div>
 
          <div class="grid_6">
-           {% if page.image.map contains "https://" %}
-             {% assign purl = page.image.map %}
+           {% if page.image.feature contains "https://" %}
+             {% assign purl = page.image.feature %}
            {% else %}
-             {% assign purl = "/images/"|append: page.image.map %}
+             {% assign purl = "/images/"|append: page.image.feature %}
            {% endif %}
              <img src="{{purl}}" />
              <p>Cape Coral's scenic waterfront Cornwallis Neighborhood community is in the Gold Coast area and is east of Del Prado Boulevard and between the Midpoint and Cape Coral bridges. The Gold Coast was one of the first areas to be developed as a waterfront paradise.  The community includes five specific neighborhoods —Cornwallis, Beach, Palaco Grande, Everest, and Savona that combine vintage single-family homes along with newer, luxurious estates.  Select properties provide endless views of the Caloosahatchee River all the way to Fort Myers. </p>

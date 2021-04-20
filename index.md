@@ -14,8 +14,8 @@ button2:
   text: "Signup!"
   link: "membership.html"
 slides:
-  - img: https://lh3.googleusercontent.com/0ypKbHkBRTi1DfsvvGZrACM_o9Pa20vjVJZHXciRrKsXltb90syDzXd5iPgZnPnkMtB2H4d-qQATH1VGfx1D_bmhpWa895dZbmiSsKKg1L-7d4NfUuiT39KIxhvUlvlGZhJ0PqJXXQ=w2400
-    caption: Cornwallis Parkway Del Prado entrance
+  - img: https://lh3.googleusercontent.com/ikD15IMzvdLpyt7xL4yh_29nDCil6wgNsVjgbZYYgleNWLsX1lUzfAMWQLyCRqfBNo9_lFBMskOV_HXXkLDDZhlSSaWdzcKQTFVF2ceSlYvStsVtzCufi_tjB3G0MV5ugvSsIYx05g=w2400
+    caption: Neighborhood Map
   - img: https://lh3.googleusercontent.com/_iX1VGU4leIOtM54-OP7fv_bqjnQz4GpuHPdmRBh7QZ3jSZApQO-KHQQzUOD-rnm3kNHbVazFIEN2rEqtRtxeKtVXgqrgI3UZTjmzYCsU3_aX9gcX5cjy5IJorA-aWWbRLtG9h5ORg=w2400
     caption: Association T-Shirts
   - img: https://lh3.googleusercontent.com/HOhe2siVn2ovfsH-mzxIoo9LavYHPvyKFRhFSga2vh1V_MNto-NoFz02oXG5plITUAwmlQ9EqUdQ3cU7xq4MIubQJkPS9wGEGryQfy7JYM7lg8OXsoGzqswljUQs2vDKmynCb6ce23U=w2400
