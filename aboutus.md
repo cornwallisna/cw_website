@@ -20,7 +20,7 @@ sidemenu:
 
 <div class="row">
 <div class="grid_6">
-<img src="images/stickperson.png" width="30%">
+<a href="presidents.html"><img src="images/stickperson.png" width="30%"></a>
 </div>
 <div class="grid_6">
 <table>
@@ -43,7 +43,7 @@ sidemenu:
 
 <div class="row">
 <div class="grid_6">
-<img src="images/sticklady.png" width="25%">
+<a href="vicepresidents.html"><img src="images/sticklady.png" width="25%"></a>
 </div>
 <div class="grid_4">
 <table>
@@ -66,7 +66,7 @@ sidemenu:
 
 <div class="row">
 <div class="grid_6">
-<img src="images/sticklady.png" width="25%">
+<a href="secretary.html"><img src="images/sticklady.png" width="25%"></a>
 </div>
 <div class="grid_4">
 <table>
@@ -90,7 +90,7 @@ sidemenu:
 
 <div class="row">
 <div class="grid_6">
-<img src="images/stickperson.png" width="30%">
+<a href="treasurer.html"><img src="images/stickperson.png" width="30%"></a>
 </div>
 <div class="grid_6">
 <table>
