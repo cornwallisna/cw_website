@@ -2,28 +2,21 @@
 layout: content_page
 topnav: news
 permalink: /news
-banner: Cornwallis Neighboorhood news ...
+banner: All the CNA news that is fit to print
 image:
-  feature: "news-icon.jpg"
-  feature_width: 60%
+  feature: "CornwallisLetterHead.png"
 ---
 
-
-# Messages from the board
-
-* [President](presidents.html)
-* [Vice Presidents](vicepresidents.html)
-* [Secretary](secretary.html)
-* [Treasurer](treasurer.html)
-
-
-# Community Events
-
-[Calendar <img src="/images/calendar-icon.png" width="25%">](calendar.html)
-
-## CNA, Community, and/or SWFL events
-
-
-# News Letter Archive
-
-[Link to newsletter archive](https://drive.google.com/drive/folders/1iCvR7ugAIrUh2sqzjmKsIhwrbwYuVuin?usp=sharing)
+<div class="row">
+{% for post in site.categories.articles %}
+  <!-- post.path is {{post.path}} -->
+  {% for p in post %}
+  <!-- p is {{p}} -->
+  {%endfor %}
+  {% unless post.path contains "example" %}
+    <div class="grid_9">
+    {% include post-grid.html %}
+    </div>
+  {% endunless %}
+{% endfor %}
+</div>
