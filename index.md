@@ -36,6 +36,13 @@ topics:
 
 ---
 
+## CNA meeting Tuesday, April 20th, 2021 at 7:15
+
+Please do not forget the General Membership Meeting tomorrow night at the Century 21 Birchwood building starting at 7:15.The location is 4040 Del Prado Blvd.
+
+You should have received Zoom ID and password information via email, if not, please request it: [cna zoom info request](mailto:cornwallisna@gmail.com)
+
+
 ## Join the club!
 
 It is that time of year again to pay your CNA dues.  See the [membership information](membership.html) for details.
