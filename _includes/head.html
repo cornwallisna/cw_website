@@ -31,4 +31,12 @@
 
 <!-- end JS-->
 
+<script>
+function printImg(url) {
+  var win = window.open('');
+  win.document.write('<img src="' + url + '" onload="window.print();window.close()" />');
+  win.focus();
+}
+</script>
+
 </head>
