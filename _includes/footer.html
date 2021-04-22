@@ -5,7 +5,7 @@
      {%- assign hitURL = site.github_url | append: 'hit-counter-' | append: hitID | url_encode %}
     <!-- PAGEHITID: {{ hitID|url_encode }} -->
     <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url={{ hitURL }}" alt="Stats" style="display: none;"></a>&nbsp; Page created by <a href="mailto:fcassirer@gmail.com">Fred Cassirer</a>,
-      <a href="{{site.github_url}}/issues/new/choose">click here to open a new problem report</a>.  To list existing reports, <a href="{{site.github_url}}/issues">click here</a>
+      <a href="{{site.baseurl}}/issues.html">click here to open a new problem report</a>.  To list existing reports, <a href="{{site.github_url}}/issues">click here</a>
       <p>&nbsp; Site last updated at: {{site.time|date: "%B %e, %Y %H:%M %Z"}}</p>
 
     </div>
@@ -20,4 +20,50 @@
 <script defer src="{{site.baseurl}}/js/flexslider/jquery.flexslider-min.js"></script>
 
 <!-- fire ups - read this file!  -->
-<script src="{{site.baseurl}}/js/main.js"></script>
+
+<script>
+
+// Fireup the plugins
+$(document).ready(function(){
+
+	// initialise  slideshow
+	 $('.flexslider').flexslider({
+         animation: "slide",
+         slideshowSpeed: {{ page.flexslider.slideshowSpeed }},
+        start: function(slider){
+          $('body').removeClass('loading');
+        }
+      });
+
+});
+/**
+ * Handles toggling the navigation menu for small screens.
+ */
+( function() {
+	var button = document.getElementById( 'topnav' ).getElementsByTagName( 'div' )[0],
+	    menu   = document.getElementById( 'topnav' ).getElementsByTagName( 'ul' )[0];
+
+	if ( undefined === button )
+		return false;
+
+	// Hide button if menu is missing or empty.
+	if ( undefined === menu || ! menu.childNodes.length ) {
+		button.style.display = 'none';
+		return false;
+	}
+
+	button.onclick = function() {
+		if ( -1 == menu.className.indexOf( 'srt-menu' ) )
+			menu.className = 'srt-menu';
+
+		if ( -1 != button.className.indexOf( 'toggled-on' ) ) {
+			button.className = button.className.replace( ' toggled-on', '' );
+			menu.className = menu.className.replace( ' toggled-on', '' );
+		} else {
+			button.className += ' toggled-on';
+			menu.className += ' toggled-on';
+		}
+	};
+} )();
+
+</script>

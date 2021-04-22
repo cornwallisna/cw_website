@@ -44,6 +44,8 @@ defaults:
       background: "under_construction_PNG46.png"
       image:
         feature_width: "100%"
+      flexslider:
+        slideshowSpeed: 7000
   -
     scope:
       path: ""

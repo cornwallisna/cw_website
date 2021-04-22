@@ -3,6 +3,8 @@ layout: home
 permalink: /
 topnav: home
 hitID: home
+flexslider:
+  slideshowSpeed: 10000
 image:
   map: https://lh3.googleusercontent.com/ikD15IMzvdLpyt7xL4yh_29nDCil6wgNsVjgbZYYgleNWLsX1lUzfAMWQLyCRqfBNo9_lFBMskOV_HXXkLDDZhlSSaWdzcKQTFVF2ceSlYvStsVtzCufi_tjB3G0MV5ugvSsIYx05g=w2400
   tshirt: https://lh3.googleusercontent.com/_iX1VGU4leIOtM54-OP7fv_bqjnQz4GpuHPdmRBh7QZ3jSZApQO-KHQQzUOD-rnm3kNHbVazFIEN2rEqtRtxeKtVXgqrgI3UZTjmzYCsU3_aX9gcX5cjy5IJorA-aWWbRLtG9h5ORg=w2400

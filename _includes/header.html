@@ -1,5 +1,5 @@
-<!--                0   1     2         3        4     5    6     7    8        9        10     11        12           13      14-->
-{% assign nav = "home,news,overview,calendar,about,blogs,links,block,holiday,membership,mail,president,vicepresident,photos,sponsors"|split: "," %}
+<!--                0   1     2         3        4     5    6     7    8        9        10     11        12           13      14     15 -->
+{% assign nav = "home,news,overview,calendar,about,blogs,links,block,holiday,membership,mail,president,vicepresident,photos,sponsors,issues"|split: "," %}
 {% assign navhigh = ""| split: ',' %}
 {% for c in (0..nav.size) %}
 {%  if page.topnav contains nav[c]  %}
@@ -27,6 +27,7 @@
                       <li><a href="{{site.baseurl}}/aboutus.html#board">Board</a></li>
                       <li><a href="{{site.baseurl}}/aboutus.html#documents">Documents</a></li>
                       <li><a href="mailto:{{site.owner.email}}">Send us an email</a></li>
+                      <li><a href="{{site.baseurl}}/issues.html">Report an issue</a></li>
                   </ul>
               </li>
               <li {{ navhigh[6] }} >
