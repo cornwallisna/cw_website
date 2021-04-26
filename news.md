@@ -4,7 +4,7 @@ topnav: news
 permalink: /news
 banner: All the CNA news that is fit to print
 image:
-  feature: "CornwallisLetterHead.png"
+  feature: "monument.png"
 ---
 
 <div class="row">
