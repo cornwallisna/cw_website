@@ -52,6 +52,10 @@ defaults:
       type: "posts"
     values:
       sponsors: "bottom"
+      image:
+        feature_width: "100%"
+      flexslider:
+        slideshowSpeed: 7000
 
 
 # Octopress configuration
