@@ -4,7 +4,7 @@ topnav: overview
 permalink: /overview
 banner: CNA Overview
 image:
-  feature: "https://lh3.googleusercontent.com/_iX1VGU4leIOtM54-OP7fv_bqjnQz4GpuHPdmRBh7QZ3jSZApQO-KHQQzUOD-rnm3kNHbVazFIEN2rEqtRtxeKtVXgqrgI3UZTjmzYCsU3_aX9gcX5cjy5IJorA-aWWbRLtG9h5ORg=w2400"
+  feature: "https://lh3.googleusercontent.com/93wrn97vUzdZUndNopVJyen5RcN8ewVPYH1un2h9El6yhd2J5LhDRs87VvgXWvYEEtqof75BxbStgj3r0QXWXD9tNerPby_3HavqUcFJ3Gh3iCT-fpxwBIU1LMr9jR-pkYJn9_-2pQ=w1920-h1080"
   feature_width: 50%
 ---
 
