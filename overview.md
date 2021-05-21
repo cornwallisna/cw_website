@@ -4,7 +4,7 @@ topnav: overview
 permalink: /overview
 banner: CNA Overview
 image:
-  feature: "https://lh3.googleusercontent.com/93wrn97vUzdZUndNopVJyen5RcN8ewVPYH1un2h9El6yhd2J5LhDRs87VvgXWvYEEtqof75BxbStgj3r0QXWXD9tNerPby_3HavqUcFJ3Gh3iCT-fpxwBIU1LMr9jR-pkYJn9_-2pQ=w1920-h1080"
+  feature: "CornwallisLetterhead.png"
   feature_width: 50%
 ---
 
