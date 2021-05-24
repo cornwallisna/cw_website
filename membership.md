@@ -37,7 +37,9 @@ Zelle is an online person-to-person, person-to-business payment service.  Your b
     at Chase, you can login and go to your <b>Pay & Transfer</b> menu entry and select <b>Payment Center</b>.  You should see a screen like [Chase dashboard for Zelle](images/zelle-at-chase.png).   From there you can enroll in Zelle and add a new recipient of <b>{{site.owner.email}}</b>.  Your payment via Zelle will automatically send a notification to the board along with your membership contribution to the CNA account.   You can also download the [Getting started with Zelle](https://www.zellepay.com/go/zelle) app for your iPhone or Android device.
 -->
 
+<!--
 ## Or you can print out this form and either send it to us or drop it off with one of the block captains
 
 <img src="images/CNA_membership_request.png">
 <button onclick="printImg('images/CNA_membership_request.pdf')">Print Membership Form</button>
+-->
