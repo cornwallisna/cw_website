@@ -118,6 +118,24 @@ slides:
 
 The order that these entries are listed is the order they are displayed on the website.
 
+# Email forwarding
+
+Emails to council members are forwarded to their respective accounts when email is received by cornwallisna@gmail.com.   The currently supported redirects are:
+
+* cornwallisna+president@gmail.com
+* cornwallisna+vicepresident@gmail.com
+* cornwallisna+treasurer@gmail.com
+* cornwallisna+secretary@gmail.com
+
+Additional email tags used within the site include:
+
+* cornwallisna+news@gmail.com  - Send CNA news or life event information to be published
+* cornwallisna+4sale@gmail.com - Send CNA requests to post local sale items and curb alerts (free stuff)
+
+# Analytics
+
+The site is being monitored by Google Analytics.  You will need the association account credentials to access the [GA site](analytics.google.com).
+
 # Original README from Simple Responsive Starter Template
 
 Simple is a responsive starter web site template. It is intended to be basic and bare-bone, with minimum styling and options included. Still, it has features clients usually would ask for: menu with drop-downs, slider, grid layout. See full list of features below.
