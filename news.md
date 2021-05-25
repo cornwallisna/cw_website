@@ -7,6 +7,9 @@ image:
   feature: "monument.png"
 ---
 
+## If you have a life event you would like to share ...
+Please send us the details and pictures if any to our [Editors](mailto:cornwallisna+lifeevents@gmail.com) for inclusion here.
+
 <div class="row">
 {% for post in site.categories.articles %}
   <!-- post.path is {{post.path}} -->

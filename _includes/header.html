@@ -1,5 +1,5 @@
 <!--                0   1     2         3        4     5    6     7    8        9        10     11        12           13      14     15 -->
-{% assign nav = "home,news,overview,calendar,about,blogs,links,block,holiday,membership,mail,president,vicepresident,photos,sponsors,issues"|split: "," %}
+{% assign nav = "home,news,overview,calendar,about,sales,links,block,holiday,membership,mail,president,vicepresident,photos,sponsors,issues"|split: "," %}
 {% assign navhigh = ""| split: ',' %}
 {% for c in (0..nav.size) %}
 {%  if page.topnav contains nav[c]  %}
@@ -17,6 +17,7 @@
           <ul class="srt-menu" id="menu-main-navigation">
               <li {{ navhigh[0] }}><a href="{{site.baseurl}}/index.html">Home page</a></li>
               <li {{ navhigh[1] }}><a href="{{site.baseurl}}/news.html">News</a></li>
+              <li {{ navhigh[5] }}><a href="{{site.baseurl}}/sales.html">For Sale/Free</a></li>
               <li {{navhigh[3]}}><a href="{{site.baseurl}}/calendar.html">Calendar</a></li>
               <li {{ navhigh[9] }}><a href="{{site.baseurl}}/membership.html">Membership</a></li>
               <li {{navhigh[13]}}><a href="{{site.baseurl}}/photos.html">Photos</a></li>
