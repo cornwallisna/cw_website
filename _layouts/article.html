@@ -42,7 +42,12 @@ topnav: community
       <h2>Posted on {{ page.date | date: "%B %d, %Y"}}</h2>
   	</div>
 
-     {{ content }}
+    {{ content }}
+
+    {% if page.contact %}
+    {% assign cinfo = page.contact|split: ":" |last %}
+    Contact <a href="{{page.contact}}">{{cinfo}}</a><br/><br/>
+    {% endif %}
 
      {% if page.previous.url %}
        <a href="{{site.baseurl}}{{ page.previous.url }}">Previous</a>

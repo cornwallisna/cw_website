@@ -16,9 +16,10 @@ This website uses Jekyll and the Responsive Starter Template to provide a websit
 # Features
 
 * Simple home page for important news
-* Running blog entries for use by board members
+* Running news entries for use by board members
 * Showcase some community pictures via google albums
 * Membership signup and renewal instructions
+* For sale/curb alert items to post
 * Association by-laws and document archive
 * Support for our communitY sponsors
 * Website feedback and issue tickets
@@ -30,11 +31,11 @@ Authorized members of the CNA team can submit updates to this Github repository 
 
 * [home page]({{site.github_url}}/blob/main/index.md) - Front page [edit]({{site.github_url}}/edit/main/index.md)
 * [news page]({{site.github_url}}/blob/main/news.md) - News page [edit]({{site.github_url}}/edit/main/news.md)
+* [for sale page]({{site.github_url}}/blob/main/sales.md) - News page [edit]({{site.github_url}}/edit/main/sales.md)
 * [presidents page]({{site.github_url}}/blob/main/presidents.md) - Presidents Message page [edit]({{site.github_url}}/edit/main/presidents.md)
 * [vicepresidents page]({{site.github_url}}/blob/main/vicepresidents.md) - Vice Presidents Message  page [edit]({{site.github_url}}/edit/main/vicepresidents.md)
 * [aboutus page]({{site.github_url}}/blob/main/aboutus.md) - About page [edit]({{site.github_url}}/edit/main/aboutus.md)
 * [membership page]({{site.github_url}}/blob/main/membership.md) - Membership/Enrollment page [edit]({{site.github_url}}/edit/main/membership.md)
-* [blogs page]({{site.github_url}}/blob/main/blogs.md) - Blog entries page, note, you probably don't need to edit this [edit]({{site.github_url}}/edit/main/blogs.md)
 
 ## Jekyll and frontmatter
 
@@ -62,12 +63,12 @@ Images are jpg, png, or any other supported picture type.  Typically, they are s
 
 Images can be added to the repository via [drag and drop]({{site.github_url}}/upload/main/images) or by clicking on the Add Files button
 
-## Adding a new blog entry
+## Adding a new news or for-sale entry
 
-New blog entries are created in the [_posts folder]({{site.github_url}}/blob/main/_posts) folder.  These files are named as
+New entries are created in the [_posts folder]({{site.github_url}}/blob/main/_posts) folder.  These files are named as
 *YYYY-MM-DD-anythingyouwant.md*.  For example, 2021-02-02-groundhogsday-update.md where you could tell everyone where to see the groundhogs.
 
-Each blog entry is a Jekyll article page.  An example article might look like:
+Each entry is a Jekyll article page.  An example article might look like:
 
 <pre>
 ---
@@ -75,6 +76,7 @@ layout: article
 title: "Garage sales!!!!!"
 categories: articles
 modified: 2021-01-26T11:30:41-04:00
+contact: mailto:cornwallisna+example@gmail.com
 tags: general,garagesale
 sponsors: "bottom"
 image:
@@ -89,6 +91,8 @@ This is content, we are having a garage sale ...
 </pre>
 
 You can [create a new blog entry]({{site.github_url}}/new/main/_posts) directly.  Simply cut and paste the above frontmatter into the new file and add your text below the `---`.  Be sure to change the image to suit your blog entry (See above for how to upload a new image).
+
+The categories entry above has two possible values, *articles* for news and *sales* for free/for-sale items.  You can also specify a contact and that will be added to the bottom of the message.  Valid forms for the contact info are the same as for sponsors (see {{site.github_url}}/_data/sponsors.yml) *link* field (see below.)
 
 ## Advertising
 
