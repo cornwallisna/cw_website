@@ -36,7 +36,7 @@ xsidemenu:
       <td><a href="tel:732-766-4694">732-766-4694</a></td>
     </tr>
     <tr>
-      <td><a href="mailto:cornwallna+ron@gmail.com">Ron's email</a></td>
+      <td><a href="mailto:cornwallna+president@gmail.com">Ron's email</a></td>
     </tr>
   </tbody>
 </table>
@@ -63,7 +63,7 @@ xsidemenu:
       <td><a href="tel:239-839-8466">239-839-8466</a></td>
     </tr>
     <tr>
-      <td><a href="mailto:cornwallna+sandra@gmail.com">Sandra's email</a></td>
+      <td><a href="mailto:cornwallna+vicepresident@gmail.com">Sandra's email</a></td>
     </tr>
   </tbody>
 </table>
@@ -90,7 +90,7 @@ xsidemenu:
       <td><a href="tel:919-830-8734">919-830-8734</a></td>
     </tr>
     <tr>
-      <td><a href="mailto:cornwallna+karla@gmail.com">Karla's email</a></td>
+      <td><a href="mailto:cornwallna+secretary@gmail.com">Karla's email</a></td>
     </tr>
   </tbody>
 </table>
@@ -118,7 +118,7 @@ xsidemenu:
       <td><a href="tel:616-581-1104">616-581-1104</a></td>
     </tr>
     <tr>
-      <td><a href="mailto:cornwallna+wendell@gmail.com">Wendell's email</a></td>
+      <td><a href="mailto:cornwallna+treasurer@gmail.com">Wendell's email</a></td>
     </tr>
   </tbody>
 </table>
