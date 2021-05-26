@@ -4,7 +4,7 @@
      {%- assign hitID =  page.hitID | default: page.permalink | default: page.name | replace: "/","_" | strip | replace: " ","" | downcase| prepend: "page_"  -%}
      {%- assign hitURL = site.github_url | append: 'hit-counter-' | append: hitID | url_encode %}
     <!-- PAGEHITID: {{ hitID|url_encode }} -->
-    <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url={{ hitURL }}" alt="Stats" style="display: none;"></a>&nbsp; Page created by <a href="mailto:fcassirer@gmail.com">Fred Cassirer</a>,
+    <!-- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url={{ hitURL }}" alt="Stats" style="display: none;"></a> -->&nbsp; Page created by <a href="mailto:fcassirer@gmail.com">Fred Cassirer</a>,
       <a href="{{site.baseurl}}/issues.html">click here to open a new problem report</a>.  To list existing reports, <a href="{{site.github_url}}/issues">click here</a>
       <p>&nbsp; Site last updated at: {{site.time|date: "%B %e, %Y %H:%M %Z"}}</p>
 
