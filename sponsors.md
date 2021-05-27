@@ -9,14 +9,23 @@ sponsors: "off"
 
 {% for slide in site.data.sponsors.slides %}
 
-<h2> <a href="{{slide.link}}">{{slide.name}}</a> </h2>
+{% if slide.link %}
+{% assign link=slide.link|split: ","|first %}
+<!-- {{ link }} -->
+{%endif%}
+
+<h2> <a href="{{link}}">{{slide.name}}</a> </h2>
 
 <div class="row">
 <div class="grid_7">
-<a href="{{slide.link}}"><img src="{{site.baseurl}}{{slide.img}}" width="70%" style="float: left;"></a>
+<a href="{{link}}"><img src="{{site.baseurl}}{{slide.img}}" width="70%" style="float: left;"></a>
 </div>
 <p/>
-<div class="grid_5"> {{slide.caption}} </div>
+<div class="grid_5"> {{slide.caption}}<br>
+  {% if slide.phone %} Phone: <a href="tel:{{ slide.phone }}">{{slide.phone}}</a> <br>{%endif%}
+  {% if slide.email %} Email: <a href="mailto:{{ slide.email }}">{{slide.email}}</a> <br> {%endif%}
+  {% if slide.link %} Link: <a href="{{ link }}">{{link}}</a> <br> {%endif%}
+</div>
 </div>
 <p>
 

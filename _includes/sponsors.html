@@ -4,14 +4,23 @@
   <ul class="slides">
     <!-- DATA {{ site.data.sponsors.slides }} -->
     {% for slide in site.data.sponsors.slides %}
+        {% if slide.link %}
+          {% assign link=slide.link|split: ","|first %}
+        {%endif%}
         <li>
         {% if slide.img contains "https://" or slide.img contains "http://" %}
-          <a href="{{slide.link}}"><img src="{{ slide.img }}"/></a>
+          <a href="{{link}}"><img src="{{ slide.img }}"/></a>
         {% else %}
-          <a href="{{slide.link}}"><img src="{{site.baseurl}}{{ slide.img }}"/></a>
+          <a href="{{link}}"><img src="{{site.baseurl}}{{ slide.img }}"/></a>
         {% endif %}
-          <p class="flex-caption"><a href="{{slide.link}}">{{ slide.caption }}</a></p>
+        <p class="flex-caption">
+          <a href="{{link}}">{{ slide.caption }}</a>
+          {% if slide.phone %}<br><a href="tel:{{ slide.phone }}">{{slide.phone}}</a>{%endif%}
+          {% if slide.email %}<br><a href="mailto:{{ slide.email }}">Email Us!</a>{%endif%}
+          <br>
+        </p>
         </li>
+
     {% endfor %}
     </ul>
   </div><!-- FlexSlider -->
