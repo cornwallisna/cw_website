@@ -25,7 +25,7 @@ slides:
   - img: /images/ads/QualityPest.jpg
     caption: Donald Burns, Quality Pest Control
     phone: 239-540-2359
-    link: tel:239-540-2359
+    link: https://www.qualitypestcontrolswfl.com
     name: Quality Pest Control
   - img: /images/ads/FremarConstruction.png
     caption: Mark M. Steinberg, Fremar Construction
