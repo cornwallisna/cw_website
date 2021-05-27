@@ -29,7 +29,9 @@ $(document).ready(function(){
 	// initialise  slideshow
 	 $('.flexslider').flexslider({
          animation: "slide",
+         pauseOnHover: true,
          slideshowSpeed: {{ page.flexslider.slideshowSpeed }},
+         randomize: true,
         start: function(slider){
           $('body').removeClass('loading');
         }
