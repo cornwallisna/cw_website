@@ -1,10 +1,15 @@
 slides:
-  - img: /images/ads/DesignsToAT.png
+  - img: /images/ads/DesignsToAT.jpg
     caption: Designs To A "T"
     phone: 239-549-5995
     email: designs2aT@comcast.net
     link: mailto:designs2aT@comcast.net
     name: DesignsToAT
+  - img: /images/ads/UniqueBoutique.jpg
+    caption: Unique Boutique Consignment for you and your home
+    phone: 239-549-5995
+    email: tel:239-549-5995
+    name: Unique Boutique Consignments
   - img: /images/ads/AutoAir.png
     caption: AutoAir & Electric of Lee County
     link: tel:239-936-1992
@@ -33,7 +38,7 @@ slides:
     link: https://www.fremarhomes.com,https://www.capecoralbuilder.net
     email: markms@capecoralbuilder.net
     name: Fremar Construction
-  - img: /images/ads/Turbo.png
+  - img: /images/ads/Turbo.jpg
     caption: Turbo Refridgeration & Air Conditioning
     phone: 239-561-1116
     email: brian@turbo.comcastbiz.net
