@@ -41,3 +41,7 @@ topics:
 ## Join the club!
 
 It is that time of year again to pay your CNA dues.  See the [membership information](membership.html) for details.
+
+# In Memory
+
+In May we lost two of our long time and dear CNA members, Mark, and Janice O’Brien. Janice passed away on May 10th and Mark on May 19th. They married September 7, 1963, in Louisville, Ky. They recently celebrated their 57th anniversary. They were both greatly loved by family, friends, and neighbors and will be missed by all. They moved to Cape Coral in 1991 and became part of our Cornwallis Neighborhood family.  They will be remembered for their generous spirit and endeavors to help people throughout their lives. God Bless Mark and Janice.
