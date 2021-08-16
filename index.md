@@ -32,7 +32,7 @@ topics:
     img: "images/speeding.jpg"
     content: "Speeders, Vandalism, & Non-emergency police reports: <a href='tel:239-547-3223'>239-547-3223</a>.  <p> Code enforcement issues, Citizens Action Center, broken sprinklers and mowing issues: <a href='tel:311'>311</a>"
   - title: Cape Coral Services & Schedules
-    img: https://cms4.revize.com/revize/capecoralfl/_assets_/images/slider-1.jpg
+    img: https://files1.revize.com/revize/capecoralfl/_assets_/images/slider-1.jpg
     content: <a href="https://www.capecoral.net/department/utilities_department/watering_schedule.php">Watering schedule</a><p/><a href="https://www.capecoral.net/department/public_works/solid_waste.php">Waste, Horticulture & Bulk pickup schedule</a>
   - title: Sponsors
 

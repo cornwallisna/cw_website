@@ -128,9 +128,9 @@ xsidemenu:
 <a name="documents"></a>
 # Documents
 
-* [Bi-Laws](https://drive.google.com/drive/folders/1z7htN-yh513ab4amzpPrKBkf_c9rHLuP?usp=sharing)
-* [CNA Minutes of Meetings](https://drive.google.com/drive/folders/15sAxfyY-clztWBZo5aSFgIWIJt9NGSb_?usp=sharing)
-* [Agendas](https://drive.google.com/drive/folders/182cUKihZiZC8bXqBpjEoYiHaTIOm3QF6?usp=sharing)
-* [Treasurers Annual Report](https://drive.google.com/drive/folders/1VKdOfS8852em5L2Bcs6h_lsXrIjbPKd6?usp=sharing)
-* [Block Captains](https://drive.google.com/drive/folders/1RWZJBCMEkXjlItZV2uPIOpdQDHyIAxrZ?usp=sharing)
-* [Link to newsletter archive](https://drive.google.com/drive/folders/1iCvR7ugAIrUh2sqzjmKsIhwrbwYuVuin?usp=sharing)
+* [Bi-Laws](https://drive.google.com/drive/folders/1z7htN-yh513ab4amzpPrKBkf_c9rHLuP?usp=sharing){:target="_blank" rel="noopener"}
+* [CNA Minutes of Meetings](https://drive.google.com/drive/folders/15sAxfyY-clztWBZo5aSFgIWIJt9NGSb_?usp=sharing){:target="_blank" rel="noopener"}
+* [Agendas](https://drive.google.com/drive/folders/182cUKihZiZC8bXqBpjEoYiHaTIOm3QF6?usp=sharing){:target="_blank" rel="noopener"}
+* [Treasurers Annual Report](https://drive.google.com/drive/folders/1VKdOfS8852em5L2Bcs6h_lsXrIjbPKd6?usp=sharing){:target="_blank" rel="noopener"}
+* [Block Captains](https://drive.google.com/drive/folders/1RWZJBCMEkXjlItZV2uPIOpdQDHyIAxrZ?usp=sharing){:target="_blank" rel="noopener"}
+* [Link to newsletter archive](https://drive.google.com/drive/folders/1iCvR7ugAIrUh2sqzjmKsIhwrbwYuVuin?usp=sharing){:target="_blank" rel="noopener"}

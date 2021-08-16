@@ -10,7 +10,7 @@ slides:
     phone: 239-549-5995
     email: designs2aT@comcast.net
     name: Unique Boutique Consignments
-  - img: /images/ads/AutoAir.png
+  - img: /images/ads/AutoAirandElectric.jpg
     caption: AutoAir & Electric of Lee County
     link: tel:239-936-1992
     phone: 239-936-1992
@@ -40,17 +40,21 @@ slides:
     email: markms@capecoralbuilder.net
     name: Fremar Construction
   - img: /images/ads/Turbo.jpg
-    caption: Turbo Refridgeration & Air Conditioning
+    caption: Turbo Refrigeration & Air Conditioning
     phone: 239-561-1116
     email: brian@turbo.comcastbiz.net
     link: mailto:brian@turbo.comcastbiz.net
-    name: Turbo Refridgeration
+    name: Turbo Refrigeration
   - img: /images/ads/GermanQualityPainting.jpg
     caption: German Quality Painting
     phone: 239-233-7200
     link: http://www.germanqualitypainting.com
     email: malte@germanqualitypainting.com
     name: German Quality Painting
+  - img: /images/ads/SeductionAd.png
+    caption: Seduction! Intimate Playthings
+    phone: 239-418-1855
+    name: Seduction!
   - img: /images/ads/your_ad_here.jpg
     caption: Contact us to list your company
     name: CNA
