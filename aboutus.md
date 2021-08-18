@@ -16,12 +16,14 @@ xsidemenu:
 <a name="board"></a>
 # The Board
 
-## PRESIDENT
+## [PRESIDENT's Message](presidents.html)
 
 <div class="row">
 <div class="grid_6">
+<a href="presidents.html">
 <img src="images/stickperson.png" width="30%">
-<a href="presidents.html"><img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%"></a>
+<img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%">
+</a>
 </div>
 <div class="grid_6">
 <table>
@@ -43,12 +45,14 @@ xsidemenu:
 </div>
 </div>
 
-## VICE PRESIDENT
+## [VICE PRESIDENT's Message](vicepresidents.html)
 
 <div class="row">
 <div class="grid_6">
-<img src="images/sticklady.png" width="25%">
-<a href="vicepresidents.html"><img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%"></a>
+<a href="vicepresidents.html">
+  <img src="images/sticklady.png" width="25%">
+  <img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%">
+</a>
 </div>
 <div class="grid_4">
 <table>
@@ -70,12 +74,14 @@ xsidemenu:
 </div>
 </div>
 
-## SECRETARY INTERIM
+## [SECRETARY INTERIM's Message](secretary.html)
 
 <div class="row">
 <div class="grid_6">
-<img src="images/sticklady.png" width="25%">
-<a href="secretary.html"><img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%"></a>
+<a href="secretary.html">
+  <img src="images/sticklady.png" width="25%">
+  <img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%">
+</a>
 </div>
 <div class="grid_4">
 <table>
@@ -98,12 +104,14 @@ xsidemenu:
 </div>
 </div>
 
-## TREASURER
+## [TREASURER's Message](treasurer.html)
 
 <div class="row">
 <div class="grid_6">
-<img src="images/stickperson.png" width="30%">
-<a href="treasurer.html"><img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%"></a>
+<a href="treasurer.html">
+  <img src="images/stickperson.png" width="30%">
+  <img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%">
+</a>
 </div>
 <div class="grid_6">
 <table>
