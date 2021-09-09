@@ -41,7 +41,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      background: "under_construction_PNG46.png"
+      background: "help.png"
       image:
         feature_width: "100%"
       flexslider:
