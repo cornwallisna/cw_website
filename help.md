@@ -33,7 +33,7 @@ Here is where the important stuff lives.  We will give you a bit of an overview 
 
 ### News
 
-Clicking on the News menu will take you to running list of news-worthy items.  You are welcome to contribute to this area, simply send us what you want to post.   This is not intended to be a community buliton board, you can do that on Facebook or [nextdoor Cornwallis](https://nextdoor.com/news_feed/?profile_id=62313420)
+Clicking on the News menu will take you to running list of news-worthy items.  You are welcome to contribute to this area, simply send us what you want to post.   This is not intended to be a community bulletin board, you can do that on Facebook or [nextdoor Cornwallis](https://nextdoor.com/news_feed/?profile_id=62313420)
 
 
 ### For Sale/Free
