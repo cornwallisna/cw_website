@@ -44,7 +44,7 @@ It is that time of year again to pay your CNA dues.  See the [membership informa
 
 # December 7th, 2021 is CNA officer elections
 
-To all CNA members, lease attend the December 7th general meeting.  It will be the last meeting of the year so new officers will be elected.  Please consider donating your time.  We will also be voting on a membership dues increase.  Thankfully we were reminded that membership dues are in the Bi-Laws and have to be voted on to change.  We are proposing to raise them from $20.00 to $25.00.  The dues have been changed back and forth from these two amounts since 1993 when the first board was elected. Rosemary Boon and Gail Balsamo were our first Secretaries.
+To all CNA members, please attend the December 7th general meeting.  It will be the last meeting of the year so new officers will be elected.  Please consider donating your time.  We will also be voting on a membership dues increase.  Thankfully we were reminded that membership dues are in the Bi-Laws and have to be voted on to change.  We are proposing to raise them from $20.00 to $25.00.  The dues have been changed back and forth from these two amounts since 1993 when the first board was elected. Rosemary Boon and Gail Balsamo were our first Secretaries.
 
 # Flood insurance meeting at the Yacht Club
 
