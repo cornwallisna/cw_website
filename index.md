@@ -42,6 +42,21 @@ topics:
 
 It is that time of year again to pay your CNA dues.  See the [membership information](membership.html) for details.
 
-# In Memory
+# December 7th, 2021 is CNA officer elections
 
-In May we lost two of our long time and dear CNA members, Mark, and Janice O’Brien. Janice passed away on May 10th and Mark on May 19th. They married September 7, 1963, in Louisville, Ky. They recently celebrated their 57th anniversary. They were both greatly loved by family, friends, and neighbors and will be missed by all. They moved to Cape Coral in 1991 and became part of our Cornwallis Neighborhood family.  They will be remembered for their generous spirit and endeavors to help people throughout their lives. God Bless Mark and Janice.
+To all CNA members, lease attend the December 7th general meeting.  It will be the last meeting of the year so new officers will be elected.  Please consider donating your time.  We will also be voting on a membership dues increase.  Thankfully we were reminded that membership dues are in the Bi-Laws and have to be voted on to change.  We are proposing to raise them from $20.00 to $25.00.  The dues have been changed back and forth from these two amounts since 1993 when the first board was elected. Rosemary Boon and Gail Balsamo were our first Secretaries.
+
+# Flood insurance meeting at the Yacht Club
+
+I wanted to make sure that everyone was made aware of the upcoming meeting set for tomorrow, Oct 12th from 5:30 - 8:30pm at the Cape Coral Yacht Club ballroom. It is located at 5819 Driftwood Parkway Cape Coral, FL. The topic will be upcoming flood insurance changes via the  FEMA RISK RATING 2.0.  If you do not know we are in a Flood Zone AE.  People attending will be:
+
+
+* Cape Coral Councilmember  Gloria Tate
+* Lee Co. Commissioner  Kevin Ruane
+* CEO Chapman Insurance Group  Brian Chapman
+* City Planning Coordinator  Wyatt Daltry
+* Rep. from U.S. Sen. Marco Rubio
+* Rep. from U.S. Rep Byron Donalds
+
+
+Look forward to seeing you there.
