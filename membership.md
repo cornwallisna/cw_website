@@ -17,7 +17,7 @@ Membership dues are currently $20.00 per year.
 
 * Entrance Monument maintenance, repair & replacement
 * Website Costs
-* Printing & Distribution Costs (remove the following- of our Newsletter to all residents of the Cornwallis neighborhood 4 x year)
+* Printing & Distribution Costs
 * Advertisement and sign cost (for neighborhood activities & events)
 * Annual Block Party
 * Annual Christmas Party

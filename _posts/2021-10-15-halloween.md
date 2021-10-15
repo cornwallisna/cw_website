@@ -31,8 +31,8 @@ will have hot dogs, chips and water. BYOB
 The activities will be Cornhole, Arts and Crafts and Pumpkin Painting (bring your own pumpkin). Enjoy the
 evening with old neighbors and welcome the new to our neighborhood.
 
-**6:30pm Clean up and get your costume ready, neighbors head home to get your candy ready. If you're not
-going to be home, you can leave a bowl of candy treats by the front door. **
+**6:30pm** Clean up and get your costume ready, neighbors head home to get your candy ready. If you're not
+going to be home, you can leave a bowl of candy treats by the front door.
 
 **6:45pm-7:00pm**  Trick or Treaters will get into groups and begin visiting neighbors for Trick or Treating FUN!
 Sunset is at 6:46pm. We have orange flags for all those that want to give out candy. If you are interested in being
