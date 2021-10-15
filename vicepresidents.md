@@ -5,10 +5,26 @@ banner:  Vice Presidents Message
 permalink: /vicepresidents
 ---
 
-Hi All
+Fall brings so many welcome changes.  From the slightly less humid weather, fun festivals, and farmer’s markets to welcoming our seasonal residents back; it’s a good time of year.
 
-Now that summer is officially here, it’s a good time to check in with neighbors and let them know when you are leaving/returning.  Cornwallis is a place where neighbors look out for each other.  Something to put on your calendar, our annual Christmas party on December 11, 2021.  It’s a bit down the road but it is scheduled, and we are excited to have more things to look forward to.  We will have the website up soon which will make it much easier to keep in touch.  The newsletter will also be available on-line so if you haven’t already, please send your email to me (text or email) and I will update our member list so that you will receive the newsletter (no spam mail, I promise).  Enjoy the longer days, greener grass, and warmer water that summer brings!  I look forward to seeing you around the neighborhood.
+Annual Enrollment Period (AEP) is here for Medicare recipients.  Recently a client asked me to review her Medicare insurance plan options before "Open Season" started.  I laughed thinking how Medicare's "Annual Enrollment" may feel a bit like hunting season since it occurs every Autumn and there is a ton of mail and advertising that target Medicare recipients.  Don’t be pressured, just get the facts.  It’s not so complicated once someone takes the time to explain (in layman’s terms).
+
+Here’s some things you should know about Medicare’s AEP that applies to Medicare Advantage Plans and Prescription Drug (MAPD) Plans.  This is the time of year that you can drop, add or change coverage.  If you are happy with your current plan, it automatically renews so there’s nothing to do.
+
+Let's review:
+
+1. You can only join a plan during certain times of the year, and once you do join, you generally agree to keep the plan for the balance of the calendar year.
+
+2. Advantage Plans & Prescription Drug Plans can & do change each year, so current members should check the Annual Notice of Change mailed to you in September.
+
+3. You can join a Medicare Advantage plan even if you have a pre-existing medical condition, 4)Advantage plans have a yearly limit on your out-of-pocket expenses for your financial protection (unlike Original Medicare) and should you reach your limit, the plan will cover your medical expenses at 100%.
 
 
-Sandra Wall
-CNA Vice-President
+You can begin enrolling in a 2022 plan starting on **October 15th**, with a **January 1st** effective date.
+
+Feel free to give me a call or check out my website for more info.
+https://sandralwall.com/
+
+_Sandra Wall_
+
+**CNA Vice-President**
