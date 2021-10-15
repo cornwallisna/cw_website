@@ -9,4 +9,4 @@ I have really enjoyed my bike riding this past summer and now into fall.  First 
 
 Karla Martinez
 CNA Secretary
-<img src="/images/IMG_1009.png">
+<img src="/images/IMG_1009.png" width="250">
