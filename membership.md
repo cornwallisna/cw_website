@@ -15,14 +15,15 @@ Cornwallis Neighborhood Association (CNA) was formed in 1994. Our main purpose w
 
 Membership dues are currently $20.00 per year.
 
-Membership dues provide but are not limited to the following.
-* Printing & Distribution of our Newsletter to all residents of the Cornwallis neighborhood 4 x year
-* Advertisement and sign cost for neighborhood yard sale(s)
+* Entrance Monument maintenance, repair & replacement
+* Website Costs
+* Printing & Distribution Costs (remove the following- of our Newsletter to all residents of the Cornwallis neighborhood 4 x year)
+* Advertisement and sign cost (for neighborhood activities & events)
 * Annual Block Party
 * Annual Christmas Party
 * New members Gift Bag
 * Legal representation as necessary specific to CNA protecting and maintaining our neighborhood and or community interests.
-* Median 1 beautification as well as ongoing beautification of all medians as needed.
+* Median Maintenance & beautification (grass, shrubs, tress, plants, palms, benches, library)
 * Purchase of benches/signs/garbage cans for medians
 
 
