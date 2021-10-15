@@ -12,3 +12,4 @@ CNA Secretary
 
 <img src="/images/IMG_1009.png" width="250">
 <img src="/images/IMG_1011.png" width="250">
+<img src="/images/IMG_1010.png" width="250">
