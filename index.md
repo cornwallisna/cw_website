@@ -40,7 +40,16 @@ topics:
 
 ## Please note the latest events in the CNA Calendar!
 
-[CNA Calendar](/calendar.html)
+Events of note:
+
+* **CNA General Membership**  Meeting on October 19 - Guest Speaker will be Mayor, John Gunter
+* **Annual Halloween Cornwallis Neighborhood Fun!** October 31 - refer to details.
+* **CNA General Membership**  Meeting on December 7 - CNA Board Election & Guest Speaker will be City Manager, Rob Hernandez
+* **Holiday Christmas Party** - December 11 at Terrace Hall - more details to follow
+* **Open Positions** - Board Secretary, Website Team & Website content manager (volunteers needed)
+
+
+To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
 
 ## Join the club!
 
@@ -51,33 +60,32 @@ It is that time of year again to pay your CNA dues.  See the [membership informa
 To all CNA members, please attend the December 7th general meeting. It will be the last meeting of the year so new officers will be elected. Please consider donating your time. As per our Bi-laws we will also be voting on a membership dues increase for 2023 .
 We are proposing to raise them from $20.00 to $25.00. The dues have been changed back and forth from these two amounts since 1993 when the first board was elected. Rosemary Boon and Gail Balsamo were our first Secretaries.
 
-To all CNA members, please attend the December 7th general meeting.  It will be the last meeting of the year so new officers will be elected.  Please consider donating your time.  We will also be voting on a membership dues increase.  Thankfully we were reminded that membership dues are in the Bi-Laws and have to be voted on to change.  We are proposing to raise them from $20.00 to $25.00.  The dues have been changed back and forth from these two amounts since 1993 when the first board was elected. Rosemary Boon and Gail Balsamo were our first Secretaries.
 
 # Flood insurance meeting at the Yacht Club
 
 CNA board members and residents attended the Town Hall meeting yesterday at the Cape Coral Yacht Club building.  Jesse Purdon representing U.S. Congressman Byron Donalds' office attended and spoke.  Brian Chapman from Chapman Insurance Group attended and spoke.  Commissioner Kevin Ruane attended and spoke.  London Rotundo representing Senator Marco Rubio was there and spoke.  The main topic was how insurance is calculated and based on what factors.   Not one person there could answer that question.  One thing that we did find out is that Senator Marco Rubio introduced a bill to Extend the National Flood Insurance Program through December 3, 2021 and it passed.  London Rotundo from his office also informed us that Senator Rubio has already begun working on a bipartisan reform bill to ensure flood insurance remains affordable. This is where they need our help.  They need raw data to make a case.  The realtors, insurance agents, local officials and of course residents need to band together to make our voices heard.  "Power in Numbers". Let them know your situation.  So please either call or write your local officials listed below.
 
-**Jesse Purdon**
-Rep. Byron Donalds' District Director
-[jesse.purdon@mail.house.gov](mailto:jesse.purdon@mail.house.gov)
+**Jesse Purdon**\
+Rep. Byron Donalds' District Director\
+[jesse.purdon@mail.house.gov](mailto:jesse.purdon@mail.house.gov)\
 239-599-6033
 
-**London  Rotundo**
-Sen. Marco Rubio's Regional Director
-[london_rotundo@rubio.senate.gov](mailto:london_rotundo@rubio.senate.gov)
+**London  Rotundo**\
+Sen. Marco Rubio's Regional Director\
+[london_rotundo@rubio.senate.gov](mailto:london_rotundo@rubio.senate.gov)\
 407-254-2573
 
-**Kevin Ruane**
-District 1 Commissioner
-[dist1@leegov.com](mailto:dist1@leegov.com)
+**Kevin Ruane**\
+District 1 Commissioner\
+[dist1@leegov.com](mailto:dist1@leegov.com)\
 239-485-2143 (Pamela Smith Exec. Assistant)
 
-**Brian Chapman**
-Chapman Insurance Group
-[cigflorida.com](cigflorida.com)
+**Brian Chapman**\
+Chapman Insurance Group\
+[cigflorida.com](cigflorida.com)\
 239-205-2012
 
-**Gloria Tate**
-City Council District 1
-[gtate@capecoral.gov](mailto:gtate@capecoral.gov)
+**Gloria Tate**\
+City Council District 1\
+[gtate@capecoral.gov](mailto:gtate@capecoral.gov)\
 239-542-2254
