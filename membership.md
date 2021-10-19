@@ -9,13 +9,14 @@ image:
 ---
 
 
-Cornwallis Neighborhood Association (CNA) was formed in 1994. Our main purpose was focused to and for the continuous improvement, enhancement, beautification safety, and enjoyment of our neighborhood and all its astounding surroundings. Over the years we have beautified our medians, purchased, and maintain our unique entrance monument along with the flagpole, introduced lights on median 1 and helped residents with their respective cul-de-sac median maintenance. Additionally, we operate as needed as a neighborhood advocacy group relative to maintaining water quality, Environmental health & safety, or other specific matters as they arise.
+Cornwallis Neighborhood Association (CNA) was formed in 1994. Our main purpose was focused to and for the continuous improvement, enhancement, beautification, safety, and enjoyment of our neighborhood and all its astounding surroundings. Over the years we have beautified our medians, purchased, and maintained our unique entrance monument along with the flagpole, introduced lights on median 1 and helped residents with their respective cul-de-sac median maintenance. Additionally, we operate as needed as a neighborhood advocacy group relative to maintaining water quality, Environmental health & safety, or other specific matters as they arise.
 
 # Membership
 
-Membership dues are currently $20.00 per year.
+Membership dues are currently $20.00 per year.  Dues are put towards the following:
 
 * Entrance Monument maintenance, repair & replacement
+* Flagpole maintenance and Flag replacements
 * Website Costs
 * Printing & Distribution Costs
 * Advertisement and sign cost (for neighborhood activities & events)
@@ -23,7 +24,7 @@ Membership dues are currently $20.00 per year.
 * Annual Christmas Party
 * New members Gift Bag
 * Legal representation as necessary specific to CNA protecting and maintaining our neighborhood and or community interests.
-* Median Maintenance & beautification (grass, shrubs, tress, plants, palms, benches, library)
+* Median Maintenance & beautification (grass, shrubs, tress, plants, palms, benches, lighting, library)
 * Purchase of benches/signs/garbage cans for medians
 
 
