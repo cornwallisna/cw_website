@@ -38,6 +38,12 @@ topics:
 
 ---
 
+# Want to get involved in the CNA web site?
+
+Looking for volunteers to help with content and coordination.
+Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for details.
+
+
 # Membership dues are still $20 for 2022
 
 Please remember that a dues increase is only being proposed for 2023.
