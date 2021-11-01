@@ -38,7 +38,11 @@ topics:
 
 ---
 
-## Please note the latest events in the CNA Calendar!
+# Membership dues are still $20 for 2022
+
+Please remember that a dues increase is only being proposed for 2023.
+
+# Please note the latest events in the CNA Calendar!
 
 Events of note:
 
@@ -51,7 +55,7 @@ Events of note:
 
 To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
 
-## Join the club!
+# Join the club!
 
 It is that time of year again to pay your CNA dues.  See the [membership information](membership.html) for details.
 
