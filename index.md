@@ -52,10 +52,13 @@ Please remember that a dues increase is only being proposed for 2023.
 
 Events of note:
 
-* **CNA General Membership**  Meeting on October 19 - Guest Speaker will be Mayor, John Gunter
-* **Annual Halloween Cornwallis Neighborhood Fun!** October 31 - refer to details.
-* **CNA General Membership**  Meeting on December 7 - CNA Board Election & Guest Speaker will be City Manager, Rob Hernandez
-* **Holiday Christmas Party** - December 11 at Terrace Hall - more details to follow
+* **CNA General Membership Meeting on December 7** - CNA Board Elections & Guest Speaker will be City Manager, Rob Hernandez
+  * Please consider running for office and or volunteering
+  * All Current Board Members (with the exception of our Secretary) will run for reelection
+  * **Our Secretary Position is open** - please consider running for this important position
+* **Holiday Christmas Party** - December 11 at Terrace Hall - more details to follow - refer to emails and website updates
+* **Garage Sale** - Neighborhood Wide Garage Sale event will take place on Friday, February 18 & Saturday, February 19
+* **Block Party** - Neighborhood Block Party event will take place on Saturday, March 12 (rain date is Sunday, March 13)
 * **Open Positions** - Board Secretary, Website Team & Website content manager (volunteers needed)
 
 
