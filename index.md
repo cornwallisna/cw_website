@@ -38,6 +38,11 @@ topics:
 
 ---
 
+# Zelle payment is now available for membership
+
+We now have Zelle up and running to pay for membership, see the [membership page](/membership.html) for details!
+
+
 # Want to get involved in the CNA web site?
 
 Looking for volunteers to help with content and coordination.
