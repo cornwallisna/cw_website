@@ -16,6 +16,8 @@ button2:
   text: "Signup!"
   link: "membership.html"
 slides:
+  - img: "images/xmas2021_tree.png"
+    caption: Happy Holidays!
   - img: https://lh3.googleusercontent.com/ikD15IMzvdLpyt7xL4yh_29nDCil6wgNsVjgbZYYgleNWLsX1lUzfAMWQLyCRqfBNo9_lFBMskOV_HXXkLDDZhlSSaWdzcKQTFVF2ceSlYvStsVtzCufi_tjB3G0MV5ugvSsIYx05g=w2400
     caption: Neighborhood Map
   - img: https://lh3.googleusercontent.com/_iX1VGU4leIOtM54-OP7fv_bqjnQz4GpuHPdmRBh7QZ3jSZApQO-KHQQzUOD-rnm3kNHbVazFIEN2rEqtRtxeKtVXgqrgI3UZTjmzYCsU3_aX9gcX5cjy5IJorA-aWWbRLtG9h5ORg=w2400
@@ -26,8 +28,12 @@ slides:
     caption: Cornwallis Sunsets
   - img: https://lh3.googleusercontent.com/pJzZJ279SpDN72CnFXzLRHJlWL_5fmlA0MC28UEPr-jHUbvKtH2zlpWyb5rstYA2woHhjDgB2OyvshqQl11OmpPPtCyi1NSxtGl26Vq5gQOSYbu3xgtMg7rN8Bi6de1siAiYLHb1fsw=w2400
     caption: SE 28th Terrace
+
 grid_style: 4  # 1 for small, 2 for medium, 3 for large
 topics:
+  - title: Happy Holidays
+    content: At this very special time of year the Board sends wishes to our CNA members and their families as well as our extended community for a very happy, joyous, and safe Holiday season. Also, early wishes for a Healthy, Safe, and Prosperous New Year!
+    img: "images/xmas2022.png"
   - title: Neighborhood Watch
     img: "images/speeding.jpg"
     content: "Speeders, Vandalism, & Non-emergency police reports: <a href='tel:239-547-3223'>239-547-3223</a>.  <p> Code enforcement issues, Citizens Action Center, broken sprinklers and mowing issues: <a href='tel:311'>311</a>"
@@ -55,28 +61,25 @@ Please remember that a dues increase is only being proposed for 2023.
 
 # Please note the latest events in the CNA Calendar!
 
+
 Events of note:
 
-* **CNA General Membership Meeting on December 7** - CNA Board Elections & Guest Speaker will be City Manager, Rob Hernandez
-  * Please consider running for office and or volunteering
-  * All Current Board Members (with the exception of our Secretary) will run for reelection
-  * **Our Secretary Position is open** - please consider running for this important position
-* **Holiday Christmas Party** - December 11 at Terrace Hall - more details to follow - refer to emails and website updates
-* **Garage Sale** - Neighborhood Wide Garage Sale event will take place on Friday, February 18 & Saturday, February 19
-* **Block Party** - Neighborhood Block Party event will take place on Saturday, March 12 (rain date is Sunday, March 13)
+* **Board Results from the General Membership Meeting on December 7**
+  * Current Board members were all reelected to serve for 2022  with exception of the Secretary who decided to retire from the Board
+  * Board Officers are as follows- Ron Jenoriki, President, Sandra Wall, Vice President & Wendell Christoff, Treasurer
+* **Our Secretary Position is open** - please consider stepping forward and volunteering to serve in this important position
+* **January General Membership Meeting** - will be held January 18 please refer to website calendar for details
+* **February Garage Sale** - Neighborhood Wide Garage Sale event will take place on Friday, February 18 & Saturday, February 19
+* **February General Membership Meeting** - will be held February 22 please refer to website calendar for details
+* **March Block Party** - Neighborhood Block Party event will take place on Saturday, March 12 (rain date is Sunday, March 13)
+* **March General Membership Meeting** - will be held March 22 please refer to website calendar for details
 * **Open Positions** - Board Secretary, Website Team & Website content manager (volunteers needed)
-
 
 To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
 
 # Join the club!
 
 It is that time of year again to pay your CNA dues.  See the [membership information](membership.html) for details.
-
-# December 7th, 2021 is CNA officer elections
-
-To all CNA members, please attend the December 7th general meeting. It will be the last meeting of the year so new officers will be elected. Please consider donating your time.
-
 
 # Flood insurance meeting at the Yacht Club
 
