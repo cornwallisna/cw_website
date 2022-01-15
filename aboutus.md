@@ -79,7 +79,7 @@ xsidemenu:
 <div class="row">
 <div class="grid_6">
 <a href="secretary.html">
-  <img src="images/sticklady.png" width="25%">
+  <img src="images/stickperson.png" width="25%">
   <img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%">
 </a>
 </div>
@@ -87,16 +87,16 @@ xsidemenu:
 <table>
   <tbody>
     <tr>
-      <td>KARLA MARTINEZ</td>
+      <td>RON JENORKI</td>
     </tr>
     <tr>
-      <td>2801 SE 22nd Ave</td>
+      <td>2837 SE 19th Ave</td>
     </tr>
     <tr>
-      <td><a href="tel:919-830-8734">919-830-8734</a></td>
+      <td><a href="tel:732-766-4694">732-766-4694</a></td>
     </tr>
     <tr>
-      <td><a href="mailto:cornwallna+secretary@gmail.com">Karla's email</a></td>
+      <td><a href="mailto:cornwallna+president@gmail.com">Ron's email</a></td>
     </tr>
   </tbody>
 </table>
