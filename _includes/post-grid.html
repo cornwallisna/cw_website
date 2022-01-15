@@ -13,8 +13,8 @@
         <img src="{{ purl }}" alt="teaser" itemprop="image">
       {% endif %}
     {% if post.date %}
-      <p class="entry-date date published"><time datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
+      <p class="entry-date date published"><time datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">Artical Posted on: {{ post.date | date: "%B %d, %Y" }}</time></p>
     {% endif %}
-  <h2 class="post-title" itemprop="name"><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
+  <h1 class="post-title" itemprop="name"><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h1>
   <p class="post-excerpt" itemprop="description">{{ post.excerpt | strip_html | truncate: 160 }}</p>
 </article><!-- /.tile -->
