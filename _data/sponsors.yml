@@ -1,15 +1,16 @@
 slides:
+  - img: /images/ads/SchoonerBay.png
+    caption: Schooner Bay Realty, INC.
+    phone: 239-839-8466
+    email: realtor.sandra.wall@gmail.com
+    link: https://sbrealtyinc.com/agents/sandra-wall
+    name: SchoonerBay
   - img: /images/ads/DesignsToAT.jpg
     caption: Designs To A "T"
     phone: 239-549-5995
     email: designs2aT@comcast.net
     link: mailto:designs2aT@comcast.net
     name: DesignsToAT
-  - img: /images/ads/UniqueBoutique.jpg
-    caption: Unique Boutique Consignment for you and your home
-    phone: 239-549-5995
-    email: designs2aT@comcast.net
-    name: Unique Boutique Consignments
   - img: /images/ads/AutoAirandElectric.jpg
     caption: AutoAir & Electric of Lee County
     link: tel:239-936-1992
