@@ -11,11 +11,6 @@ slides:
     email: designs2aT@comcast.net
     link: mailto:designs2aT@comcast.net
     name: DesignsToAT
-  - img: /images/ads/AutoAirandElectric.jpg
-    caption: AutoAir & Electric of Lee County
-    link: tel:239-936-1992
-    phone: 239-936-1992
-    name: AutoAir
   - img: /images/ads/OceanRoads.jpg
     caption: Ocean Roads Transport Logistics
     phone: 888-51-OCEAN
@@ -40,23 +35,6 @@ slides:
     link: https://www.fremarhomes.com,https://www.capecoralbuilder.net
     email: markms@capecoralbuilder.net
     name: Fremar Construction
-  - img: /images/ads/Turbo.jpg
-    caption: Turbo Refrigeration & Air Conditioning
-    phone: 239-561-1116
-    email: brian@turbo.comcastbiz.net
-    link: mailto:brian@turbo.comcastbiz.net
-    name: Turbo Refrigeration
-  - img: /images/ads/GermanQualityPainting.jpg
-    caption: German Quality Painting
-    phone: 239-233-7200
-    link: http://www.germanqualitypainting.com
-    email: malte@germanqualitypainting.com
-    name: German Quality Painting
-  - img: /images/ads/SeductionAd.png
-    caption: Seduction! Intimate Playthings
-    phone: 239-418-1855
-    link: tel:239-418-1855
-    name: Seduction!
   - img: /images/ads/AnnVaughn.png
     caption: Ann Vaughn REALTOR
     phone: 239-671-9271
