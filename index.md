@@ -44,6 +44,12 @@ topics:
 
 ---
 
+# Annual Membership Drive is underway.
+
+Dues are $20/year.
+You can renew or join by either going to the website (membership page) or through our block captains who are walking the entire neighborhood, going door to door to speak with you directly and sign you up. Thank you to block captains!
+Note: Zelle payment is available.  To pay for your membership through Zelle, see the membership page for details!
+
 # Zelle payment is now available for membership
 
 We now have Zelle up and running to pay for membership, see the [membership page](/membership.html) for details!
@@ -55,27 +61,22 @@ Looking for volunteers to help with content and coordination.
 Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for details.
 
 
-# Membership dues are still $20 for 2022
-
-Please remember that a dues increase is only being proposed for 2023.
-
 # Please note the latest events in the CNA Calendar!
 
 
 Events of note:
 
-* **Board Results from the General Membership Meeting on December 7**
-  * Current Board members were all reelected to serve for 2022  with exception of the Secretary who decided to retire from the Board
-  * Board Officers are as follows- Ron Jenoriki, President, Sandra Wall, Vice President & Wendell Christoff, Treasurer
-* **Our Secretary Position is open** - please consider stepping forward and volunteering to serve in this important position
-* **January General Membership Meeting** - will be held January 18 please refer to website calendar for details
 * **February Garage Sale** - Neighborhood Wide Garage Sale event will take place on Friday, February 18 & Saturday, February 19
-* **February General Membership Meeting** - will be held February 22 please refer to website calendar for details
-* **March Block Party** - Neighborhood Block Party event will take place on Saturday, March 12 (rain date is Sunday, March 13)
-* **March General Membership Meeting** - will be held March 22 please refer to website calendar for details
-* **Open Positions** - Board Secretary, Website Team & Website content manager (volunteers needed)
+* **February General Membership Meeting** - will be held February 22. Special Guest Speaker will be Nita Whaley, Cape Coral Office of Economic and Business Development. Please refer to website calendar for details
+* **March Block Party** - Neighborhood Block Party event will take place on Saturday, March 12 (rain date is Sunday, March 13). Refer to the event specific emails from our Events Coordinator, Karla Martinez.
+* **March General Membership Meeting** - will be held March 22. Special Guest Speaker will be Todd Hoagland, Interim Manager Code Compliance. Please refer to website calendar for details
+* **April General Membership Meeting** - will be held April 22. Please refer to website calendar for forthcoming details
+* **December Holiday Party** - will be on Saturday evening, December 3, at the Terrace Hall. Save the date!
 
 To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
+
+#  Open Positions
+* Board Secretary, Website Team & Website content manager. Volunteers are needed for these key positions.  Contact us at [cornwallisna@gmail.com](cornwallisna@gmail.com) for details.
 
 # Join the club!
 
