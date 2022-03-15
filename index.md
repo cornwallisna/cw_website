@@ -31,9 +31,10 @@ slides:
 
 grid_style: 4  # 1 for small, 2 for medium, 3 for large
 topics:
-  - title: Happy Holidays
-    content: At this very special time of year the Board sends wishes to our CNA members and their families as well as our extended community for a very happy, joyous, and safe Holiday season. Also, early wishes for a Healthy, Safe, and Prosperous New Year!
-    img: "images/xmas2022.png"
+# Commented out holiday grid entry, save for Dec '22
+# - title: Happy Holidays
+#    content: At this very special time of year the Board sends wishes to our CNA members and their families as well as our extended community for a very happy, joyous, and safe Holiday season. Also, early wishes for a Healthy, Safe, and Prosperous New Year!
+#    img: "images/xmas2022.png"
   - title: Neighborhood Watch
     img: "images/speeding.jpg"
     content: "Speeders, Vandalism, & Non-emergency police reports: <a href='tel:239-547-3223'>239-547-3223</a>.  <p> Code enforcement issues, Citizens Action Center, broken sprinklers and mowing issues: <a href='tel:311'>311</a>"
@@ -66,9 +67,6 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* **February Garage Sale** - Neighborhood Wide Garage Sale event will take place on Friday, February 18 & Saturday, February 19
-* **February General Membership Meeting** - will be held February 22. Special Guest Speaker will be Nita Whaley, Cape Coral Office of Economic and Business Development. Please refer to website calendar for details
-* **March Block Party** - Neighborhood Block Party event will take place on Saturday, March 12 (rain date is Sunday, March 13). Refer to the event specific emails from our Events Coordinator, Karla Martinez.
 * **March General Membership Meeting** - will be held March 22. Special Guest Speaker will be Todd Hoagland, Interim Manager Code Compliance. Please refer to website calendar for details
 * **April General Membership Meeting** - will be held April 22. Please refer to website calendar for forthcoming details
 * **December Holiday Party** - will be on Saturday evening, December 3, at the Terrace Hall. Save the date!
