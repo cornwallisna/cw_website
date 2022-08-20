@@ -73,7 +73,7 @@ Events of note:
 * **December Holiday Party** - will be on Saturday evening, December 3, from 6pm to 10pm, at the Terrace Hall. Save the date!
 * **December General Membership Meeting/ for Board Elections** - December 13
 * **February 10 & 11, 2023** - Neighborhood Wide Garage Sale
-* **March 11,2023** - Neighborhood Block Party (rain date will be Sunday March 12)
+* **March 11, 2023** - Neighborhood Block Party (rain date will be Sunday March 12)
 
 To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
 
