@@ -31,9 +31,6 @@ I want to leave you with a parting thought. Volunteerism is the key element nece
 
 Please visit our website; https://cornwallisna.org/
 
-![image](https://user-images.githubusercontent.com/102366427/185757260-e0e6b933-f4ec-45a8-bed2-fec5093a599c.png)
-
-
 All the best,
 
 _Ron Jenoriki_
