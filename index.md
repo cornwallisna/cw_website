@@ -68,8 +68,8 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 Events of note:
 
 * **March General Membership Meeting** - will be held March 22. Special Guest Speaker will be Todd Hoagland, Interim Manager Code Compliance. Please refer to website calendar for details
-* **April General Membership Meeting** - will be held April 19. Please refer to website calendar for forthcoming details
-* **October Halloween Spooktacular** - More details to follow.
+* **October General Membership Meeting** - will be held October 18 - Guest Speaker TBA. 
+* **October Halloween Spooktacular** - More details to follow but save Halloween weekend / evenings.
 * **December Holiday Party** - will be on Saturday evening, December 3, at the Terrace Hall. Save the date!
 
 To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
