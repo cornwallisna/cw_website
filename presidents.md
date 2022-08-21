@@ -27,7 +27,7 @@ Again, if you have not done so already, and would like to join CNA, please sign 
 
 I look forward to meeting more of our members and seeing you at the upcoming meetings and events as well getting your constructive ideas.
 
-I want to leave you with a parting thought. Volunteerism is the key element necessary to run CNA. Becoming a volunteer is easy, I am a volunteer as are all the Board members and current volunteers already serving. I thank all of you! With this in mind, we do need more people to volunteer time to serve on the board or committees such as the Beautification and Social Events/& Planning. To volunteer or buy a T-shirt or Tote bag, please reach out to any Board member by phone or feel to email us at cornwallisna@gmail.com.
+I want to leave you with a parting thought. Volunteerism is the key element necessary to run CNA. Becoming a volunteer is easy, I am a volunteer as are all the Board members and current volunteers already serving. I thank all of you! With this in mind, we do need more people to volunteer time to serve on the board or committees such as the Beautification and Social Events/& Planning. To volunteer or buy a T-shirt or Tote bag, please reach out to any Board member by phone or feel to email us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com).
 
 Please visit our website; [https://cornwallisna.org/](https://cornwallisna.org/)
 
