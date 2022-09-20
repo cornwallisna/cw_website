@@ -67,7 +67,7 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* **October General Membership Meeting** - will be held October 18 - Guest Speaker TBA. 
+* **October General Membership Meeting** - will be held October 18 - Guest Speaker, The Calusa Water Keeper Organization. 
 * **October Halloween Spooktacular** - More details to follow but save Halloween weekend / evenings.
 * **November General Membership Meeting** - will be held November 15 - Guest Speaker TBA.
 * **December Holiday Party** - will be on Saturday evening, December 3, from 6pm to 10pm, at the Terrace Hall. Save the date!
