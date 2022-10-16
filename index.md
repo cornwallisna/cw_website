@@ -67,9 +67,9 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* **October General Membership Meeting** - will be held October 18 - Guest Speaker, The Calusa Water Keeper Organization. 
+* **October General Membership Meeting** - CANCELLED DUE TO HURRICAN IAN 
 * **October Halloween Spooktacular** - More details to follow but save Halloween weekend / evenings.
-* **November General Membership Meeting** - will be held November 15 - Guest Speaker TBA.
+* **November General Membership Meeting** - will be held November 15 - Guest Speaker, The Calusa Water Keeper Organization. 
 * **December Holiday Party** - will be on Saturday evening, December 3, from 6pm to 10pm, at the Terrace Hall. Save the date!
 * **December General Membership Meeting/ for Board Elections** - December 13
 * **February 10 & 11, 2023** - Neighborhood Wide Garage Sale
