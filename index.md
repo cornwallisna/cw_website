@@ -68,13 +68,13 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 Events of note:
 
 * **November General Membership Meeting** - will be held November 15.
-* **December Holiday Party** - Canceled Due to Hurricane Ian damage at banquet facility.
-* **December General Membership Meeting/ for Board Elections**- December 13
-* **January New Years/Happy Hour Neighborhood Party** -  will be on January 7, from 3:30pm - 7:00pm. Rain date is Sunday, Jan 8. More details to follow.
+* **December 3 Holiday Party** - Canceled Due to Hurricane Ian damage at banquet facility.
+* **December General Membership Meeting / for Board Elections**- December 13
+* **January New Years  /Happy Hour Neighborhood Party** -  will be on January 7, from 3:30pm - 7:00pm. Rain date is Sunday, Jan 8. More details to follow.
 * **January General Membership Meeting** - will be held on January 17 -  Guest Speaker, The Calusa Water Keeper Organization. 
-* **February 10 & 11, 2023** - Neighborhood Wide Garage Sale (Get your permit).
+* **February 10 & 11, 2023** - Neighborhood Wide Garage Sale (get your permit).
 * **February General Membership Meeting** - will be held February 21 - Guest Speaker TBA
-* **March 11, 2023** - Neighborhood Block Party (rain date will be Sunday March 12)
+* **March 11 Block Party** - Neighborhood Block Party (rain date will be Sunday March 12)
 * **March General Membership Meeting** - will be held on March 21 -  Guest Speaker, TBA 
 * **April General Membership Meeting** - will be held on April 18 -  Guest Speaker, TBA 
 
