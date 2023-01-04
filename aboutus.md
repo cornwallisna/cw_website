@@ -74,12 +74,12 @@ xsidemenu:
 </div>
 </div>
 
-## [SECRETARY INTERIM's Message](secretary.html)
+## [SECRETARY Message](secretary.html)
 
 <div class="row">
 <div class="grid_6">
 <a href="secretary.html">
-  <img src="images/stickperson.png" width="25%">
+  <img src="images/sticklady.png" width="25%">
   <img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%">
 </a>
 </div>
@@ -87,16 +87,16 @@ xsidemenu:
 <table>
   <tbody>
     <tr>
-      <td>RON JENORKI</td>
+      <td>VIKTORIYA KUZNETSOVA</td>
     </tr>
     <tr>
-      <td>2837 SE 19th Ave</td>
+      <td>3117 SE 18th Pl</td>
     </tr>
     <tr>
-      <td><a href="tel:732-766-4694">732-766-4694</a></td>
+      <td><a href="tel:239-785-9300">239-785-9300</a></td>
     </tr>
     <tr>
-      <td><a href="mailto:cornwallna+president@gmail.com">Ron's email</a></td>
+      <td><a href="mailto:cornwallna+secretary@gmail.com">Viktoriya's email</a></td>
     </tr>
   </tbody>
 </table>
