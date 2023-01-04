@@ -74,7 +74,7 @@ xsidemenu:
 </div>
 </div>
 
-## [SECRETARY Message](secretary.html)
+## [SECRETARY's Message](secretary.html)
 
 <div class="row">
 <div class="grid_6">
