@@ -69,7 +69,7 @@ Events of note:
 
 
 * **January General Membership Meeting** - will be held on January 17 -  Guest Speaker, The Calusa Water Keeper Organization. 
-* **January New Years / Happy Hour ** -  Come and meet your neighbors, When: Saturday January 28, from 3:30pm - 7:00pm. Where: 3021 SE18th Pl (at end of street). RSVP via Call or TXT to Sandra (239-839-8466) or Viktoriya (239-785-9300)
+* **January New Years / Happy Hour** -  Come and meet your neighbors! When: Saturday January 28, from 3:30pm - 7:00pm. Where: 3021 SE 18th Pl (at end of street). RSVP via Call or TXT to Sandra (239-839-8466) or Viktoriya (239-785-9300)
 * **February 10 & 11** - Neighborhood Wide Garage Sale (get your permit).
 * **February General Membership Meeting** - will be held February 21 - Guest Speaker TBA
 * **March 11 Block Party** - Neighborhood Block Party (rain date will be Sunday March 12)
