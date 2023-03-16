@@ -67,12 +67,11 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
+* ** PLEASE READ THE IMPORTANT DATE CHANGE CONCERNING THE NEIGHBORHOOD BLOCK PARTY DUE TO PREDICTED INCLEMENT WEATHER 
+* ** THE BOARD HAS MOVED THE DATE TO 3/25 (RAIN DATE 3/26) - SAME LOCATION - SEE YOU THERE
 
-* **January General Membership Meeting** - will be held on January 17 -  Guest Speaker, The Calusa Water Keeper Organization. 
-* **January New Years / Happy Hour** -  Come and meet your neighbors! When: Saturday January 28, from 3:30pm - 7:00pm. Where: 3021 SE 18th Pl (at end of street). RSVP via Call or TXT to Sandra (239-839-8466) or Viktoriya (239-785-9300)
-* **February 10 & 11** - Neighborhood Wide Garage Sale (get your permit).
-* **February General Membership Meeting** - will be held February 21 - Guest Speaker TBA
-* **March 18 Block Party** - Neighborhood Block Party (rain date will be Sunday March 19). Where: 2801 SE 19th Ave. 2-6PM.
+* **Saturday March 25 Block Party** - Neighborhood Block Party (rain date will be Sunday March 26). Where: 2801 SE 19th Ave. 2-6PM.
+
 * **March General Membership Meeting** - will be held on March 21 -  Guest Speaker, TBA 
 * **April General Membership Meeting** - will be held on April 18 -  Guest Speaker, TBA 
 
