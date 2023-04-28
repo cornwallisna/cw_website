@@ -95,10 +95,15 @@ Rosemary was also Secretary of CNA for 2 years and VP for 1 year. She has been o
 Rosemary insisted if Jerry Kliner wished to walk with her in the mornings he had to pick up litter and he gladly agreed. Now Jerry has moved to Highpointe of Cape Coral and Rosemary is moving to Michigan so we have to step up and fill those shoes.
 
 So everytime you stroll around the 'hood
+
 Don't think you are too good
+
 Pick up litter and help keep our streets and medians litter free.
+
 Trash receptacles are on median 6, median 11 and median 12.
+
 Remember....our waterways are only as clean as the litter we catch before it blows into the canals or river.
+
 AND: It's Free Aerobics, bend, stretch and walk.
 
 The picture below was taken at 6:30am in 2018. 
