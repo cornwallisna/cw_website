@@ -87,31 +87,20 @@ To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/App
 
 It is that time of year again to pay your CNA dues.  See the [membership information](membership.html) for details.
 
-# Flood insurance meeting at the Yacht Club
+# Farewell and Best Wishes to Rosemary Boon (Charter Member of CNA) - written by Ann Vaughn
 
-CNA board members and residents attended the Town Hall meeting yesterday at the Cape Coral Yacht Club building.  Jesse Purdon representing U.S. Congressman Byron Donalds' office attended and spoke.  Brian Chapman from Chapman Insurance Group attended and spoke.  Commissioner Kevin Ruane attended and spoke.  London Rotundo representing Senator Marco Rubio was there and spoke.  The main topic was how insurance is calculated and based on what factors.   Not one person there could answer that question.  One thing that we did find out is that Senator Marco Rubio introduced a bill to Extend the National Flood Insurance Program through December 3, 2021 and it passed.  London Rotundo from his office also informed us that Senator Rubio has already begun working on a bipartisan reform bill to ensure flood insurance remains affordable. This is where they need our help.  They need raw data to make a case.  The realtors, insurance agents, local officials and of course residents need to band together to make our voices heard.  "Power in Numbers". Let them know your situation.  So please either call or write your local officials listed below.
+One of the few still in our neighborhood ( Charter Members of CNA ) is moving out of the neighborhood although she plans to come back for visits to get away from the Michigan winters. Rosemary Boon will be exiting Cornwallis on April 28th to her new adventure of returning as a full time resident of Davison, Michigan. 25 friends gathered last night at one of her favorite old time restaurants ( Ariani's ) to wish her farewell and thank her for her ever vigilant litter patrol of Cornwallis and the side streets as well. So I petitioned all who attended and asked all of us who are still here to help us keep up the work Rosemary and her late husband Larry Boon did to improve our neighborhood since CNA was born in 1993. Rosemary and Larry paid for and installed and maintained all the shrubs and palm trees on Median 10. Rosemary was a member of the "Weeding Crew" every Thursday morning at daylight until noon or the heat got us from 1994-2003 when the City finally agreed to maintain the work CNA had completed. Larry and Rosemary also planted and maintained (along with some of the neighbors) the 28th Ter cul-de-sac median since 1994.
+Rosemary was also Secretary of CNA for 2 years and VP for 1 year. She has been one of CNA's biggest supporters and will be sorely missed in the neighborhood. 
 
-**Jesse Purdon**\
-Rep. Byron Donalds' District Director\
-[jesse.purdon@mail.house.gov](mailto:jesse.purdon@mail.house.gov)\
-239-599-6033
+Rosemary insisted if Jerry Kliner wished to walk with her in the mornings he had to pick up litter and he gladly agreed. Now Jerry has moved to Highpointe of Cape Coral and Rosemary is moving to Michigan so we have to step up and fill those shoes.
 
-**London  Rotundo**\
-Sen. Marco Rubio's Regional Director\
-[london_rotundo@rubio.senate.gov](mailto:london_rotundo@rubio.senate.gov)\
-407-254-2573
+So everytime you stroll around the 'hood
+Don't think you are too good
+Pick up litter and help keep our streets and medians litter free.
+Trash receptacles are on median 6, median 11 and median 12.
+Remember....our waterways are only as clean as the litter we catch before it blows into the canals or river.
+AND: It's Free Aerobics, bend, stretch and walk.
 
-**Kevin Ruane**\
-District 1 Commissioner\
-[dist1@leegov.com](mailto:dist1@leegov.com)\
-239-485-2143 (Pamela Smith Exec. Assistant)
+The picture below was taken at 6:30am in 2018. 
 
-**Brian Chapman**\
-Chapman Insurance Group\
-[cigflorida.com](cigflorida.com)\
-239-205-2012
 
-**Gloria Tate**\
-City Council District 1\
-[gtate@capecoral.gov](mailto:gtate@capecoral.gov)\
-239-542-2254
