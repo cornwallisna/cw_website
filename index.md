@@ -69,13 +69,7 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* ** PLEASE READ THE IMPORTANT DATE CHANGE CONCERNING THE NEIGHBORHOOD BLOCK PARTY DUE TO PREDICTED INCLEMENT WEATHER 
-* ** THE BOARD HAS MOVED THE DATE TO 3/25 (RAIN DATE 3/26) - SAME LOCATION - SEE YOU THERE
-
-* **Saturday March 25 Block Party** - Neighborhood Block Party (rain date will be Sunday March 26). Where: 2801 SE 19th Ave. 2-6PM.
-
-* **March General Membership Meeting** - will be held on March 21 -  Guest Speaker, TBA 
-* **April General Membership Meeting** - will be held on April 18 -  Guest Speaker, TBA 
+* **May General Membership Meeting** - will be held on TBA -  Guest Speaker, TBA 
 
 To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
 
