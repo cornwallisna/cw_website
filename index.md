@@ -35,6 +35,8 @@ topics:
 # - title: Happy Holidays
 #    content: At this very special time of year the Board sends wishes to our CNA members and their families as well as our extended community for a very happy, joyous, and safe Holiday season. Also, early wishes for a Healthy, Safe, and Prosperous New Year!
 #    img: "images/xmas2022.png"
+  - title: Rosemary Boon
+  - img: "images/rosemaryboon.jpg"
   - title: Neighborhood Watch
     img: "images/speeding.jpg"
     content: "Speeders, Vandalism, & Non-emergency police reports: <a href='tel:239-547-3223'>239-547-3223</a>.  <p> Code enforcement issues, Citizens Action Center, broken sprinklers and mowing issues: <a href='tel:311'>311</a>"
