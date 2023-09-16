@@ -69,7 +69,7 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* **May General Membership Meeting** - will be held on TBA -  Guest Speaker, TBA 
+* **October General Membership Meeting** - will be held on Tuesday, October 17, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
 
 To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
 
