@@ -93,4 +93,3 @@ To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/App
 
 It is that time of year again to pay your CNA dues.  See the [membership information](membership.html) for details.
 
-
