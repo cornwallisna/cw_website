@@ -5,7 +5,7 @@ banner:  Secretary's Message
 permalink: /secretary
 ---
 
-# FYI:  For 2022 Ron Jenoriki is acting secretary
+# FYI:  OPEN POSITION please consiver volunterring
 
 
 ## Karla's last note
