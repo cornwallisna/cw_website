@@ -91,7 +91,6 @@ xsidemenu:
     </tr>
   </tbody>
 </table>
-
 </div>
 </div>
 
