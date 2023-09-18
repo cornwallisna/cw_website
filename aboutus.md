@@ -79,7 +79,7 @@ xsidemenu:
 <div class="row">
 <div class="grid_6">
 <a href="secretary.html">
-  <img src="images/sticklady.png" width="25%">
+  <img src="images/stickperson.png" width="30%">
   <img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%">
 </a>
 </div>
@@ -87,16 +87,7 @@ xsidemenu:
 <table>
   <tbody>
     <tr>
-      <td>VIKTORIYA KUZNETSOVA</td>
-    </tr>
-    <tr>
-      <td>3117 SE 18th Pl</td>
-    </tr>
-    <tr>
-      <td><a href="tel:239-785-9300">239-785-9300</a></td>
-    </tr>
-    <tr>
-      <td><a href="mailto:cornwallna+secretary@gmail.com">Viktoriya's email</a></td>
+      <td>OPEN POSITION PLEASE CONSIDER VOLUNTEERING</td>
     </tr>
   </tbody>
 </table>
