@@ -37,6 +37,8 @@ topics:
 #    img: "images/xmas2022.png"
 # - title: Rosemary Boon
 # - img: "images/rosemaryboon.jpg"
+  - title: Halloween Spooktacular - It's coming soon!
+  - img: "images/halloween.png"  
   - title: Neighborhood Watch
     img: "images/speeding.jpg"
     content: "Speeders, Vandalism, & Non-emergency police reports: <a href='tel:239-547-3223'>239-547-3223</a>.  <p> Code enforcement issues, Citizens Action Center, broken sprinklers and mowing issues: <a href='tel:311'>311</a>"
@@ -72,9 +74,6 @@ Events of note:
 * **October General Membership Meeting** - will be held on Tuesday, October 17, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
 
 * **October Halloween Spooktacular** - date and details to be advised.
-
-- title: Halloween Spooktacular - It's coming soon!
-- img: "images/halloween.png"  
   
 * **November General Membership Meeting** - will be held on Tuesday, November 17, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
 
@@ -112,7 +111,4 @@ Trash receptacles are on median 6, median 11 and median 12.
 Remember....our waterways are only as clean as the litter we catch before it blows into the canals or river.
 
 AND: It's Free Aerobics, bend, stretch and walk.
-
-The picture below was taken at 6:30am in 2018. 
-
 
