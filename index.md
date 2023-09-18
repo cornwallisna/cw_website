@@ -71,6 +71,15 @@ Events of note:
 
 * **October General Membership Meeting** - will be held on Tuesday, October 17, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
 
+* **October Halloween Spooktacular** - date and details to be advised.
+  
+* **November General Membership Meeting** - will be held on Tuesday, November 17, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
+
+* **December General Membership Meeting** - will be held on Tuesday, December 12, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
+
+* **December Holiday Party** - date and details to be advised.
+
+
 To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
 
 #  Open Positions
