@@ -35,8 +35,8 @@ topics:
 # - title: Happy Holidays
 #    content: At this very special time of year the Board sends wishes to our CNA members and their families as well as our extended community for a very happy, joyous, and safe Holiday season. Also, early wishes for a Healthy, Safe, and Prosperous New Year!
 #    img: "images/xmas2022.png"
-  - title: Rosemary Boon
-  - img: "images/rosemaryboon.jpg"
+# - title: Rosemary Boon
+#  - img: "images/rosemaryboon.jpg"
   - title: Neighborhood Watch
     img: "images/speeding.jpg"
     content: "Speeders, Vandalism, & Non-emergency police reports: <a href='tel:239-547-3223'>239-547-3223</a>.  <p> Code enforcement issues, Citizens Action Center, broken sprinklers and mowing issues: <a href='tel:311'>311</a>"
@@ -84,6 +84,7 @@ To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/App
 
 #  Open Positions
 * Board Secretary, Website Team & Website content support. Volunteers are needed for these key positions.  Contact us at [cornwallisna@gmail.com](cornwallisna@gmail.com) for details.
+  
 *  Note: we welcome news worthy articles from all members. Please feel free to write up an article and submit to the website content team.
 
 # Join the club!
