@@ -72,6 +72,9 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 Events of note:
 
 * **October General Membership Meeting** - will be held on Tuesday, October 17, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
+* ** GUEST SPEAKER:** Peter Craig, Business and Development Executive, Heidrick & Company Insurance & Risk Management
+* Peter will speak about insurance and escalating insurance costs (Homeowners, Flood etc.)
+* Please plan to attend and participate in this important discussion topic. There will be Q&A following Peter's presentation.
 
 * **October Halloween Spooktacular** - date and details to be advised.
   
