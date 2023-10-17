@@ -85,7 +85,7 @@ Events of note:
 
 * **6:45 PM - Let the fun begin with Trick or Treating !**
 
-* **We hope you will join us in our annual Spooktacular tradition and celebrate our community, great neighbors, and let the kid (and adults) enjoy a night of FUN with Candy too!**
+* **We hope you will join us in our annual Spooktacular tradition and celebrate our community, great neighbors, and let the kids (and adults) enjoy a night of FUN with Candy too!**
 
   
 * **November General Membership Meeting** - will be held on Tuesday, November 17, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
