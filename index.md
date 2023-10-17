@@ -37,7 +37,7 @@ topics:
 #    img: "images/xmas2022.png"
 # - title: Rosemary Boon
 # - img: "images/rosemaryboon.jpg"
-  - title: Halloween Spooktacular - It's coming soon!
+  - title: Halloween Spooktacular - Tuesday October 31st, 2023 - 2014 SE 29th Street - 6:00PM
   - img: "images/halloween.png"  
   - title: Neighborhood Watch
     img: "images/speeding.jpg"
@@ -72,20 +72,20 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 Events of note:
 
 * **October General Membership Meeting** - will be held on Tuesday, October 17, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
-* ** GUEST SPEAKER:** Peter Craig, Business and Development Executive, Heidrick & Company Insurance & Risk Management
+* **GUEST SPEAKER:** Peter Craig, Business and Development Executive, Heidrick & Company Insurance & Risk Management
 * Peter will speak about insurance and escalating insurance costs (Homeowners, Flood etc.)
 * Please plan to attend and participate in this important discussion topic. There will be Q&A following Peter's presentation.
 
 * **October Halloween Spooktacular** - Tuesday October 31, 2023 Starting at 6:00 PM
-* ** 2014 SE 29th Street **
+* **2014 SE 29th Street**
 
-* ** Bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume **
-* ** We will have hot dogs with our grill master and chips and water **
-* ** Enjoy some ' Candy Corn' Cornhole with old neighbors and welcome new neighbors **
+* **Bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume**
+* **We will have hot dogs with our grill master and chips and water**
+* **Enjoy some ' Candy Corn' Cornhole with old neighbors and welcome new neighbors**
 
-* ** 6:45 PM - Let the fun begin with Trick or Treating ! *
+* **6:45 PM - Let the fun begin with Trick or Treating !**
 
-* ** We hope you will join us in our annual Spooktacular tradition and celebrate our community, great neighbors, and let the kid (and adults) enjoy a night of FUN with Candy too! *
+* **We hope you will join us in our annual Spooktacular tradition and celebrate our community, great neighbors, and let the kid (and adults) enjoy a night of FUN with Candy too!**
 
   
 * **November General Membership Meeting** - will be held on Tuesday, November 17, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
