@@ -71,17 +71,18 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* **October General Membership Meeting** - will be held on Tuesday, October 17, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
-* **GUEST SPEAKER:** Peter Craig, Business and Development Executive, Heidrick & Company Insurance & Risk Management
-* Peter will speak about insurance and escalating insurance costs (Homeowners, Flood etc.)
-* Please plan to attend and participate in this important discussion topic. There will be Q&A following Peter's presentation.
+* **FRIDAY OCTOBER 27 - MOVIE NIGHT AT 8:00 PM ( ARRTIVE 7:30 PM)** 
+* Movie Night - Friday evening, October 27th.  The Saba family will be hosting a movie night on their driveway located at **2035 SE 29th Street.** Come and enjoy their big outdoor screen.
+* The featured movie is **the NEW Haunted Mansion 2023.** Feel free to bring a chair, sit outside, and enjoy a movie with neighbors and friends. 
 
-* **October Halloween Spooktacular** - Tuesday October 31, 2023 Starting at 6:00 PM
+Start arriving at 7:30 pm, with the movie starting at 8:pmP
+
+* **OCTOBER HALLOWEEN SPOOKTACULAR - Tuesday October 31, 2023 Starting at 6:00 PM**
 * **2014 SE 29th Street**
 
-* **Bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume**
-* **We will have hot dogs with our grill master and chips and water**
-* **Enjoy some ' Candy Corn' Cornhole with old neighbors and welcome new neighbors**
+* Bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume.
+* We will have hot dogs with our grill master and chips and water.
+* Enjoy some ' Candy Corn' Cornhole with old neighbors and welcome new neighbors.
 
 * **6:45 PM - Let the fun begin with Trick or Treating !**
 
