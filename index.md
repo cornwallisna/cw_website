@@ -71,11 +71,11 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* **FRIDAY OCTOBER 27 - MOVIE NIGHT AT 8:00 PM ( ARRTIVE 7:30 PM)** 
+* **FRIDAY OCTOBER 27 - MOVIE NIGHT AT 8:00 PM ( ARRIVE 7:30 PM)** 
 * Movie Night - Friday evening, October 27th.  The Saba family will be hosting a movie night on their driveway located at **2035 SE 29th Street.** Come and enjoy their big outdoor screen.
 * The featured movie is **the NEW Haunted Mansion 2023.** Feel free to bring a chair, sit outside, and enjoy a movie with neighbors and friends. 
 
-Start arriving at 7:30 pm, with the movie starting at 8:pmP
+Start arriving at 7:30 pm, with the movie starting at 8:pm
 
 * **OCTOBER HALLOWEEN SPOOKTACULAR - Tuesday October 31, 2023 Starting at 6:00 PM**
 * **2014 SE 29th Street**
