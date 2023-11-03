@@ -70,25 +70,6 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 
 Events of note:
-
-* **FRIDAY OCTOBER 27 - MOVIE NIGHT AT 8:00 PM ( ARRIVE 7:30 PM)**
-
-* Movie Night - Friday evening, October 27th.  The Saba family will be hosting a movie night on their driveway located at **2035 SE 29th Street.** Come and enjoy their big outdoor screen.
-* The featured movie is **the NEW Haunted Mansion 2023.** Feel free to bring a chair, sit outside, and enjoy a movie with neighbors and friends. 
-
-* Start arriving at 7:30 pm, with the movie starting at 8:pm
-
-* **OCTOBER HALLOWEEN SPOOKTACULAR - Tuesday October 31, 2023 Starting at 6:00 PM**
-* **2014 SE 29th Street**
-
-* Bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume.
-* We will have hot dogs with our grill master and chips and water.
-* Enjoy some ' Candy Corn' Cornhole with old neighbors and welcome new neighbors.
-
-* **6:45 PM - Let the fun begin with Trick or Treating !**
-
-* **We hope you will join us in our annual Spooktacular tradition and celebrate our community, great neighbors, and let the kids (and adults) enjoy a night of FUN with Candy too!**
-
   
 * **November General Membership Meeting** - will be held on Tuesday, November 17, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
 
