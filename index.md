@@ -77,7 +77,8 @@ Events of note:
 
 * **December Holiday Party**
 
-* Preliminary Detils as follows:
+* **Preliminary Details as follows:**
+  
 * **Date:** Friday evening: December 15
 * **Time:** 6:00pm - 10:00pm
 * **Location:** Personal Touch Banquet & Catering
@@ -86,7 +87,7 @@ Events of note:
 * **Ticket Price is $30 per person, and includes 2 drinks (beer or wine) and thereafter cash bar**
 * **DJ is scheduled**
 
-* More details to come shortly!
+* **More details to come shortly!**
 
 
 To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
