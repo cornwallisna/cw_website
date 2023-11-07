@@ -37,8 +37,8 @@ topics:
 #    img: "images/xmas2022.png"
 # - title: Rosemary Boon
 # - img: "images/rosemaryboon.jpg"
-  - title: Halloween Spooktacular - Tuesday October 31st, 2023 - 2014 SE 29th Street - 6:00PM
-  - img: "images/halloween.png"  
+# - title: Halloween Spooktacular - Tuesday October 31st, 2023 - 2014 SE 29th Street - 6:00PM
+# - img: "images/halloween.png"  
   - title: Neighborhood Watch
     img: "images/speeding.jpg"
     content: "Speeders, Vandalism, & Non-emergency police reports: <a href='tel:239-547-3223'>239-547-3223</a>.  <p> Code enforcement issues, Citizens Action Center, broken sprinklers and mowing issues: <a href='tel:311'>311</a>"
@@ -75,7 +75,18 @@ Events of note:
 
 * **December General Membership Meeting** - will be held on Tuesday, December 12, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
 
-* **December Holiday Party** - date and details to be advised.
+* **December Holiday Party**
+
+* Preliminary Detils as follows:
+* **Date:** Friday evening: December 15
+* **Time:** 6:00pm - 10:00pm
+* **Location:** Personal Touch Banquet & Catering
+* 1530 Santa Barbara Blvd. Cape Coral, 33991
+
+* **Ticket Price is $30 per person, and includes 2 drinks (beer or wine) and thereafter cash bar**
+* **DJ is scheduled**
+
+* More details to come shortly!
 
 
 To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
