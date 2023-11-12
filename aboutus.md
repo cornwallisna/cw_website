@@ -87,7 +87,7 @@ xsidemenu:
 <table>
   <tbody>
     <tr>
-      <td>OPEN POSITION PLEASE CONSIDER VOLUNTEERING</td>
+      <td>GEOFF ALLARD</td>
     </tr>
   </tbody>
 </table>
