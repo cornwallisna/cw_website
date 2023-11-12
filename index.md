@@ -93,7 +93,7 @@ Events of note:
 To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
 
 #  Open Positions
-* Board Secretary, Website Team & Website content support. Volunteers are needed for these key positions.  Contact us at [cornwallisna@gmail.com](cornwallisna@gmail.com) for details.
+* Website Team & Website content support. Volunteers are needed for these key positions.  Contact us at [cornwallisna@gmail.com](cornwallisna@gmail.com) for details.
   
 *  Note: we welcome news worthy articles from all members. Please feel free to write up an article and submit to the website content team.
 
