@@ -68,7 +68,6 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 # Please note the latest events in the CNA Calendar!
 
-
 Events of note:
   
 * **November General Membership Meeting** - will be held on Tuesday, November 17, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
@@ -93,12 +92,14 @@ Events of note:
 
 To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
 
-#  Open Positions
+#  Open Positions:
 
 * **Treasurer:** Our Treasurer would like to retire from this position so we are asking for someone to step forward and volunteer to serve.
-* The current Treasurer is willing to stay on to help transition/ and on board a new Treasurer. Again please consider volunteering.
+* The current Treasurer is willing to stay on to help transition/ and on board a new Treasurer. 
 
-* **Website Team & Website content support.** Volunteers are needed for these key positions.  Contact us at [cornwallisna@gmail.com](cornwallisna@gmail.com) for details.
+* **Website Team & Website content support.**
+
+* Volunteers are needed for these key positions.  Contact us at [cornwallisna@gmail.com](cornwallisna@gmail.com) for details.
   
 * **Note: we welcome news worthy articles from all members. Please feel free to write up an article and submit to the website content team.**
 
