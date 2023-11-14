@@ -89,7 +89,15 @@ xsidemenu:
     <tr>
       <td>GEOFF ALLARD</td>
     </tr>
-  </tbody>
+    <tr>
+      <td>1631 Cornwallis Parkway</td>
+    </tr>
+    <tr>
+      <td><a href="tel:619-823-3765">619-823-3765</a></td>
+    </tr>
+    <tr>
+      <td><a href="mailto:cornwallna+secretary@gmail.com">Geoff's email</a></td>
+    </tr>  </tbody>
 </table>
 </div>
 </div>
