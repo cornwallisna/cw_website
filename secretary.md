@@ -5,7 +5,7 @@ banner:  Secretary's Message
 permalink: /secretary
 ---
 
-# FYI:  POSITION FILLED - Geoff Allard - A brief introduction will likely beforthcoming.
+# FYI:  POSITION FILLED - Geoff Allard - A brief introduction will likely be forthcoming.
 
 
 ## Karla's last note
