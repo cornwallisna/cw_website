@@ -72,6 +72,7 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 Events of note:
   
 * **November General Membership Meeting** - will be held on Tuesday, November 17, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
+* **ANNUAL BOARD ELECTIONS**
 
 * **December General Membership Meeting** - will be held on Tuesday, December 12, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
 
