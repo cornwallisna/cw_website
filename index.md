@@ -32,9 +32,9 @@ slides:
 grid_style: 4  # 1 for small, 2 for medium, 3 for large
 topics:
 # Commented out holiday grid entry, save for Dec '22
-# - title: Happy Holidays
-#    content: At this very special time of year the Board sends wishes to our CNA members and their families as well as our extended community for a very happy, joyous, and safe Holiday season. Also, early wishes for a Healthy, Safe, and Prosperous New Year!
-#    img: "images/xmas2022.png"
+  - title: Cornwallis Christmas Party
+    content: Attached is the invitation and hors d'oeuvres that will be served. The venue has a minimum person count of 30. Tickets will be sold by CNA officers. The ticket sale deadline is Sunday, December 10.
+    img: "images/CNA_X2023_menu.png"
 # - title: Rosemary Boon
 # - img: "images/rosemaryboon.jpg"
 # - title: Halloween Spooktacular - Tuesday October 31st, 2023 - 2014 SE 29th Street - 6:00PM
