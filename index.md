@@ -76,21 +76,25 @@ Events of note:
 * **December General Membership Meeting** - will be held on Tuesday, December 12, at the Birchwood C21 building - 4040 Del Prado Blvd. - Starting at 7.00pm.
 
 * **December Holiday Party**
-
-* **Preliminary Details as follows:**
   
 * **Date:** Friday evening: December 15
 * **Time:** 6:00pm - 10:00pm
 * **Location:** Personal Touch Banquet & Catering
-* 1530 Santa Barbara Blvd. Cape Coral, 33991
+* 1530 Santa Barbara Blvd. Cape Coral, 33991 (corner of Santa Barbara and Trafalgar)
 
 * **Ticket Price is $30 per person, and includes 2 drinks (beer or wine) and thereafter cash bar**
-* **DJ is scheduled**
 
-* **More details to come shortly!**
+* **See below for the hors d'oeuvres menu.**
+
+* The party is not a formal, sit-down dinner but rather a more social, casual event for all to mingle, laugh, dance and enjoy a variety of food with your neighbors. We have a DJ and there will be an Ugly Sweater contest!
+* There will be a few other activities and a raffle.
+
+* Since storm Ian, the choices of venue have decreased significantly and the price for everything has increased greatly. We are excited to have the opportunity to celebrate together and support a locally owned business.
+
+* **The ticket sale deadline is Sunday, December 10 and tickets canbe obtained from CNA officers.**
 
 
-To keep on the latest, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
+To keep up on the latest events, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
 
 #  Open Positions:
 
