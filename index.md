@@ -91,7 +91,7 @@ Events of note:
 
 * Since storm Ian, the choices of venue have decreased significantly and the price for everything has increased greatly. We are excited to have the opportunity to celebrate together and support a locally owned business.
 
-* **The ticket sale deadline is Sunday, December 10 and tickets canbe obtained from CNA officers.**
+* **The ticket sale deadline is Sunday, December 10 and tickets can be obtained from CNA officers.**
 
 
 To keep up on the latest events, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
