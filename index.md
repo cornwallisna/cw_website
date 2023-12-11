@@ -70,7 +70,22 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 # Please note the latest events in the CNA Calendar!
 
 Events of note:
-  
+
+* **December General Meeting** at the Birchwood C21 building, located at 4040 Del Prado Blvd. Starting at 7:00 pm.
+
+* At this meeting we will hold our **Annual Board Elections**
+* FYI - The current board is willing to serve for another year should they be reelected, whith the exception of the **Treasurer**, who would like to retire from this position.
+* We are asking someone to step forward and volunteer for this position. The current Treasurer is willing to stay on to help transition / on board a new Treasurer.
+* If anyone wishes to run for the other positions, please advise.
+* Should you wish to nominate someone, **please be sure you have their approval first. before submitting their name**
+
+* **Additional Adgenda Items will be:**
+
+* - Holiday Party Update - scheduled for Friday December 15.
+* - Budget / Membership update
+* - 2024 Dues Drive (is currently underway)
+* - Beautification Project for Medians 1 & 12
+
 * **December Holiday Party**
   
 * **Date:** Friday evening: December 15
