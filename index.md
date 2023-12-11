@@ -71,7 +71,7 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* **December General Meeting** at the Birchwood C21 building, located at 4040 Del Prado Blvd. Starting at 7:00 pm.
+* **Tuesday December 12 - CNA General Meeting** at the Birchwood C21 building, located at 4040 Del Prado Blvd. Starting at 7:00 pm.
 
 * At this meeting we will hold our **Annual Board Elections**
 * FYI - The current board is willing to serve for another year should they be reelected, with the exception of the **Treasurer**, who would like to retire from this position.
