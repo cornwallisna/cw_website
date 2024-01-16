@@ -32,9 +32,9 @@ slides:
 grid_style: 4  # 1 for small, 2 for medium, 3 for large
 topics:
 # Commented out holiday grid entry, save for Dec '22
-  - title: Cornwallis Christmas Party
-    content: Attached is the invitation and hors d'oeuvres that will be served. The venue has a minimum person count of 30. Tickets will be sold by CNA officers. The ticket sale deadline is Sunday, December 10.
-    img: "images/CNA_X2023_menu.png"
+# - title: Cornwallis Christmas Party
+#   content: Attached is the invitation and hors d'oeuvres that will be served. The venue has a minimum person count of 30. Tickets will be sold by CNA officers. The ticket sale deadline is Sunday, December 10.
+#   img: "images/CNA_X2023_menu.png"
 # - title: Rosemary Boon
 # - img: "images/rosemaryboon.jpg"
 # - title: Halloween Spooktacular - Tuesday October 31st, 2023 - 2014 SE 29th Street - 6:00PM
@@ -72,10 +72,6 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 Events of note:
 
 * **Tuesday February 20 - CNA General Meeting** at the Birchwood C21 building, located at 4040 Del Prado Blvd. Starting at 7:00 pm.
-
-* The **Treasurer** would like to retire.
-* We are asking someone to step forward and volunteer for this position. The current Treasurer is willing to stay on to help transition / on board a new Treasurer.
-
 
 * **Annual Cornwallis Neighborhood Wide Garage Sale**
   
