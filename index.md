@@ -71,38 +71,17 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* **Tuesday December 12 - CNA General Meeting** at the Birchwood C21 building, located at 4040 Del Prado Blvd. Starting at 7:00 pm.
+* **Tuesday February 20 - CNA General Meeting** at the Birchwood C21 building, located at 4040 Del Prado Blvd. Starting at 7:00 pm.
 
-* At this meeting we will hold our **Annual Board Elections**
-* FYI - The current board is willing to serve for another year should they be reelected, with the exception of the **Treasurer**, who would like to retire from this position.
+* The **Treasurer** would like to retire.
 * We are asking someone to step forward and volunteer for this position. The current Treasurer is willing to stay on to help transition / on board a new Treasurer.
-* If anyone wishes to run for the other positions, please advise.
-* Should you wish to nominate someone, **please be sure you have their approval first. before submitting their name**
 
-* **Additional Agenda Items will be:**
 
-* - Holiday Party Update - scheduled for Friday December 15.
-* - Budget / Membership update
-* - 2024 Dues Drive (is currently underway)
-* - Beautification Project for Medians 1 & 12
-
-* **December Holiday Party**
+* **Annual Cornwallis Neighborhood Wide Garage Sale**
   
-* **Date:** Friday evening: December 15
-* **Time:** 6:00pm - 10:00pm
-* **Location:** Personal Touch Banquet & Catering
-* 1530 Santa Barbara Blvd. Cape Coral, 33991 (corner of Santa Barbara and Trafalgar)
+* **Date:** February 9 & 10
 
-* **Ticket Price is $30 per person, and includes 2 drinks (beer or wine) and thereafter cash bar**
-
-* **See below for the hors d'oeuvres menu.**
-
-* The party is not a formal, sit-down dinner but rather a more social, casual event for all to mingle, laugh, dance and enjoy a variety of food with your neighbors. We have a DJ and there will be an Ugly Sweater contest!
-* There will be a few other activities and a raffle.
-
-* Since storm Ian, the choices of venue have decreased significantly and the price for everything has increased greatly. We are excited to have the opportunity to celebrate together and support a locally owned business.
-
-* **The ticket sale deadline is Sunday, December 10 and tickets can be obtained from CNA officers.**
+* To get your permit visit the Cape Coral Website (garagesale.capecoral.gov) and print the permit. There is no cost and the permit must be displayed.
 
 
 To keep up on the latest events, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
