@@ -39,6 +39,8 @@ topics:
 # - img: "images/rosemaryboon.jpg"
 # - title: Halloween Spooktacular - Tuesday October 31st, 2023 - 2014 SE 29th Street - 6:00PM
 # - img: "images/halloween.png"  
+  - title: 2024 Block Party - Saturday April 6th, 2024 - 2807 SE 19th Avenue - 2pm - 6pm.
+  - img: "images/2024_blockparty.png"  
   - title: Neighborhood Watch
     img: "images/speeding.jpg"
     content: "Speeders, Vandalism, & Non-emergency police reports: <a href='tel:239-547-3223'>239-547-3223</a>.  <p> Code enforcement issues, Citizens Action Center, broken sprinklers and mowing issues: <a href='tel:311'>311</a>"
@@ -71,11 +73,11 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* **Saturday April 6th 2pm - 6pm - Rain or Shine as our host location can accomodate the weather**
+* **2014 Annual Cornwallis Block Party**
 
-* **Annual Cornwallis Block Party**
+* **Saturday April 6th 2pm - 6pm - Rain or Shine as our host location can accomodate the weather**
   
-* Please come and bring a side dish, a chair and a big smaile. See below for the flyer for the event.
+* Please come and bring a side dish, a chair and a big smile. See below for the flyer for the event.
 * **Please RSVP no later than April 1 to either Sandra Wall at 239 839-8466, Ron Jenoriki at 732 766-4694 or Geoff Allard at 619 823-3765.**
 
 * The event will be held at **2807 SE 19th Avenue** Please make a note of the location as it has changed from last year. Hope to see you all there.
