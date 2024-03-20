@@ -71,13 +71,15 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* **Tuesday February 20 - CNA General Meeting** at the Birchwood C21 building, located at 4040 Del Prado Blvd. Starting at 7:00 pm.
+* **Saturday April 6th 2pm - 6pm - Rain or Shine as our host location can accomodate the weather**
 
-* **Annual Cornwallis Neighborhood Wide Garage Sale**
+* **Annual Cornwallis Block Party**
   
-* **Date:** February 9 & 10
+* Please come and bring a side dish, a chair and a big smaile. See below for the flyer for the event.
+* **Please RSVP no later than April 1 to either Sandra Wall at 239 839-8466, Ron Jenoriki at 732 766-4694 or Geoff Allard at 619 823-3765.**
 
-* To get your permit visit the Cape Coral Website (garagesale.capecoral.gov) and print the permit. There is no cost and the permit must be displayed.
+* The event will be held at **2807 SE 19th Avenue** Please make a note of the location as it has changed from last year. Hope to see you all there.
+* Also, please let us know if you can supply a beverage / food cooler and tent and if you can volunteer to help set up and clean up.
 
 
 To keep up on the latest events, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
