@@ -73,15 +73,19 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* **2024 Annual Cornwallis Block Party**
+* **CNA GENERAL MEETING** Will take place on **Tuesday, April 16th 2024**
+* At the **Birchwood Century 21 Building** located at **4040 Del Prado Blvd. Starting at 7:00pm.**
 
-* **Saturday April 6th 2pm - 6pm - Rain or Shine as our host location can accomodate the weather**
-  
-* Please come and bring a side dish, a chair and a big smile. See below for the flyer for the event.
-* **Please RSVP no later than April 1 to either Sandra Wall at 239 839-8466, Ron Jenoriki at 732 766-4694 or Geoff Allard at 619 823-3765.**
+* Please come to the meeting and support our association. We welcome and encourage your participation and input.
 
-* The event will be held at **2807 SE 19th Avenue** Please make a note of the location as it has changed from last year. Hope to see you all there.
-* Also, please let us know if you can supply a beverage / food cooler and tent and if you can volunteer to help set up and clean up.
+* We are excited to announce that our two (2) new **Lending libraries** are now installed and available for use by our members.
+* One is installed on **Median 11** and the other on **Median 5**.
+* Feel free to share your favorite books, place a book and / or borrow a book.
+
+* **A BIG thank you to Ron Zintz for building these new large libraries. They are quite beautiful and impressive!**
+* **They were also constructed with the vision to be as maintenance free and weather resistant as possible.**
+
+* THANK YOU, Ron Zintz and also a special thank you to the volunteers that helped dig and place them in the ground!
 
 
 To keep up on the latest events, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
