@@ -74,11 +74,11 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 Events of note:
 
 * **CNA GENERAL MEETINGS are scheduled as follows:**
-* 
+  
 * **OCTOBER Wednesday, October 15th 2024**
 
 * **NOVEMBER Tuesday, November 12th 2024 (if needed - will advise)**
-* 
+  
 * **DECEMBER Tuesday, December 10th 2024**
 * ** This is the meeting for Board Elections - if interested in serving, please let us know at anytime.**
 
@@ -88,7 +88,7 @@ Events of note:
 
 * **We are glad to see many residents enjoying and taking advantage of our two neighborhood lending libraries.**
 
-* ** More communications will follow regarding our Neighborhood halloween activity and Holiday Party!**
+* **More communications will follow regarding our Neighborhood Halloween activity and Holiday Party**
 
 
 To keep up on the latest events, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
