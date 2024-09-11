@@ -73,19 +73,22 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* **CNA GENERAL MEETING** Will take place on **Tuesday, April 16th 2024**
-* At the **Birchwood Century 21 Building** located at **4040 Del Prado Blvd. Starting at 7:00pm.**
+* **CNA GENERAL MEETINGS are scheduled as follows:**
+* 
+* **OCTOBER Wednesday, October 15th 2024**
 
-* Please come to the meeting and support our association. We welcome and encourage your participation and input.
+* **NOVEMBER Tuesday, November 12th 2024 (if needed - will advise)**
+* 
+* **DECEMBER Tuesday, December 10th 2024**
+* ** This is the meeting for Board Elections - if interested in serving, please let us know at anytime.**
 
-* We are excited to announce that our two (2) new **Lending libraries** are now installed and available for use by our members.
-* One is installed on **Median 11** and the other on **Median 5**.
-* Feel free to share your favorite books, place a book and / or borrow a book.
+* All meetings are planned to be at the **Birchwood Century 21 Building** located at **4040 Del Prado Blvd. Starting at 7:00pm.**
 
-* **A BIG thank you to Ron Zintz for building these new large libraries. They are quite beautiful and impressive!**
-* **They were also constructed with the vision to be as maintenance free and weather resistant as possible.**
+* Please come to the meetings and support our association. We welcome and encourage your participation and input.
 
-* THANK YOU, Ron Zintz and also a special thank you to the volunteers that helped dig and place them in the ground!
+* **We are glad to see many residents enjoying and taking advantage of our two neighborhood lending libraries.**
+
+* ** More communications will follow regarding our Neighborhood halloween activity and Holiday Party!**
 
 
 To keep up on the latest events, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
