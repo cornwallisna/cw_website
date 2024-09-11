@@ -80,7 +80,7 @@ Events of note:
 * **NOVEMBER Tuesday, November 12th 2024 (if needed - will advise)**
   
 * **DECEMBER Tuesday, December 10th 2024**
-* ** This is the meeting for Board Elections - if interested in serving, please let us know at anytime.**
+* **This is the meeting for Board Elections - if interested in serving, please let us know at anytime.**
 
 * All meetings are planned to be at the **Birchwood Century 21 Building** located at **4040 Del Prado Blvd. Starting at 7:00pm.**
 
