@@ -77,14 +77,14 @@ Events of note:
   
 * **OCTOBER Tuesday, October 22nd 2024**
 * **Agenda Items:**
-* - Medians and Libraries
-* - Neighborhood Halloween Event planned for October 31
-* - 2025 Dues Drive
-* - Medicare Presentation (for Educational Purposes Only)
-* - Membership / Financial Update
-* - Holiday Party (seeking ideas and recommendations from members)
-* - Open Discussion
-* - Close!
+ - Medians and Libraries
+ - Neighborhood Halloween Event planned for October 31
+ - 2025 Dues Drive
+ - Medicare Presentation (for Educational Purposes Only)
+ - Membership / Financial Update
+ - Holiday Party (seeking ideas and recommendations from members)
+ - Open Discussion
+ - Close!
 
 * **NOVEMBER Tuesday, November 12th 2024 (if needed - will advise)**
   
@@ -96,8 +96,8 @@ Events of note:
 
 * Come along to the meetings and support our association. We welcome and encourage your participation and input.
 
-* **We want to communicate that we will again hae the Annual Cornwallis Neigborhood Spooktacular**
-* **Get your costumes and treats ready**
+* **We want to communicate that we will again have the Annual Cornwallis Neigborhood Spooktacular**
+* **Get your costumes and treats ready!**
 * **We will discuss more details regarding this event at the CNA General Meeting on Tuesday October 22nd.**
 * **A ZOOM link has been provided in an email for those who wish to attend the meeting remotely**
 
