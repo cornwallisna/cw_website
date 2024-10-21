@@ -77,14 +77,14 @@ Events of note:
   
 * **OCTOBER Tuesday, October 22nd 2024**
 * **Agenda Items:**
- - Medians and Libraries
- - Neighborhood Halloween Event planned for October 31
- - 2025 Dues Drive
- - Medicare Presentation (for Educational Purposes Only)
- - Membership / Financial Update
- - Holiday Party (seeking ideas and recommendations from members)
- - Open Discussion
- - Close!
+* - Medians and Libraries
+* - Neighborhood Halloween Event planned for October 31
+* - 2025 Dues Drive
+* - Medicare Presentation (for Educational Purposes Only)
+* - Membership / Financial Update
+* - Holiday Party (seeking ideas and recommendations from members)
+* - Open Discussion
+* - Close!
 
 * **NOVEMBER Tuesday, November 12th 2024 (if needed - will advise)**
   
