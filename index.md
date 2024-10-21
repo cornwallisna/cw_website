@@ -75,20 +75,31 @@ Events of note:
 
 * **CNA GENERAL MEETINGS are scheduled as follows:**
   
-* **OCTOBER Wednesday, October 15th 2024**
+* **OCTOBER Tuesday, October 22nd 2024**
+* **Agenda Items:**
+* - Medians and Libraries
+* - Neighborhood Halloween Event planned for October 31
+* - 2025 Dues Drive
+* - Medicare Presentation (for Educational Purposes Only)
+* - Membership / Financial Update
+* - Holiday Party (seeking ideas and recommendations from members)
+* - Open Discussion
+* - Close!
 
 * **NOVEMBER Tuesday, November 12th 2024 (if needed - will advise)**
   
 * **DECEMBER Tuesday, December 10th 2024**
-* **This is the meeting for Board Elections - if interested in serving, please let us know at anytime.**
+* **This is the meeting for Board Elections**
+* **Please consider volunteering for our 2025 Board positions.**
 
 * All meetings are planned to be at the **Birchwood Century 21 Building** located at **4040 Del Prado Blvd. Starting at 7:00pm.**
 
-* Please come to the meetings and support our association. We welcome and encourage your participation and input.
+* Come along to the meetings and support our association. We welcome and encourage your participation and input.
 
-* **We are glad to see many residents enjoying and taking advantage of our two neighborhood lending libraries.**
-
-* **More communications will follow regarding our Neighborhood Halloween activity and Holiday Party**
+* **We want to communicate that we will again hae the Annual Cornwallis Neigborhood Spooktacular**
+* **Get your costumes and treats ready**
+* **We will discuss more details regarding this event at the CNA General Meeting on Tuesday October 22nd.**
+* **A ZOOM link has been provided in an email for those who wish to attend the meeting remotely**
 
 
 To keep up on the latest events, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
