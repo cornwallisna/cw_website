@@ -37,8 +37,8 @@ topics:
 #   img: "images/CNA_X2023_menu.png"
 # - title: Rosemary Boon
 # - img: "images/rosemaryboon.jpg"
-# - title: Halloween Spooktacular - Tuesday October 31st, 2023 - 2014 SE 29th Street - 6:00PM
-# - img: "images/halloween.png"  
+  - title: Halloween Spooktacular - Thursday October 31st, 2024 - 2035 SE 29th Street - 6:00PM
+  - img: "images/halloween.png"  
 # - title: 2024 Block Party - Saturday April 6th, 2024 - 2807 SE 19th Avenue - 2pm - 6pm.
 # - img: "images/blockparty2024.png"  
   - title: Neighborhood Watch
@@ -74,17 +74,6 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 Events of note:
 
 * **CNA GENERAL MEETINGS are scheduled as follows:**
-  
-* **OCTOBER Tuesday, October 22nd 2024**
-* **Agenda Items:**
-* - Medians and Libraries
-* - Neighborhood Halloween Event planned for October 31
-* - 2025 Dues Drive
-* - Medicare Presentation (for Educational Purposes Only)
-* - Membership / Financial Update
-* - Holiday Party (seeking ideas and recommendations from members)
-* - Open Discussion
-* - Close!
 
 * **NOVEMBER Tuesday, November 12th 2024 (if needed - will advise)**
   
