@@ -45,11 +45,11 @@ topics:
     If you are not going to be home, please leave a bowl of candy treats on the driveway or by the front door.
     
     6:45 pm Let the Fun Begin with Trick or Treating!
-    We hope you will join us in our annual Spooktacular tradition and celebrate our community, great neighbors, and let the kids (and adults) enjoy a night of FUN with candy too!. The kids will roam the neihghborhood gathering treats. Most neighbors enjoy sitting on the driveway and passing 
+    We hope you will join us in our annual Spooktacular tradition and celebrate our community, great neighbors, and let the kids (and adults) enjoy a night of FUN with candy too!. The kids will roam the neighborhood gathering treats. Most neighbors enjoy sitting on the driveway and passing 
     out candy, if you are not going to be home you can leave a bowl of candy out.
     
     We gladly welcome any volunteers to help out or for more info contact
-    Mary Ellen Saba 239 699-0571 <a href='mesaba2@gmail.com'>mesab2@gmail.com</a>"
+    Mary Ellen Saba 239 699-0571 <a href='mesaba2@gmail.com'>mesab2@gmail.com</a> or Jen Barch 813 542-9752 <a href='jenbarch@gmail.com'>jenbarch@gmail.com</a>"
 # - title: 2024 Block Party - Saturday April 6th, 2024 - 2807 SE 19th Avenue - 2pm - 6pm.
 # - img: "images/blockparty2024.png"  
   - title: Neighborhood Watch
