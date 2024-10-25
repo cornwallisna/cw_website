@@ -39,14 +39,17 @@ topics:
 # - img: "images/rosemaryboon.jpg"
   - title: Halloween Spooktacular - Thursday October 31st, 2024 - 2035 SE 29th Street - 6:00PM
     img: "images/halloween.png"
-    content: "Thursday, October 31, 2024 starting at 6:00pm arrive at 2035 SE 29th Street, bring your chairs and visit with neighbors. Come dressed to inpress in your best Halloween costume. We will have hot dogs with our grill master and chips and water. Enjoy the hot dogs before loading up on
+    content: "Thursday, October 31, 2024 starting at 6:00pm arrive at 2035 SE 29th Street, bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume. We will have hot dogs with our grill master and chips and water. Enjoy the hot dogs before loading up on
     on candy! Enjoy some 'Candy Corn' Cornhole, with old neighbors and welcome our new ones.
+    
     If you are not going to be home, please leave a bowl of candy treats on the driveway or by the front door.
+    
     6:45 pm Let the Fun Begin with Trick or Treating!
     We hope you will join us in our annual Spooktacular tradition and celebrate our community, great neighbors, and let the kids (and adults) enjoy a night of FUN with candy too!. The kids will roam the neihghborhood gathering treats. Most neighbors enjoy sitting on the driveway and passing 
-    out candy, if you are notgoing to be home you can leave a bowl of candy out.
-    We gladly welcome any olunteers to help out or for more info contact
-    Mary Ellen Saba 239 699-0571 <a href='mesaba2@gmail.com'/a>"
+    out candy, if you are not going to be home you can leave a bowl of candy out.
+    
+    We gladly welcome any volunteers to help out or for more info contact
+    Mary Ellen Saba 239 699-0571 <a href='mesaba2@gmail.com'>mesab2@gmail.com</a>"
 # - title: 2024 Block Party - Saturday April 6th, 2024 - 2807 SE 19th Avenue - 2pm - 6pm.
 # - img: "images/blockparty2024.png"  
   - title: Neighborhood Watch
@@ -91,12 +94,7 @@ Events of note:
 
 * All meetings are planned to be at the **Birchwood Century 21 Building** located at **4040 Del Prado Blvd. Starting at 7:00pm.**
 
-* Come along to the meetings and support our association. We welcome and encourage your participation and input.
-
-* **We want to communicate that we will again have the Annual Cornwallis Neigborhood Spooktacular**
-* **Get your costumes and treats ready!**
-* **We will discuss more details regarding this event at the CNA General Meeting on Tuesday October 22nd.**
-* **A ZOOM link has been provided in an email for those who wish to attend the meeting remotely**
+* Come along to the meetings and support our association. We welcome and encourage your participation and input
 
 
 To keep up on the latest events, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
