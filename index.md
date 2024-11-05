@@ -33,7 +33,7 @@ grid_style: 4  # 1 for small, 2 for medium, 3 for large
 topics:
 # Commented out holiday grid entry, save for Dec '22
 # - title: Cornwallis Christmas Party
-#   content: Our Christmas Party will take place on Saturday, December 14, 3-6pm.
+#   content: "Our Christmas Party will take place on Saturday, December 14, 3-6pm.
     It will be a family event (adults, children etc.) to come and participate, meet your neighbors and enjoy!
     Plan to come and have fun. Perhaps we can get a special early visit from Santa Claus.
     We will have a DJ and photo booth along with props for taking great pictures.
@@ -44,7 +44,7 @@ topics:
     We can use some volunteers to help with the event, so please let us know if you will help.
     Please spread the word.
     Hope to see you all there.
-    Additional details to follow.
+    Additional details to follow."
 #   img: "images/CNA_X2023_menu.png"
 # - title: Rosemary Boon
 # - img: "images/rosemaryboon.jpg"
