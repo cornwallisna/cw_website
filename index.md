@@ -33,23 +33,25 @@ grid_style: 4  # 1 for small, 2 for medium, 3 for large
 topics:
 # Commented out holiday grid entry, save for Dec '22
 # - title: Cornwallis Christmas Party
-#   content: Attached is the invitation and hors d'oeuvres that will be served. The venue has a minimum person count of 30. Tickets will be sold by CNA officers. The ticket sale deadline is Sunday, December 10.
+#   content: Our Christmas Party will take place on Saturday, December 14, 3-6pm.
+    It will be a family event (adults, children etc.) to come and participate, meet your neighbors and enjoy!
+    Plan to come and have fun. Perhaps we can get a special early visit from Santa Claus.
+    We will have a DJ and photo booth along with props for taking great pictures.
+    The board will provide food and beverages, but we also ask everyone to bring a dish and dessert to share.
+    Party location: 
+    The event will be held at 2807 SE 19th Avenie. Note: This is the same location as our block party held earlier this year.
+    Please let us know if you plan on attending and your head count by December 8.
+    We can use some volunteers to help with the event, so please let us know if you will help.
+    Please spread the word.
+    Hope to see you all there.
+    Additional details to follow.
 #   img: "images/CNA_X2023_menu.png"
 # - title: Rosemary Boon
 # - img: "images/rosemaryboon.jpg"
   - title: Halloween Spooktacular - Thursday October 31st, 2024 - 2035 SE 29th Street - 6:00PM
     img: "images/halloween.png"
     content: "Thursday, October 31, 2024 starting at 6:00pm arrive at 2035 SE 29th Street, bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume. We will have hot dogs with our grill master and chips and water. Enjoy the hot dogs before loading up on
-    on candy! Enjoy some 'Candy Corn' Cornhole, with old neighbors and welcome our new ones.
-    
-    If you are not going to be home, please leave a bowl of candy treats on the driveway or by the front door.
-    
-    6:45 pm Let the Fun Begin with Trick or Treating!
-    We hope you will join us in our annual Spooktacular tradition and celebrate our community, great neighbors, and let the kids (and adults) enjoy a night of FUN with candy too!. The kids will roam the neighborhood gathering treats. Most neighbors enjoy sitting on the driveway and passing 
-    out candy, if you are not going to be home you can leave a bowl of candy out.
-    
-    We gladly welcome any volunteers to help out or for more info contact
-    Mary Ellen Saba 239 699-0571 <a href='mesaba2@gmail.com'>mesab2@gmail.com</a> or Jen Barch 813 542-9752 <a href='jenbarch@gmail.com'>jenbarch@gmail.com</a>"
+    on candy! Enjoy some 'Candy Corn' Cornhole, with old neighbors and welcome our new ones"    '
 # - title: 2024 Block Party - Saturday April 6th, 2024 - 2807 SE 19th Avenue - 2pm - 6pm.
 # - img: "images/blockparty2024.png"  
   - title: Neighborhood Watch
