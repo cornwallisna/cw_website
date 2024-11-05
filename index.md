@@ -32,8 +32,8 @@ slides:
 grid_style: 4  # 1 for small, 2 for medium, 3 for large
 topics:
 # Commented out holiday grid entry, save for Dec '22
-   - title: Cornwallis Christmas Party
-   - content: "Our Christmas Party will take place on Saturday, December 14, 3-6pm.
+  - title: Cornwallis Christmas Party
+    content: "Our Christmas Party will take place on Saturday, December 14, 3-6pm.
     It will be a family event (adults, children etc.) to come and participate, meet your neighbors and enjoy!
     Plan to come and have fun. Perhaps we can get a special early visit from Santa Claus.
     We will have a DJ and photo booth along with props for taking great pictures.
