@@ -48,8 +48,8 @@ topics:
     img: "images/CNA_X2023_menu.png"
 # - title: Rosemary Boon
 # - img: "images/rosemaryboon.jpg"
-  - title: Halloween Spooktacular - Thursday October 31st, 2024 - 2035 SE 29th Street - 6:00PM
-    img: "images/halloween.png"
+# - title: Halloween Spooktacular - Thursday October 31st, 2024 - 2035 SE 29th Street - 6:00PM
+#   img: "images/halloween.png"
     content: "Thursday, October 31, 2024 starting at 6:00pm arrive at 2035 SE 29th Street, bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume. We will have hot dogs with our grill master and chips and water. Enjoy the hot dogs before loading up on
     on candy! Enjoy some 'Candy Corn' Cornhole, with old neighbors and welcome our new ones"    '
 # - title: 2024 Block Party - Saturday April 6th, 2024 - 2807 SE 19th Avenue - 2pm - 6pm.
