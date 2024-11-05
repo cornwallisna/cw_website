@@ -40,7 +40,7 @@ topics:
     We will have a DJ and photo booth along with props for taking great pictures.
     The board will provide food and beverages, but we also ask everyone to bring a dish and dessert to share.
     Party location: 
-    The event will be held at 2807 SE 19th Avenie. Note: This is the same location as our block party held earlier this year.
+    The event will be held at 2807 SE 19th Avenue. Note: This is the same location as our block party, held earlier this year.
     Please let us know if you plan on attending and your head count by December 8.
     We can use some volunteers to help with the event, so please let us know if you will help.
     Please spread the word.
