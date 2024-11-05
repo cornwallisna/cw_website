@@ -45,7 +45,7 @@ topics:
     Please spread the word.
     Hope to see you all there.
     Additional details to follow."
-#   img: "images/CNA_X2023_menu.png"
+    img: "images/CNA_X2023_menu.png"
 # - title: Rosemary Boon
 # - img: "images/rosemaryboon.jpg"
   - title: Halloween Spooktacular - Thursday October 31st, 2024 - 2035 SE 29th Street - 6:00PM
