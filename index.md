@@ -33,6 +33,7 @@ grid_style: 4  # 1 for small, 2 for medium, 3 for large
 topics:
 # Commented out holiday grid entry, save for Dec '22
   - title: Cornwallis Christmas Party
+  - img: "images/xmas2022.png"
     content: "Our Christmas Party will take place on Saturday, December 14, 3-6pm.
     It will be a family event (adults, children etc.) to come and participate, meet your neighbors and enjoy!
     Plan to come and have fun. Perhaps we can get a special early visit from Santa Claus.
@@ -45,7 +46,6 @@ topics:
     Please spread the word.
     Hope to see you all there.
     Additional details to follow."
-    img: "images/CNA_X2023_menu.png"
 # - title: Rosemary Boon
 # - img: "images/rosemaryboon.jpg"
 # - title: Halloween Spooktacular - Thursday October 31st, 2024 - 2035 SE 29th Street - 6:00PM
