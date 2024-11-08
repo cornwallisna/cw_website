@@ -87,8 +87,6 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 Events of note:
 
 * **CNA GENERAL MEETINGS are scheduled as follows:**
-
-* **NOVEMBER Tuesday, November 12th 2024 (if needed - will advise)**
   
 * **DECEMBER Tuesday, December 10th 2024**
 * **This is the meeting for Board Elections**
@@ -103,8 +101,9 @@ To keep up on the latest events, add the [CNA Calendar](/calendar.html) to your 
 
 #  Open Positions:
 
-* **Treasurer:** Our Treasurer would like to retire from this position so we are asking for someone to step forward and volunteer to serve.
-* The current Treasurer is willing to stay on to help transition/ and on board a new Treasurer. 
+* **Volunteers to serve as Secretary and Treasurer are needed to fill these open positions in 2025**
+* **FYI, the current President and Vice President are willing to continue to serve for another year should you wish to reelect us.**
+* Both our Treasurer and Secretary will retire from their current positions at the end of the year. Therefore, **we must fill these positions and ask for someone to step forward and volunteer to serve**
 
 * **Website Team & Website content support.**
 
