@@ -89,7 +89,15 @@ Events of note:
 * **CNA GENERAL MEETINGS are scheduled as follows:**
   
 * **DECEMBER Tuesday, December 10th 2024**
-* **This is the meeting for Board Elections**
+* **Agenda Items are as follow:**
+
+* - 2025 Board Elections
+* - Treasurer Update & Membership
+* - 2025 Dues Drive
+* - Holiday Party (Saturday. december 14, 3pm - 6pm
+* - Upcoming meeting dates and garage sale
+* - Member Q & A as needed
+    
 * **Please consider volunteering for our 2025 Board positions.**
 
 * All meetings are planned to be at the **Birchwood Century 21 Building** located at **4040 Del Prado Blvd. Starting at 7:00pm.**
