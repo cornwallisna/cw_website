@@ -91,12 +91,12 @@ Events of note:
 * **DECEMBER Tuesday, December 10th 2024**
 * **Agenda Items are as follow:**
 
-* - 2025 Board Elections
-* - Treasurer Update & Membership
-* - 2025 Dues Drive
-* - Holiday Party (Saturday. december 14, 3pm - 6pm
-* - Upcoming meeting dates and garage sale
-* - Member Q & A as needed
+ - 2025 Board Elections
+ - Treasurer Update & Membership
+ - 2025 Dues Drive
+ - Holiday Party (Saturday, December 14, 3pm - 6pm
+ - Upcoming meeting dates and garage sale
+ - Member Q & A as needed
     
 * **Please consider volunteering for our 2025 Board positions.**
 
