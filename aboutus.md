@@ -107,7 +107,7 @@ xsidemenu:
 <div class="row">
 <div class="grid_6">
 <a href="treasurer.html">
-  <img src="images/stickperson.png" width="30%">
+  <img src="images/sticklady.png" width="30%">
   <img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%">
 </a>
 </div>
@@ -115,16 +115,16 @@ xsidemenu:
 <table>
   <tbody>
     <tr>
-      <td>WENDELL CHRISTOFF</td>
+      <td>HEIKE WILMS</td>
     </tr>
     <tr>
-      <td>2801 SE 19th Ave</td>
+      <td>1933 Cornwallis Pkwy.</td>
     </tr>
     <tr>
-      <td><a href="tel:616-581-1104">616-581-1104</a></td>
+      <td><a href="tel:999-999-9999">999-999-9999</a></td>
     </tr>
     <tr>
-      <td><a href="mailto:cornwallna+treasurer@gmail.com">Wendell's email</a></td>
+      <td><a href="mailto:cornwallna+treasurer@gmail.com">Heike's email</a></td>
     </tr>
   </tbody>
 </table>
