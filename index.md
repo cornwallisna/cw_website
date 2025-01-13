@@ -31,21 +31,21 @@ slides:
 
 grid_style: 4  # 1 for small, 2 for medium, 3 for large
 topics:
-# Commented out holiday grid entry, save for Dec '22
-  - title: Cornwallis Christmas Party
-  - img: "images/xmas2022.png"
-    content: "Our Christmas Party will take place on Saturday, December 14, 3-6pm.
-    It will be a family event (adults, children etc.) to come and participate, meet your neighbors and enjoy!
-    Plan to come and have fun. Perhaps we can get a special early visit from Santa Claus.
-    We will have a DJ and photo booth along with props for taking great pictures.
-    The board will provide food and beverages, but we also ask everyone to bring a dish and dessert to share.
-    Party location: 
-    The event will be held at 2807 SE 19th Avenue. Note: This is the same location as our block party, held earlier this year.
-    Please let us know if you plan on attending and your head count by December 8.
-    We can use some volunteers to help with the event, so please let us know if you will help.
-    Please spread the word.
-    Hope to see you all there.
-    Additional details to follow."
+# Commented out holiday grid entry, save for Dec '25
+# - title: Cornwallis Christmas Party
+# - img: "images/xmas2022.png"
+#   content: "Our Christmas Party will take place on Saturday, December 14, 3-6pm.
+#   It will be a family event (adults, children etc.) to come and participate, meet your neighbors and enjoy!
+#   Plan to come and have fun. Perhaps we can get a special early visit from Santa Claus.
+#   We will have a DJ and photo booth along with props for taking great pictures.
+#   The board will provide food and beverages, but we also ask everyone to bring a dish and dessert to share.
+#   Party location: 
+#   The event will be held at 2807 SE 19th Avenue. Note: This is the same location as our block party, held earlier this year.
+#   Please let us know if you plan on attending and your head count by December 8.
+#   We can use some volunteers to help with the event, so please let us know if you will help.
+#   Please spread the word.
+#   Hope to see you all there.
+#   Additional details to follow."
 # - title: Rosemary Boon
 # - img: "images/rosemaryboon.jpg"
 # - title: Halloween Spooktacular - Thursday October 31st, 2024 - 2035 SE 29th Street - 6:00PM
@@ -87,18 +87,8 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 Events of note:
 
 * **CNA GENERAL MEETINGS are scheduled as follows:**
-  
-* **DECEMBER Tuesday, December 10th 2024**
-* **Agenda Items are as follow:**
-
- - 2025 Board Elections
- - Treasurer Update & Membership
- - 2025 Dues Drive
- - Holiday Party (Saturday, December 14, 3pm - 6pm
- - Upcoming meeting dates and garage sale
- - Member Q & A as needed
     
-* **Please consider volunteering for our 2025 Board positions.**
+* **Please consider volunteering for our 2025 open Board positions.**
 
 * All meetings are planned to be at the **Birchwood Century 21 Building** located at **4040 Del Prado Blvd. Starting at 7:00pm.**
 
@@ -109,9 +99,7 @@ To keep up on the latest events, add the [CNA Calendar](/calendar.html) to your 
 
 #  Open Positions:
 
-* **Volunteers to serve as Secretary and Treasurer are needed to fill these open positions in 2025**
-* **FYI, the current President and Vice President are willing to continue to serve for another year should you wish to reelect us.**
-* Both our Treasurer and Secretary will retire from their current positions at the end of the year. Therefore, **we must fill these positions and ask for someone to step forward and volunteer to serve**
+* **Volunteer to serve as Secretary are needed to fill this open position in 2025**
 
 * **Website Team & Website content support.**
 
