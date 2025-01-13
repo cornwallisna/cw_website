@@ -87,8 +87,10 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 Events of note:
 
 * **CNA GENERAL MEETINGS are scheduled as follows:**
+
+* ** TBD **
     
-* **Please consider volunteering for our 2025 open Board positions.**
+* **Please consider volunteering for our 2025 open Board positions noted below.**
 
 * All meetings are planned to be at the **Birchwood Century 21 Building** located at **4040 Del Prado Blvd. Starting at 7:00pm.**
 
@@ -99,7 +101,7 @@ To keep up on the latest events, add the [CNA Calendar](/calendar.html) to your 
 
 #  Open Positions:
 
-* **Volunteer to serve as Secretary are needed to fill this open position in 2025**
+* **A volunteer to serve as Secretary is needed to fill this open position in 2025**
 
 * **Website Team & Website content support.**
 
