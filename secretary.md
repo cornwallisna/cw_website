@@ -5,7 +5,7 @@ banner:  Secretary's Message
 permalink: /secretary
 ---
 
-# FYI:  POSITION FILLED - Geoff Allard - A brief introduction will likely be forthcoming.
+# FYI:  OPEN POSITION - Please consider volunteering for this important position.
 
 
 ## Karla's last note
