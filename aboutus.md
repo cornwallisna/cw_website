@@ -87,16 +87,16 @@ xsidemenu:
 <table>
   <tbody>
     <tr>
-      <td>GEOFF ALLARD</td>
+      <td>OPEN POSITION</td>
     </tr>
     <tr>
-      <td>1631 Cornwallis Parkway</td>
+      <td>9999 Cornwallis Parkway</td>
     </tr>
     <tr>
-      <td><a href="tel:619-823-3765">619-823-3765</a></td>
+      <td><a href="tel:999-999-9999">999-999-9999</a></td>
     </tr>
     <tr>
-      <td><a href="mailto:cornwallna+secretary@gmail.com">Geoff's email</a></td>
+      <td><a href="mailto:cornwallna+secretary@gmail.com">Secretary's email</a></td>
     </tr>  </tbody>
 </table>
 </div>
@@ -121,7 +121,7 @@ xsidemenu:
       <td>1933 Cornwallis Pkwy.</td>
     </tr>
     <tr>
-      <td><a href="tel:999-999-9999">999-999-9999</a></td>
+      <td><a href="tel:239-634-8222">239-634-8222</a></td>
     </tr>
     <tr>
       <td><a href="mailto:cornwallna+treasurer@gmail.com">Heike's email</a></td>
