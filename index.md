@@ -99,7 +99,7 @@ Events of note:
 * **ANNUAL CORNWALLIS NEIGHBORHOOD WIDE GARAGE SALE**
 
 * This will take place on **Friday February 7 and Saturday February 8 2025**
-* To get your permit please visit <a href='http://garagesale.capecoral.gov'> and don't forget to print it.
+* To get your permit please visit <a href='http://garagesale.capecoral.gov'>Cape Coral Garage Sale Permit Link</a>, and don't forget to print it.
 * The permit is free and must be displayed.
 
 * So start clearing out all those closets, boxes and garages.
