@@ -88,7 +88,7 @@ Events of note:
 
 * **CNA GENERAL MEETINGS are scheduled as follows:**
 
-* ** TBD **
+* **FEBRUARY MEETING - Tuesday February 18, 2025**
     
 * **Please consider volunteering for our 2025 open Board positions noted below.**
 
@@ -96,6 +96,16 @@ Events of note:
 
 * Come along to the meetings and support our association. We welcome and encourage your participation and input
 
+* **ANNUAL CORNWALLIS NEIGHBORHOOD WIDE GARAGE SALE**
+
+* This will take place on **Friday February 7 and Saturday February 8 2025**
+* To get your permit please visit <a href='http://garagesale.capecoral.gov'> and don't forget to print it.
+* The permit is free and must be displayed.
+
+* So start clearing out all those closets, boxes and garages.
+
+* We will be advertising the garage sale in The Breeze, Nextdoor Cornwallis, The Marketplace, Offer Up and Craig's List. **Good Luck**
+* Please spread the word to all your neighbors!
 
 To keep up on the latest events, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
 
