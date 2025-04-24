@@ -41,5 +41,5 @@ Zelle is an online person-to-person, person-to-business payment service.  Your b
 
 ## Or you can print out this form and send it to us
 
-<img src="images/CNA_membership_request.png">
-<button onclick="printImg('/images/CNA_membership_request.png')">Print Membership Form</button>
+<img src="images/CNA_membership_request.pdf">
+<button onclick="printImg('/images/CNA_membership_request.pdf')">Print Membership Form</button>
