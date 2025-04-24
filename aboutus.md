@@ -79,7 +79,7 @@ xsidemenu:
 <div class="row">
 <div class="grid_6">
 <a href="secretary.html">
-  <img src="images/stickperson.png" width="30%">
+  <img src="images/sticklady.png" width="30%">
   <img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%">
 </a>
 </div>
@@ -87,16 +87,16 @@ xsidemenu:
 <table>
   <tbody>
     <tr>
-      <td>OPEN POSITION</td>
+      <td>KARLA MARTINEZ</td>
     </tr>
     <tr>
-      <td>9999 Cornwallis Parkway</td>
+      <td>2801 SE 22nd Ave</td>
     </tr>
     <tr>
-      <td><a href="tel:999-999-9999">999-999-9999</a></td>
+      <td><a href="tel:919-830-8734">919-830-8734</a></td>
     </tr>
     <tr>
-      <td><a href="mailto:cornwallna+secretary@gmail.com">Secretary's email</a></td>
+      <td><a href="mailto:cornwallna+secretary@gmail.com">Karla's email</a></td>
     </tr>  </tbody>
 </table>
 </div>
@@ -107,7 +107,7 @@ xsidemenu:
 <div class="row">
 <div class="grid_6">
 <a href="treasurer.html">
-  <img src="images/sticklady.png" width="30%">
+  <img src="images/stickperson.png" width="30%">
   <img src="images/ThoughtBubble-Messages.jpg" align="top" width="20%">
 </a>
 </div>
@@ -115,16 +115,16 @@ xsidemenu:
 <table>
   <tbody>
     <tr>
-      <td>HEIKE WILMS</td>
+      <td>WENDELL CHRISTOFF</td>
     </tr>
     <tr>
-      <td>1933 Cornwallis Pkwy.</td>
+      <td>2801 SE 19th Ave</td>
     </tr>
     <tr>
-      <td><a href="tel:239-634-8222">239-634-8222</a></td>
+      <td><a href="tel:616-581-1104">616-581-1104</a></td>
     </tr>
     <tr>
-      <td><a href="mailto:cornwallna+treasurer@gmail.com">Heike's email</a></td>
+      <td><a href="mailto:cornwallna+treasurer@gmail.com">Wendell's email</a></td>
     </tr>
   </tbody>
 </table>
