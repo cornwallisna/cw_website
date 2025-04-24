@@ -86,13 +86,16 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* **CNA GENERAL MEETINGS are scheduled as follows:**
+* **CNA BOARD CHANGES:**
 
-* **FEBRUARY MEETING - Tuesday February 18, 2025**
-* **Agenda for the brief meeting:**
-* General Updates
-* Treasurer Report / membership  (short update only)
-* Block Party planning and ideas.
+* **Karla Martinez** was appointed to the open **Secretary / Events Chair** position and we are so grateful to have her back.
+* As you are aware, she is already back hard at work chairing our upcoming **Block Party**.
+
+* **Wendell Christoff** was appointed to fill our open **Treasurer** position. We thank Wendell for taking on this important position again.
+
+* We also wanted to thank heike Wilms for her service and hard workto CNAA and the board as our former Treasurer.
+* We wish heike and Joerg much success in their new and exciting business venture.
+* We are sure you will hear more about this from them. We also thank hheike for her continues commitment, involvement and ideas on CNA committees and events.
     
 * **Please consider volunteering for our 2025 open Board positions noted below.**
 
@@ -103,8 +106,6 @@ Events of note:
 To keep up on the latest events, add the [CNA Calendar](/calendar.html) to your Google/Apple calendars!
 
 #  Open Positions:
-
-* **A volunteer to serve as Secretary is needed to fill this open position in 2025**
 
 * **Website Team & Website content support.**
 
