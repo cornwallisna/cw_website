@@ -93,9 +93,9 @@ Events of note:
 
 * **Wendell Christoff** was appointed to fill our open **Treasurer** position. We thank Wendell for taking on this important position again.
 
-* We also wanted to thank heike Wilms for her service and hard workto CNAA and the board as our former Treasurer.
-* We wish heike and Joerg much success in their new and exciting business venture.
-* We are sure you will hear more about this from them. We also thank hheike for her continues commitment, involvement and ideas on CNA committees and events.
+* We also wanted to thank Heike Wilms for her service and hard workto CNA and the board as our former Treasurer.
+* We wish Heike and Joerg much success in their new and exciting business venture.
+* We are sure you will hear more about this from them. We also thank Heike for her continued commitment, involvement and ideas on CNA committees and events.
     
 * **Please consider volunteering for our 2025 open Board positions noted below.**
 
