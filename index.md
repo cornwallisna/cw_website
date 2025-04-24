@@ -52,8 +52,8 @@ topics:
 #   img: "images/halloween.png"
 #   content: "Thursday, October 31, 2024 starting at 6:00pm arrive at 2035 SE 29th Street, bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume. We will have hot dogs with our grill master and chips and water. Enjoy the hot dogs before loading up on
 #   on candy! Enjoy some 'Candy Corn' Cornhole, with old neighbors and welcome our new ones"    '
-# - title: 2025 Block Party - Saturday May 10th, 2025 (Rainout - Sunday May 11th) - SE 29th Street (Cul de sac) - 4pm - 8pm.
-# - img: "images/blockparty2025.png"  
+  - title: 2025 Block Party - Saturday May 10th, 2025 (Rainout - Sunday May 11th) - SE 29th Street (Cul de sac) - 4pm - 8pm.
+  - img: "images/blockparty2025.png"  
   - title: Neighborhood Watch
     img: "images/speeding.jpg"
     content: "Speeders, Vandalism, & Non-emergency police reports: <a href='tel:239-547-3223'>239-547-3223</a>.  <p> Code enforcement issues, Citizens Action Center, broken sprinklers and mowing issues: <a href='tel:311'>311</a>"
@@ -93,7 +93,7 @@ Events of note:
 
 * **Wendell Christoff** was appointed to fill our open **Treasurer** position. We thank Wendell for taking on this important position again.
 
-* We also wanted to thank Heike Wilms for her service and hard workto CNA and the board as our former Treasurer.
+* We also wanted to thank Heike Wilms for her service and hard work to CNA and the board as our former Treasurer.
 * We wish Heike and Joerg much success in their new and exciting business venture.
 * We are sure you will hear more about this from them. We also thank Heike for her continued commitment, involvement and ideas on CNA committees and events.
     
