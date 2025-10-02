@@ -30,6 +30,7 @@ slides:
     caption: SE 28th Terrace
 
 grid_style: 4  # 1 for small, 2 for medium, 3 for large
+
 # topics:
   - title: Cornwallis 2025 Christmas Party
     img: "images/xmas2022.png"
