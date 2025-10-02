@@ -31,7 +31,6 @@ slides:
 
 grid_style: 4  # 1 for small, 2 for medium, 3 for large
 topics:
-# Commented out holiday grid entry, save for Dec '25
  - title: Cornwallis 2025 Christmas Party
  - img: "images/xmas2022.png"
  content: "Our Christmas Party will take place on Saturday, December 13, 6-10pm at the German American Social Club (GASC).
