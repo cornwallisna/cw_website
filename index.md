@@ -32,28 +32,18 @@ slides:
 grid_style: 4  # 1 for small, 2 for medium, 3 for large
 topics:
 # Commented out holiday grid entry, save for Dec '25
-# - title: Cornwallis Christmas Party
-# - img: "images/xmas2022.png"
-#   content: "Our Christmas Party will take place on Saturday, December 14, 3-6pm.
-#   It will be a family event (adults, children etc.) to come and participate, meet your neighbors and enjoy!
-#   Plan to come and have fun. Perhaps we can get a special early visit from Santa Claus.
-#   We will have a DJ and photo booth along with props for taking great pictures.
-#   The board will provide food and beverages, but we also ask everyone to bring a dish and dessert to share.
-#   Party location: 
-#   The event will be held at 2807 SE 19th Avenue. Note: This is the same location as our block party, held earlier this year.
-#   Please let us know if you plan on attending and your head count by December 8.
-#   We can use some volunteers to help with the event, so please let us know if you will help.
-#   Please spread the word.
-#   Hope to see you all there.
-#   Additional details to follow."
-# - title: Rosemary Boon
-# - img: "images/rosemaryboon.jpg"
-# - title: Halloween Spooktacular - Thursday October 31st, 2024 - 2035 SE 29th Street - 6:00PM
-#   img: "images/halloween.png"
-#   content: "Thursday, October 31, 2024 starting at 6:00pm arrive at 2035 SE 29th Street, bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume. We will have hot dogs with our grill master and chips and water. Enjoy the hot dogs before loading up on
-#   on candy! Enjoy some 'Candy Corn' Cornhole, with old neighbors and welcome our new ones"    '
-  - title: 2025 Block Party - Saturday May 10th, 2025 (Rainout - Sunday May 11th) - SE 29th Street (Cul de sac) - 4pm - 8pm.
-  - img: "images/blockparty2025.png"  
+- title: Cornwallis 2025 Christmas Party
+- img: "images/xmas2022.png"
+content: "Our Christmas Party will take place on Saturday, December 13, 6-10pm at the German American Social Club (GASC).
+
+Additional details to follow."
+
+- title: Halloween Spooktacular - Friday October 31st, 2025 - 2035 SE 29th Street - 6:00PM
+- img: "images/halloween.png"
+content: "Thursday, October 31, 2025 starting at 6:00pm arrive at 2035 SE 29th Street, bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume.
+There will be food and games along with trick or treating starting at 6:45pm"    '
+# - title: 2025 Block Party - Saturday May 10th, 2025 (Rainout - Sunday May 11th) - SE 29th Street (Cul de sac) - 4pm - 8pm.
+# - img: "images/blockparty2025.png"  
   - title: Neighborhood Watch
     img: "images/speeding.jpg"
     content: "Speeders, Vandalism, & Non-emergency police reports: <a href='tel:239-547-3223'>239-547-3223</a>.  <p> Code enforcement issues, Citizens Action Center, broken sprinklers and mowing issues: <a href='tel:311'>311</a>"
@@ -86,20 +76,19 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* **CNA BOARD CHANGES:**
+* **UPCOMING MEETING AND EVENTS:**
 
-* **Karla Martinez** was appointed to the open **Secretary / Events Chair** position and we are so grateful to have her back.
-* As you are aware, she is already back hard at work chairing our upcoming **Block Party**.
+* **October 28, 2025:** General Association Meeting at the Birchwood Realty Building - 7pm.
 
-* **Wendell Christoff** was appointed to fill our open **Treasurer** position. We thank Wendell for taking on this important position again.
+* **October 30 /31, 2025:** Cornwallis Halloween Spooktacular - 2035 SE 29th Street at 6pm. 
 
-* We also wanted to thank Heike Wilms for her service and hard work to CNA and the board as our former Treasurer.
-* We wish Heike and Joerg much success in their new and exciting business venture.
-* We are sure you will hear more about this from them. We also thank Heike for her continued commitment, involvement and ideas on CNA committees and events.
-    
-* **Please consider volunteering for our 2025 open Board positions noted below.**
+* **December 9, 2025:** General Association Meeting - Main purpose is to hold our Board Elections and provide any key Holiday Party updates - 7pm.
 
-* All meetings are planned to be at the **Birchwood Century 21 Building** located at **4040 Del Prado Blvd. Starting at 7:00pm.**
+* **November 22 / 34, 2025:** Put up our Christmas Decorations (candy canes, trees and median 1 decorated) Note: volunteers are needed to help put up the decorations. Please consider volunteering!
+
+* **December 13, 2025:** CNA Christmas Party at the German American Social Club (GASC) - 6-10pm. Additional details forthcoming.
+
+* All General Association meetings are planned to be at the **Birchwood Realty Building** located at **4040 Del Prado Blvd. Starting at 7:00pm.**
 
 * Come along to the meetings and support our association. We welcome and encourage your participation and input
 
