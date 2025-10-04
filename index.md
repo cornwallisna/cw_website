@@ -78,11 +78,11 @@ Events of note:
 
 * **October 28, 2025:** General Association Meeting at the Birchwood Realty Building - 7pm.
 
-* **October 30 /31, 2025:** Cornwallis Halloween Spooktacular - 2035 SE 29th Street at 6pm. 
+* **October 30, 2025:** Cornwallis Halloween Spooktacular - 2035 SE 29th Street at 6pm. 
 
 * **December 9, 2025:** General Association Meeting - Main purpose is to hold our Board Elections and provide any key Holiday Party updates - 7pm.
 
-* **November 22 / 34, 2025:** Put up our Christmas Decorations (candy canes, trees and median 1 decorated) Note: volunteers are needed to help put up the decorations. Please consider volunteering!
+* **November 22, 2025:** Put up our Christmas Decorations (candy canes, trees and median 1 decorated) Note: volunteers are needed to help put up the decorations. Please consider volunteering!
 
 * **December 13, 2025:** CNA Christmas Party at the German American Social Club (GASC) - 6-10pm. Additional details forthcoming.
 
