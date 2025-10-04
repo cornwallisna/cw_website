@@ -33,7 +33,7 @@ grid_style: 4  # 1 for small, 2 for medium, 3 for large
 topics:
   - title: Halloween Spooktacular - Friday October 31st, 2025 - 2035 SE 29th Street - 6:00PM
     img: "images/halloween.png"
-    content: "Thursday, October 31, 2025 starting at 6:00pm arrive at 2035 SE 29th Street, bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume."
+    content: "Friday, October 31, 2025 starting at 6:00pm arrive at 2035 SE 29th Street, bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume."
   - title: Cornwallis 2025 Christmas Party
     img: "images/xmas2022.png"
     content: "Our Christmas Party will take place on Saturday, December 13, 6-10pm at the German American Social Club (GASC)."     
@@ -78,7 +78,7 @@ Events of note:
 
 * **October 28, 2025:** General Association Meeting at the Birchwood Realty Building - 7pm.
 
-* **October 30, 2025:** Cornwallis Halloween Spooktacular - 2035 SE 29th Street at 6pm. 
+* **October 31, 2025:** Cornwallis Halloween Spooktacular - 2035 SE 29th Street at 6pm. 
 
 * **December 9, 2025:** General Association Meeting - Main purpose is to hold our Board Elections and provide any key Holiday Party updates - 7pm.
 
