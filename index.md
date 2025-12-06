@@ -73,9 +73,9 @@ Events of note:
 
 * **UPCOMING MEETING AND EVENTS:**
 
-* **December 9, 2025:** General Association Meeting - Main purpose is to hold our Board Elections and provide any key Holiday Party updates - 7pm.
+* **December 9, 2025:** General Association Meeting - Main purpose is to hold our Board Elections - 7pm.
 
-* ** CNA Christmas Party CANCELLED:**  Due to a significant lack of participation during the RSVP period, the board has made the necessary decision to cancel the planned 2025 Christmas Party. However on the good news front, the board is working to provide some ** POST HOLIDAY CHEER ** in the form of an upscale block party. This is planned to occur on ** January 10th 2026 - HOLD THE DATE ** more details will be forthcoming shortly!
+* **CNA Christmas Party CANCELLED**  Due to a significant lack of participation during the RSVP period, the board has made the necessary decision to cancel the planned 2025 Christmas Party. On the good news front however, the board is working to provide some **POST HOLIDAY CHEER** in the form of an upscale block party. This is planned to occur on **January 10th 2026 - SO PLEASE ALL HOLD THE DATE** more details will be forthcoming shortly!
 
 * All General Association meetings are planned to be at the **Birchwood Realty Building** located at **4040 Del Prado Blvd. Starting at 7:00pm.**
 
