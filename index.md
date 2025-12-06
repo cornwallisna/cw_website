@@ -31,9 +31,9 @@ slides:
 
 grid_style: 4  # 1 for small, 2 for medium, 3 for large
 topics:
-  - title: Cornwallis 2025 Christmas Party
-    img: "images/xmas2022.png"
-    content: "Our Christmas Party will take place on Saturday, December 13, 6-10pm at the German American Social Club (GASC)."     
+# - title: Cornwallis 2025 Christmas Party
+#   img: "images/xmas2022.png"
+#   content: "Our Christmas Party will take place on Saturday, December 13, 6-10pm at the German American Club(GASC)."     
 # - title: Halloween Spooktacular - Friday October 31st, 2025 - 2035 SE 29th Street - 6:00PM
 #   img: "images/halloween.png"
 #   content: "Thursday, October 31, 2025 starting at 6:00pm arrive at 2035 SE 29th Street, bring your chairs and visit with #neighbors. Come dressed to impress in your best Halloween costume."
@@ -75,7 +75,7 @@ Events of note:
 
 * **December 9, 2025:** General Association Meeting - Main purpose is to hold our Board Elections and provide any key Holiday Party updates - 7pm.
 
-* **December 13, 2025:** CNA Christmas Party at the German American Social Club (GASC) - 6-10pm. 
+* ** CNA Christmas Party CANCELLED:**  Due to a significant lack of participation during the RSVP period, the board has made the necessary decision to cancel the planned 2025 Christmas Party. However on the good news front, the board is working to provide some ** POST HOLIDAY CHEER ** in the form of an upscale block party. This is planned to occur on ** January 10th 2026 - HOLD THE DATE ** more details will be forthcoming shortly!
 
 * All General Association meetings are planned to be at the **Birchwood Realty Building** located at **4040 Del Prado Blvd. Starting at 7:00pm.**
 
