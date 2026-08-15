@@ -1,4 +1,5 @@
 ---
+title: Sponsors
 layout: content_page
 topnav: sponsors
 banner: A special thanks to our sponsors

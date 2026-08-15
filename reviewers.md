@@ -1,4 +1,5 @@
 ---
+title: Reviewers
 layout: content_page
 permalink: /reviewers
 topnav: home

@@ -1,4 +1,5 @@
 ---
+title: Things For Sale or Free
 layout: content_page
 topnav: sales
 permalink: /sales

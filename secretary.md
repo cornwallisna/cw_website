@@ -1,4 +1,5 @@
 ---
+title: Secretary's Message
 layout: content_page
 topnav: about.secretary
 banner:  Secretary's Message

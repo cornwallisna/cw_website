@@ -1,4 +1,5 @@
 ---
+title: Vice President's Message
 layout: content_page
 topnav: about.vicepresident
 banner:  Vice Presidents Message

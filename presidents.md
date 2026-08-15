@@ -1,4 +1,5 @@
 ---
+title: President's Message
 layout: content_page
 topnav: about.president
 banner: Presidents Message

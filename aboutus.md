@@ -1,4 +1,5 @@
 ---
+title: About
 layout: content_page
 topnav: about
 permalink: /aboutus

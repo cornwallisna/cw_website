@@ -1,4 +1,5 @@
 ---
+title: News
 layout: content_page
 topnav: news
 permalink: /news
