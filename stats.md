@@ -1,4 +1,5 @@
 ---
+title: Site Statistics
 layout: content_page
 topnav: home
 hitID: stats

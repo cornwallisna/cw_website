@@ -1,4 +1,5 @@
 ---
+title: Report Issues or Request Features
 layout: content_page
 permalink: /issues
 topnav: aboutus.issues

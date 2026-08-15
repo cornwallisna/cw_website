@@ -1,4 +1,5 @@
 ---
+title: Calendar
 layout: content_page
 topnav: calendar
 permalink: /calendar

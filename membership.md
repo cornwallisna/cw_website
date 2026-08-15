@@ -1,4 +1,5 @@
 ---
+title: Membership
 layout: content_page
 permalink: /membership
 topnav: membership

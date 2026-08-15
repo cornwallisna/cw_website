@@ -1,4 +1,5 @@
 ---
+title: Treasurer's Message
 layout: content_page
 topnav: about.treasurer
 banner:  Treasurer's Message

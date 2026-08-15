@@ -1,4 +1,5 @@
 ---
+title: Help
 layout: content_page
 permalink: /help
 topnav: home

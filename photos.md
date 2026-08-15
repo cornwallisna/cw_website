@@ -1,4 +1,5 @@
 ---
+title: Photos
 layout: content_page
 topnav: photos
 banner: Photo Albums
