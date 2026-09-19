@@ -69,6 +69,22 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 Events of note:
 
 * **UPCOMING MEETING AND EVENTS:**
+  
+* **Come join us for our Annual Cornwallis Halloween Neighborhood Fun!**
+
+Join us on **Saturday October 31, 2026** for our annual TRICK or TREAT Fun!
+
+We hope you will join us in our annual Spooktacular tradition and celebrate our community, great neighbors, and let the kids (and adults) enjoy a night of FUN with Candy too!! The kids will roam the neighborhood gathering treats. Most neighbors enjoy sitting on the driveway and passing out candy. If you are not going to be home you can leave a bowl of candy treats out on the driveway or by the front door. Suzie will be creating a map of the neighborhood with all the houses that are “candy stops”. 
+Please contact Suzie 239-747-5652 and let her know if you will be giving out treats. 
+**Saturday October 31, 2026 starting at 6:30pm** arrive at 2035 SE 29th Street, bring your chairs and visit with neighbors.  Come dressed to impress in your best Halloween costume.  We will have delicious hot dogs prepared by our grill master and chips and a drink.  Enjoy the hot dogs before loading up on candy! 
+**6:45pm Let the Fun Begin with Trick or Treating through the neighborhood!!**   
+
+We gladly welcome any volunteers to help or for more info contact  
+Mary Ellen Saba 239 699 0571  mesaba2@gmail.com or
+Jen Barch 813 542 9752   jenbarch@gmail.com
+Suzie 239-747-5652    suzie239villa@gmail.com
+
+
 
 * All General Association meetings are planned to be at the **Birchwood Realty Building** located at **4040 Del Prado Blvd. Starting at 7:00pm.**
 
