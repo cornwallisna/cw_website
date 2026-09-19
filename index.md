@@ -31,9 +31,9 @@ slides:
 
 grid_style: 4  # 1 for small, 2 for medium, 3 for large
 topics:   
-  - title: Halloween Spooktacular - Friday October 31st, 2026 - 2035 SE 29th Street - 6:30PM
+  - title: Halloween Spooktacular - Saturday October 31st, 2026 - 2035 SE 29th Street - 6:30PM
     img: "images/halloween.png"
-    content: "Thursday, October 31, 2026 starting at 6:30pm arrive at 2035 SE 29th Street, bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume."
+    content: "Saturday, October 31, 2026 starting at 6:30pm arrive at 2035 SE 29th Street, bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume."
 # - title: 2025 Block Party - Saturday May 10th, 2025 (Rainout - Sunday May 11th) - SE 29th Street (Cul de sac) - 4pm - 8pm.
 # - img: "images/blockparty2025.png"  
   - title: Neighborhood Watch
