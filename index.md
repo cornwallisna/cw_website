@@ -68,7 +68,7 @@ Contact us at [cornwallisna@gmail.com](mailto:cornwallisna@gmail.com) for detail
 
 Events of note:
 
-* **UPCOMING MEETING AND EVENTS:**
+* **UPCOMING EVENTS:**
   
 * **Come join us for our Annual Cornwallis Halloween Neighborhood Fun!**
 
@@ -80,12 +80,12 @@ Please contact Suzie 239-747-5652 and let her know if you will be giving out tre
 **6:45pm Let the Fun Begin with Trick or Treating through the neighborhood!!**   
 
 We gladly welcome any volunteers to help or for more info contact  
-Mary Ellen Saba 239 699 0571  mesaba2@gmail.com or
+**Mary Ellen Saba 239 699 0571**  [mesaba2@gmail.com] (mesaba2@gmail.com)
 Jen Barch 813 542 9752   jenbarch@gmail.com
 Suzie 239-747-5652    suzie239villa@gmail.com
 
-
-
+* **UPCOMING MEETINGS:**
+  
 * All General Association meetings are planned to be at the **Birchwood Realty Building** located at **4040 Del Prado Blvd. Starting at 7:00pm.**
 
 * Come along to the meetings and support our association. We welcome and encourage your participation and input
