@@ -30,10 +30,7 @@ slides:
     caption: SE 28th Terrace
 
 grid_style: 4  # 1 for small, 2 for medium, 3 for large
-topics:
-# - title: Cornwallis 2025 Christmas Party
-#   img: "images/xmas2022.png"
-#   content: "Our Christmas Party will take place on Saturday, December 13, 6-10pm at the German # American Club(GASC)."     
+topics:   
 - title: Halloween Spooktacular - Friday October 31st, 2026 - 2035 SE 29th Street - 6:30PM
   img: "images/halloween.png"
   content: "Thursday, October 31, 2025 starting at 6:30pm arrive at 2035 SE 29th Street, bring your chairs and visit with neighbors. Come dressed to impress in your best Halloween costume."
